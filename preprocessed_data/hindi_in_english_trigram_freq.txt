@@ -4066,7 +4066,6 @@ abg : 2
  uk : 2
  uh : 2
  uf : 2
- s  : 2
  rr : 2
  pt : 2
  pl : 2
@@ -5165,56 +5164,40 @@ abm : 1
  yy : 1
  yr : 1
  yh : 1
- y  : 1
  ws : 1
- v  : 1
  uy : 1
  ui : 1
  ua : 1
- u  : 1
  tw : 1
  ts : 1
- t  : 1
  sk : 1
  sj : 1
  rt : 1
  rp : 1
  rj : 1
  rg : 1
- r  : 1
  qe : 1
  ps : 1
  pm : 1
  pc : 1
- p  : 1
  ot : 1
  op : 1
  ok : 1
  oj : 1
  oc : 1
- o  : 1
  nr : 1
- n  : 1
  mm : 1
- m  : 1
  ld : 1
- l  : 1
  kt : 1
  kl : 1
  kj : 1
- k  : 1
- j  : 1
  if : 1
  ie : 1
- i  : 1
  hn : 1
  hh : 1
- h  : 1
  gl : 1
- g  : 1
  fm : 1
  fh : 1
- f  : 1
  ex : 1
  ew : 1
  et : 1
@@ -5223,14 +5206,10 @@ abm : 1
  ed : 1
  ec : 1
  eb : 1
- e  : 1
  dl : 1
  dg : 1
  dd : 1
- d  : 1
  cb : 1
  bs : 1
  bd : 1
  bb : 1
- b  : 1
- a  : 1
