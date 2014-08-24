@@ -1,5 +1,6 @@
 """
-Sample n-gram extraction tool
+Author: Saimadhav Heblikar <saimadhavheblikar@gmail.com>
+n-gram extraction tool
 Uses nltk.
 """
 
@@ -8,7 +9,7 @@ from nltk.util import ngrams
 from nltk import FreqDist
 
 
-def ngram_extractor(n, file_='words.txt'):
+def character_ngram_extractor(n, file_='words.txt'):
     words = []
     ngram_list = []
     with open(file_) as f:  # words.txt in preprocessed_data folder
@@ -45,5 +46,7 @@ if __name__ == '__main__':
         print 'Format: python ngram_extractor.py <input-file> n'
         sys.exit(0)
     else:
-        for ngram, freq in ngram_extractor(int(sys.argv[2]), sys.argv[1]):
+        file_ = sys.argv[1]
+        n = int(sys.argv[2])
+        for ngram, freq in character_ngram_extractor(n, file_):
             print ''.join(ngram), ":", freq
