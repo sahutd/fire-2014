@@ -1,0 +1,4575 @@
+aan  : 727
+ cha : 619
+ana  : 510
+ane  : 466
+ein  : 417
+aar  : 373
+ chh : 373
+ati  : 360
+aye  : 335
+iya  : 334
+ate  : 331
+ata  : 330
+nge  : 321
+naa  : 320
+ baa : 315
+ari  : 310
+ sam : 298
+yaa  : 289
+taa  : 286
+ngi  : 283
+yon  : 275
+ jaa : 274
+aya  : 264
+ chu : 262
+ani  : 258
+ par : 254
+ bha : 248
+ega  : 246
+ara  : 239
+ maa : 237
+ kar : 236
+ ban : 231
+kar  : 228
+egi  : 228
+ake  : 219
+gaa  : 218
+ saa : 217
+ kaa : 212
+ron  : 211
+nga  : 209
+ man : 207
+uun  : 200
+are  : 200
+oon  : 199
+ bad : 196
+ale  : 194
+ mus : 192
+ san : 191
+ kha : 190
+ bar : 190
+raa  : 188
+ala  : 188
+ sha : 186
+ paa : 184
+ayi  : 183
+ bah : 181
+ali  : 173
+ naa : 170
+laa  : 165
+haa  : 164
+ mah : 164
+ raa : 162
+aai  : 159
+non  : 158
+ jhu : 156
+ pra : 151
+ pah : 150
+ sun : 149
+yan  : 147
+ dar : 141
+lon  : 138
+ chi : 138
+ dil : 136
+han  : 135
+iye  : 134
+ sar : 134
+oge  : 131
+ gha : 131
+ mil : 130
+ daa : 129
+ lag : 126
+ kah : 125
+ jal : 125
+hon  : 124
+ tar : 123
+aao  : 122
+ khi : 122
+yen  : 120
+ laa : 120
+ bat : 120
+ dha : 116
+ khu : 114
+ bhu : 111
+ saj : 106
+ mar : 106
+ jag : 106
+ton  : 105
+ meh : 105
+ gaa : 105
+ dik : 105
+tii  : 103
+ tad : 101
+ sah : 101
+ rah : 101
+har  : 97
+aon  : 97
+ taa : 97
+ sat : 96
+aam  : 95
+aal  : 95
+daa  : 94
+ uth : 94
+aae  : 93
+rii  : 92
+gii  : 91
+ ham : 91
+ haa : 90
+aat  : 89
+ pat : 87
+ dek : 87
+ cho : 87
+aro  : 85
+ dee : 85
+ bac : 85
+ jha : 84
+ bic : 84
+aun  : 83
+kaa  : 81
+ jan : 81
+ bas : 81
+adi  : 80
+ada  : 80
+ nik : 80
+ kal : 80
+ beh : 80
+rat  : 79
+ tak : 78
+ shi : 78
+ lah : 78
+ kam : 78
+ gir : 78
+ pal : 76
+ pad : 76
+gee  : 75
+don  : 75
+ has : 75
+ vaa : 74
+ ran : 73
+ mit : 73
+ aas : 73
+iyo  : 72
+ mas : 72
+ lad : 72
+ gun : 72
+ aan : 72
+lii  : 71
+aen  : 71
+ gar : 71
+ bul : 71
+ade  : 70
+ sad : 70
+ nir : 70
+ mat : 70
+ har : 70
+een  : 69
+ sul : 69
+ kis : 69
+ kho : 69
+ kan : 69
+ bai : 69
+ava  : 68
+ mac : 67
+pan  : 65
+aas  : 65
+ kat : 65
+aad  : 64
+ peh : 64
+ han : 64
+ran  : 63
+aka  : 63
+aah  : 63
+ sak : 63
+ poo : 63
+ bhi : 63
+ren  : 62
+ khe : 62
+ guz : 62
+ bal : 62
+ baj : 62
+ adh : 62
+ten  : 61
+asi  : 61
+ano  : 61
+ hum : 61
+ buj : 61
+ree  : 60
+che  : 60
+ uda : 60
+ pan : 60
+ maj : 60
+ mad : 60
+ ghu : 60
+maa  : 59
+aab  : 59
+ pur : 58
+ far : 57
+ bol : 57
+ nib : 56
+ lut : 56
+ gul : 56
+ama  : 55
+ sur : 55
+ mur : 55
+ muk : 55
+ doo : 55
+ ang : 55
+ogi  : 54
+cha  : 54
+ ras : 54
+ naz : 54
+ gan : 54
+ram  : 53
+aki  : 53
+ jho : 53
+ bit : 53
+tar  : 52
+nii  : 52
+hen  : 52
+ tan : 52
+ pak : 52
+ pai : 52
+vaa  : 51
+tha  : 51
+ tum : 51
+mon  : 50
+ila  : 50
+ ruk : 50
+ che : 50
+thi  : 49
+tee  : 49
+ile  : 49
+hal  : 49
+ase  : 49
+ uta : 49
+ sik : 49
+ jin : 49
+ and : 49
+mat  : 48
+aaz  : 48
+ waa : 48
+ rak : 48
+ bik : 48
+ bek : 48
+dhi  : 47
+alo  : 47
+ keh : 47
+van  : 46
+oor  : 46
+hin  : 46
+ahi  : 46
+ thu : 46
+ sab : 46
+ raj : 46
+ nis : 46
+sha  : 45
+man  : 45
+hii  : 45
+dha  : 45
+ave  : 45
+aay  : 45
+ puu : 45
+ phi : 45
+ jee : 45
+ duu : 45
+ duk : 45
+ing  : 44
+dar  : 44
+and  : 44
+ soc : 44
+ see : 44
+ pya : 44
+ pac : 44
+kii  : 43
+ami  : 43
+ leh : 43
+ hal : 43
+ dhu : 43
+ bee : 43
+ini  : 42
+hti  : 42
+ yaa : 42
+ ula : 42
+ reh : 42
+ pee : 42
+ nag : 42
+ hat : 42
+uri  : 41
+ori  : 41
+len  : 41
+ath  : 41
+agi  : 41
+ rac : 41
+ phu : 41
+shi  : 40
+saa  : 40
+hak  : 40
+gar  : 40
+ vid : 40
+ sin : 40
+ muj : 40
+ kas : 40
+ bho : 40
+ aay : 40
+var  : 39
+ish  : 39
+ tod : 39
+ jam : 39
+ gal : 39
+tri  : 38
+kon  : 38
+ina  : 38
+hne  : 38
+hat  : 38
+chi  : 38
+ang  : 38
+ako  : 38
+aii  : 38
+aaj  : 38
+ swa : 38
+ puk : 38
+ lik : 38
+yee  : 37
+lee  : 37
+hta  : 37
+bar  : 37
+aha  : 37
+ tha : 37
+ gho : 37
+ dus : 37
+ dho : 37
+ion  : 36
+dan  : 36
+ayo  : 36
+ sal : 36
+ nig : 36
+ mul : 36
+ mal : 36
+ lal : 36
+ bhe : 36
+ ana : 36
+iin  : 35
+ tal : 35
+ jis : 35
+nda  : 34
+kha  : 34
+jan  : 34
+ela  : 34
+bon  : 34
+baa  : 34
+asa  : 34
+aji  : 34
+ vis : 34
+ tap : 34
+ nah : 34
+ aaz : 34
+vat  : 33
+tan  : 33
+ndi  : 33
+kta  : 33
+ita  : 33
+hee  : 33
+ena  : 33
+eli  : 33
+eer  : 33
+ nas : 33
+ kad : 33
+ abh : 33
+ aar : 33
+son  : 32
+jaa  : 32
+dii  : 32
+ tuj : 32
+ sit : 32
+ seh : 32
+ mai : 32
+ aak : 32
+waa  : 31
+uur  : 31
+rta  : 31
+men  : 31
+ili  : 31
+hna  : 31
+ere  : 31
+ suu : 31
+ sho : 31
+ rus : 31
+ mun : 31
+ moh : 31
+ bis : 31
+yat  : 30
+wan  : 30
+ore  : 30
+ika  : 30
+hun  : 30
+ham  : 30
+ele  : 30
+ var : 30
+ sap : 30
+ sai : 30
+ ruu : 30
+ rul : 30
+ rok : 30
+ nac : 30
+ dol : 30
+ das : 30
+ine  : 29
+hit  : 29
+gan  : 29
+esh  : 29
+era  : 29
+ zin : 29
+ zar : 29
+ vir : 29
+ soo : 29
+ jhi : 29
+ dag : 29
+ big : 29
+ bet : 29
+one  : 28
+lan  : 28
+lam  : 28
+khi  : 28
+hya  : 28
+ain  : 28
+abi  : 28
+ pas : 28
+ kud : 28
+ kit : 28
+ jat : 28
+ ita : 28
+ int : 28
+ doh : 28
+ bun : 28
+ apa : 28
+tra  : 27
+sar  : 27
+khe  : 27
+ida  : 27
+hte  : 27
+gon  : 27
+den  : 27
+aga  : 27
+ uja : 27
+ tam : 27
+ mau : 27
+ kab : 27
+ haw : 27
+ dub : 27
+ diw : 27
+ ach : 27
+ aap : 27
+rti  : 26
+rna  : 26
+ole  : 26
+nti  : 26
+kat  : 26
+kam  : 26
+eta  : 26
+dam  : 26
+awa  : 26
+aja  : 26
+ too : 26
+ suh : 26
+ shr : 26
+ ram : 26
+ pay : 26
+ lam : 26
+ div : 26
+ dev : 26
+ bec : 26
+ ala : 26
+the  : 25
+lta  : 25
+lat  : 25
+her  : 25
+hai  : 25
+eti  : 25
+ tuu : 25
+ tas : 25
+ tab : 25
+ shu : 25
+ rup : 25
+ roo : 25
+ pic : 25
+ pap : 25
+ mud : 25
+ lak : 25
+ jay : 25
+ hil : 25
+ dab : 25
+ bed : 25
+ aaj : 25
+ aad : 25
+sii  : 24
+see  : 24
+nen  : 24
+lti  : 24
+ahe  : 24
+ado  : 24
+ she : 24
+ sac : 24
+ qaa : 24
+ hin : 24
+ fas : 24
+ dhi : 24
+ boo : 24
+ bir : 24
+ anu : 24
+yak  : 23
+tey  : 23
+tam  : 23
+san  : 23
+oti  : 23
+oli  : 23
+nna  : 23
+nke  : 23
+nde  : 23
+had  : 23
+bha  : 23
+ sav : 23
+ sau : 23
+ pil : 23
+ kav : 23
+ jud : 23
+ hon : 23
+ hav : 23
+ gah : 23
+ dun : 23
+ bes : 23
+ ash : 23
+yam  : 22
+rne  : 22
+ota  : 22
+ney  : 22
+nch  : 22
+kal  : 22
+iti  : 22
+hra  : 22
+dhe  : 22
+ash  : 22
+ant  : 22
+ame  : 22
+aav  : 22
+aag  : 22
+ vya : 22
+ sim : 22
+ sil : 22
+ phe : 22
+ nih : 22
+ nau : 22
+ nar : 22
+ lip : 22
+ kun : 22
+ jiy : 22
+ jad : 22
+ ina : 22
+ hir : 22
+ dii : 22
+ dau : 22
+ bag : 22
+ akh : 22
+war  : 21
+ule  : 21
+sta  : 21
+ote  : 21
+nam  : 21
+mar  : 21
+lne  : 21
+ise  : 21
+ira  : 21
+iki  : 21
+eri  : 21
+ene  : 21
+dra  : 21
+bat  : 21
+avo  : 21
+ato  : 21
+aru  : 21
+aap  : 21
+ zul : 21
+ zam : 21
+ upa : 21
+ taq : 21
+ suk : 21
+ saf : 21
+ rut : 21
+ pig : 21
+ nay : 21
+ faa : 21
+ ara : 21
+ ama : 21
+ ada : 21
+uli  : 20
+ula  : 20
+tta  : 20
+tin  : 20
+tak  : 20
+rey  : 20
+ola  : 20
+lla  : 20
+jhe  : 20
+isi  : 20
+hhe  : 20
+hha  : 20
+aje  : 20
+aba  : 20
+ zaa : 20
+ vic : 20
+ toh : 20
+ sii : 20
+ saw : 20
+ ris : 20
+ puc : 20
+ pre : 20
+ nee : 20
+ may : 20
+ lau : 20
+ jit : 20
+ isa : 20
+ gur : 20
+ gay : 20
+ gav : 20
+ dul : 20
+ beq : 20
+ ank : 20
+yin  : 19
+yal  : 19
+tik  : 19
+tal  : 19
+osh  : 19
+ona  : 19
+nta  : 19
+mal  : 19
+ley  : 19
+kna  : 19
+ire  : 19
+ike  : 19
+hke  : 19
+hik  : 19
+gat  : 19
+ard  : 19
+aak  : 19
+ umm : 19
+ tik : 19
+ son : 19
+ rat : 19
+ rag : 19
+ piy : 19
+ pii : 19
+ muh : 19
+ mod : 19
+ loo : 19
+ lat : 19
+ jaw : 19
+ geh : 19
+ bak : 19
+zar  : 18
+ute  : 18
+una  : 18
+rah  : 18
+pat  : 18
+nka  : 18
+nee  : 18
+lna  : 18
+kho  : 18
+ken  : 18
+eet  : 18
+ban  : 18
+bad  : 18
+aho  : 18
+age  : 18
+ach  : 18
+ vah : 18
+ thi : 18
+ tee : 18
+ sva : 18
+ sth : 18
+ nin : 18
+ nav : 18
+ nam : 18
+ naj : 18
+ min : 18
+ maz : 18
+ luu : 18
+ lub : 18
+ lap : 18
+ kur : 18
+ kin : 18
+ kaj : 18
+ jul : 18
+ jod : 18
+ jap : 18
+ hot : 18
+ hoo : 18
+ gor : 18
+ gin : 18
+ dua : 18
+ dam : 18
+ com : 18
+ bij : 18
+ ata : 18
+ aag : 18
+yii  : 17
+uta  : 17
+ter  : 17
+raj  : 17
+par  : 17
+nte  : 17
+lte  : 17
+lle  : 17
+ith  : 17
+iri  : 17
+hri  : 17
+hil  : 17
+dal  : 17
+cho  : 17
+ape  : 17
+akh  : 17
+ahu  : 17
+ zan : 17
+ yah : 17
+ vee : 17
+ vas : 17
+ usa : 17
+ tol : 17
+ tho : 17
+ ter : 17
+ sub : 17
+ sas : 17
+ rav : 17
+ mot : 17
+ mis : 17
+ kus : 17
+ kai : 17
+ kac : 17
+ jii : 17
+ gud : 17
+ fir : 17
+ dur : 17
+ din : 17
+ bur : 17
+ beg : 17
+ asa : 17
+ anj : 17
+ amb : 17
+ aka : 17
+ aja : 17
+ aav : 17
+ aat : 17
+uti  : 16
+udi  : 16
+run  : 16
+rit  : 16
+pur  : 16
+paa  : 16
+ora  : 16
+oom  : 16
+oda  : 16
+lay  : 16
+lak  : 16
+kti  : 16
+ite  : 16
+hor  : 16
+hoo  : 16
+hir  : 16
+hey  : 16
+azi  : 16
+aza  : 16
+apa  : 16
+anu  : 16
+aaa  : 16
+ van : 16
+ ubh : 16
+ siy : 16
+ pag : 16
+ nii : 16
+ nan : 16
+ nak : 16
+ mam : 16
+ lan : 16
+ kir : 16
+ jav : 16
+ jar : 16
+ ish : 16
+ fra : 16
+ deh : 16
+ dah : 16
+ bil : 16
+ awa : 16
+ ant : 16
+ aga : 16
+ aai : 16
+uon  : 15
+une  : 15
+uda  : 15
+tte  : 15
+tne  : 15
+ras  : 15
+ode  : 15
+nse  : 15
+kne  : 15
+jon  : 15
+gey  : 15
+gal  : 15
+dti  : 15
+ waf : 15
+ uma : 15
+ ulj : 15
+ uch : 15
+ tut : 15
+ the : 15
+ sud : 15
+ sid : 15
+ sev : 15
+ qat : 15
+ pun : 15
+ pri : 15
+ pit : 15
+ pin : 15
+ nya : 15
+ nai : 15
+ mee : 15
+ jab : 15
+ ind : 15
+ haz : 15
+ guj : 15
+ fiz : 15
+ dos : 15
+ dor : 15
+ dis : 15
+ dan : 15
+ dal : 15
+ bid : 15
+ apn : 15
+ aaw : 15
+wat  : 14
+ura  : 14
+tna  : 14
+sti  : 14
+rte  : 14
+pal  : 14
+oni  : 14
+oke  : 14
+mne  : 14
+kan  : 14
+isa  : 14
+ind  : 14
+iir  : 14
+hre  : 14
+ete  : 14
+dna  : 14
+bal  : 14
+ast  : 14
+anv  : 14
+alu  : 14
+ war : 14
+ tuk : 14
+ tit : 14
+ tin : 14
+ sis : 14
+ sir : 14
+ moo : 14
+ mer : 14
+ kau : 14
+ kap : 14
+ jun : 14
+ jum : 14
+ ira : 14
+ hai : 14
+ buu : 14
+ bud : 14
+ bev : 14
+ aha : 14
+ aah : 14
+zaa  : 13
+yya  : 13
+von  : 13
+uch  : 13
+sat  : 13
+qat  : 13
+oye  : 13
+ool  : 13
+nan  : 13
+nak  : 13
+mak  : 13
+mad  : 13
+lli  : 13
+lah  : 13
+kin  : 13
+jhi  : 13
+jha  : 13
+him  : 13
+hhi  : 13
+gin  : 13
+gen  : 13
+eki  : 13
+ege  : 13
+eda  : 13
+aoo  : 13
+ann  : 13
+afa  : 13
+ wal : 13
+ vik : 13
+ unh : 13
+ una : 13
+ ull : 13
+ udh : 13
+ soh : 13
+ roy : 13
+ nit : 13
+ mor : 13
+ mak : 13
+ lok : 13
+ lab : 13
+ koy : 13
+ khw : 13
+ jug : 13
+ goo : 13
+ gad : 13
+ fai : 13
+ buz : 13
+ bin : 13
+ bii : 13
+ bew : 13
+ ber : 13
+ bab : 13
+ ava : 13
+yar  : 12
+ure  : 12
+uni  : 12
+udh  : 12
+uba  : 12
+tti  : 12
+ste  : 12
+sne  : 12
+ske  : 12
+sal  : 12
+pak  : 12
+odi  : 12
+noo  : 12
+nki  : 12
+mma  : 12
+mil  : 12
+lun  : 12
+loo  : 12
+lke  : 12
+lin  : 12
+kte  : 12
+ksh  : 12
+jii  : 12
+hum  : 12
+hni  : 12
+gun  : 12
+gne  : 12
+eva  : 12
+dta  : 12
+dke  : 12
+day  : 12
+bhi  : 12
+bee  : 12
+aur  : 12
+ank  : 12
+ail  : 12
+ago  : 12
+abu  : 12
+ vin : 12
+ vai : 12
+ utt : 12
+ udd : 12
+ tur : 12
+ tir : 12
+ tii : 12
+ sag : 12
+ puj : 12
+ pir : 12
+ nic : 12
+ nat : 12
+ nad : 12
+ muu : 12
+ muq : 12
+ lek : 12
+ kum : 12
+ ksh : 12
+ jog : 12
+ jai : 12
+ jah : 12
+ ins : 12
+ ika : 12
+ hus : 12
+ gum : 12
+ gra : 12
+ gat : 12
+ gam : 12
+ gaj : 12
+ arm : 12
+ afa : 12
+yog  : 11
+ven  : 11
+uum  : 11
+uke  : 11
+tya  : 11
+sse  : 11
+sho  : 11
+rya  : 11
+rin  : 11
+rik  : 11
+rdi  : 11
+rak  : 11
+oyi  : 11
+ome  : 11
+nya  : 11
+nun  : 11
+nne  : 11
+kka  : 11
+kee  : 11
+jar  : 11
+iit  : 11
+ich  : 11
+ian  : 11
+hle  : 11
+ero  : 11
+ent  : 11
+eha  : 11
+eel  : 11
+edi  : 11
+dee  : 11
+dai  : 11
+boo  : 11
+awe  : 11
+avi  : 11
+adh  : 11
+ vit : 11
+ vaf : 11
+ uga : 11
+ qur : 11
+ qas : 11
+ put : 11
+ pha : 11
+ laj : 11
+ kut : 11
+ kay : 11
+ juu : 11
+ jhe : 11
+ hol : 11
+ had : 11
+ gus : 11
+ gop : 11
+ gol : 11
+ gau : 11
+ dew : 11
+ des : 11
+ bel : 11
+ beb : 11
+ ans : 11
+ amr : 11
+ all : 11
+ aao : 11
+zon  : 10
+yun  : 10
+uva  : 10
+uru  : 10
+uno  : 10
+ukh  : 10
+uka  : 10
+tor  : 10
+tke  : 10
+tho  : 10
+sur  : 10
+sum  : 10
+sra  : 10
+sko  : 10
+sht  : 10
+rai  : 10
+rab  : 10
+pta  : 10
+pna  : 10
+oya  : 10
+odh  : 10
+nth  : 10
+ndh  : 10
+nat  : 10
+lim  : 10
+kul  : 10
+jee  : 10
+jal  : 10
+iro  : 10
+ima  : 10
+ien  : 10
+hul  : 10
+hay  : 10
+faa  : 10
+eke  : 10
+eka  : 10
+eeb  : 10
+dun  : 10
+dte  : 10
+dne  : 10
+anj  : 10
+all  : 10
+abo  : 10
+aau  : 10
+aaq  : 10
+ zak : 10
+ yeh : 10
+ wah : 10
+ vri : 10
+ tis : 10
+ tau : 10
+ sum : 10
+ shy : 10
+ rot : 10
+ ron : 10
+ res : 10
+ pro : 10
+ pis : 10
+ neh : 10
+ mic : 10
+ let : 10
+ lar : 10
+ laf : 10
+ lac : 10
+ jyo : 10
+ jub : 10
+ joo : 10
+ hic : 10
+ haq : 10
+ gya : 10
+ gil : 10
+ ghe : 10
+ gee : 10
+ gaw : 10
+ eka : 10
+ duh : 10
+ dhe : 10
+ day : 10
+ dak : 10
+ bra : 10
+ ben : 10
+ bem : 10
+ app : 10
+ adi : 10
+ acc : 10
+ aam : 10
+ aal : 10
+ aab : 10
+uwa  : 9
+uul  : 9
+uaa  : 9
+ssi  : 9
+she  : 9
+sen  : 9
+sam  : 9
+rma  : 9
+rda  : 9
+qon  : 9
+ppa  : 9
+pne  : 9
+oun  : 9
+ood  : 9
+olo  : 9
+oin  : 9
+odo  : 9
+oba  : 9
+nni  : 9
+nik  : 9
+mta  : 9
+mii  : 9
+mba  : 9
+lar  : 9
+iha  : 9
+idi  : 9
+hek  : 9
+has  : 9
+hab  : 9
+eye  : 9
+ekh  : 9
+eek  : 9
+ede  : 9
+dir  : 9
+din  : 9
+dho  : 9
+der  : 9
+dat  : 9
+chh  : 9
+bin  : 9
+ark  : 9
+abe  : 9
+ zal : 9
+ zah : 9
+ yad : 9
+ vak : 9
+ ung : 9
+ uji : 9
+ tul : 9
+ tra : 9
+ tim : 9
+ tel : 9
+ tat : 9
+ tai : 9
+ sus : 9
+ sta : 9
+ sip : 9
+ run : 9
+ rab : 9
+ pau : 9
+ niv : 9
+ net : 9
+ mub : 9
+ men : 9
+ len : 9
+ kul : 9
+ kuc : 9
+ kri : 9
+ kot : 9
+ kol : 9
+ jus : 9
+ jaz : 9
+ ink : 9
+ ila : 9
+ him : 9
+ gov : 9
+ fur : 9
+ fal : 9
+ diy : 9
+ dig : 9
+ det : 9
+ bim : 9
+ bam : 9
+ ame : 9
+ ake : 9
+ afs : 9
+ aba : 9
+ aau : 9
+uut  : 8
+uus  : 8
+usi  : 8
+ush  : 8
+umi  : 8
+uma  : 8
+uji  : 8
+uje  : 8
+sri  : 8
+ski  : 8
+ska  : 8
+sak  : 8
+rzi  : 8
+pti  : 8
+pas  : 8
+oro  : 8
+oot  : 8
+oos  : 8
+oob  : 8
+oko  : 8
+oki  : 8
+oka  : 8
+ohe  : 8
+nko  : 8
+nhi  : 8
+min  : 8
+lal  : 8
+lab  : 8
+ist  : 8
+ilo  : 8
+ije  : 8
+hua  : 8
+hki  : 8
+hel  : 8
+gta  : 8
+gna  : 8
+gli  : 8
+gle  : 8
+gam  : 8
+eya  : 8
+ese  : 8
+ees  : 8
+eed  : 8
+dhu  : 8
+des  : 8
+ddh  : 8
+buu  : 8
+bul  : 8
+bil  : 8
+bii  : 8
+arm  : 8
+api  : 8
+amo  : 8
+abh  : 8
+ yar : 8
+ yak : 8
+ wir : 8
+ val : 8
+ utr : 8
+ tya : 8
+ tor : 8
+ tok : 8
+ suj : 8
+ say : 8
+ rud : 8
+ rij : 8
+ raf : 8
+ qis : 8
+ qar : 8
+ pul : 8
+ pos : 8
+ por : 8
+ pol : 8
+ nim : 8
+ nil : 8
+ mum : 8
+ mua : 8
+ mon : 8
+ mik : 8
+ mag : 8
+ log : 8
+ lee : 8
+ lay : 8
+ kya : 8
+ kwa : 8
+ kuu : 8
+ kos : 8
+ kon : 8
+ kil : 8
+ ken : 8
+ jut : 8
+ jor : 8
+ itt : 8
+ inh : 8
+ huu : 8
+ hun : 8
+ huk : 8
+ hoy : 8
+ hos : 8
+ her : 8
+ hau : 8
+ git : 8
+ gai : 8
+ dou : 8
+ don : 8
+ den : 8
+ bri : 8
+ baz : 8
+ bay : 8
+ aza : 8
+ ano : 8
+ ami : 8
+ ahm : 8
+ aae : 8
+yad  : 7
+won  : 7
+wab  : 7
+unu  : 7
+uja  : 7
+uhi  : 7
+tum  : 7
+sya  : 7
+ssa  : 7
+sme  : 7
+sin  : 7
+ruu  : 7
+rur  : 7
+rra  : 7
+raz  : 7
+rar  : 7
+rao  : 7
+pon  : 7
+pke  : 7
+pad  : 7
+ohi  : 7
+oga  : 7
+nsa  : 7
+nha  : 7
+mti  : 7
+mte  : 7
+mla  : 7
+mke  : 7
+mir  : 7
+mbh  : 7
+mbe  : 7
+may  : 7
+mag  : 7
+llu  : 7
+lki  : 7
+lie  : 7
+lha  : 7
+lai  : 7
+kun  : 7
+kra  : 7
+kke  : 7
+kil  : 7
+ket  : 7
+kad  : 7
+jya  : 7
+ino  : 7
+ill  : 7
+hut  : 7
+huk  : 7
+hme  : 7
+hla  : 7
+hko  : 7
+hka  : 7
+hao  : 7
+hah  : 7
+gti  : 7
+fil  : 7
+ess  : 7
+eni  : 7
+elo  : 7
+eja  : 7
+ehi  : 7
+dil  : 7
+dak  : 7
+ber  : 7
+ass  : 7
+arz  : 7
+ans  : 7
+aju  : 7
+air  : 7
+afi  : 7
+adu  : 7
+ zab : 7
+ yat : 7
+ was : 7
+ wan : 7
+ wad : 7
+ vii : 7
+ ude : 7
+ tun : 7
+ til : 7
+ tij : 7
+ tih : 7
+ ten : 7
+ teh : 7
+ ted : 7
+ sri : 7
+ sot : 7
+ sol : 7
+ sen : 7
+ rub : 7
+ rik : 7
+ raw : 7
+ qad : 7
+ pho : 7
+ pec : 7
+ odh : 7
+ niy : 7
+ nid : 7
+ naf : 7
+ mos : 7
+ mir : 7
+ med : 7
+ lor : 7
+ lin : 7
+ kyo : 7
+ kor : 7
+ kij : 7
+ jiv : 7
+ jil : 7
+ jao : 7
+ isk : 7
+ ilt : 7
+ hul : 7
+ his : 7
+ hee : 7
+ hak : 7
+ haj : 7
+ ghi : 7
+ foo : 7
+ fil : 7
+ fan : 7
+ dwa : 7
+ duj : 7
+ dra : 7
+ dov : 7
+ dir : 7
+ dip : 7
+ der : 7
+ daw : 7
+ but : 7
+ bih : 7
+ bhr : 7
+ bej : 7
+ aye : 7
+was  : 6
+wal  : 6
+vas  : 6
+vam  : 6
+val  : 6
+uud  : 6
+uth  : 6
+ume  : 6
+ulo  : 6
+ude  : 6
+til  : 6
+tab  : 6
+sre  : 6
+sna  : 6
+sla  : 6
+sil  : 6
+sik  : 6
+sad  : 6
+rsh  : 6
+rre  : 6
+rni  : 6
+rke  : 6
+ris  : 6
+rgi  : 6
+res  : 6
+pit  : 6
+pai  : 6
+oop  : 6
+oji  : 6
+oja  : 6
+nsi  : 6
+nar  : 6
+nal  : 6
+nai  : 6
+nah  : 6
+mko  : 6
+mka  : 6
+mit  : 6
+lis  : 6
+lao  : 6
+kum  : 6
+kri  : 6
+kki  : 6
+kit  : 6
+kas  : 6
+jit  : 6
+jie  : 6
+ity  : 6
+itr  : 6
+inn  : 6
+iji  : 6
+ija  : 6
+iim  : 6
+idh  : 6
+huu  : 6
+hur  : 6
+hup  : 6
+hot  : 6
+hmi  : 6
+hli  : 6
+his  : 6
+het  : 6
+hda  : 6
+hav  : 6
+hag  : 6
+gya  : 6
+gir  : 6
+gda  : 6
+fon  : 6
+fir  : 6
+fat  : 6
+far  : 6
+esi  : 6
+eji  : 6
+eje  : 6
+ehe  : 6
+eem  : 6
+edo  : 6
+dur  : 6
+dev  : 6
+chu  : 6
+bua  : 6
+azu  : 6
+aso  : 6
+arr  : 6
+arn  : 6
+aku  : 6
+ajh  : 6
+agh  : 6
+aaw  : 6
+aaf  : 6
+ zur : 6
+ zub : 6
+ yuu : 6
+ viv : 6
+ vip : 6
+ vil : 6
+ vib : 6
+ vay : 6
+ vaj : 6
+ uss : 6
+ usk : 6
+ usi : 6
+ upk : 6
+ unk : 6
+ unc : 6
+ umr : 6
+ tuf : 6
+ tot : 6
+ thh : 6
+ tah : 6
+ sto : 6
+ ste : 6
+ som : 6
+ saz : 6
+ ruh : 6
+ ros : 6
+ rog : 6
+ rit : 6
+ ree : 6
+ pus : 6
+ pot : 6
+ ped : 6
+ pav : 6
+ not : 6
+ muz : 6
+ muf : 6
+ mou : 6
+ mei : 6
+ meg : 6
+ luk : 6
+ lil : 6
+ lij : 6
+ lii : 6
+ leg : 6
+ las : 6
+ lai : 6
+ kuk : 6
+ koh : 6
+ khy : 6
+ kes : 6
+ juk : 6
+ jeh : 6
+ imt : 6
+ hur : 6
+ hog : 6
+ hij : 6
+ hel : 6
+ guu : 6
+ gag : 6
+ fer : 6
+ duw : 6
+ dim : 6
+ dij : 6
+ did : 6
+ dhy : 6
+ deg : 6
+ ded : 6
+ daf : 6
+ bor : 6
+ bib : 6
+ bez : 6
+ aya : 6
+ any : 6
+ agg : 6
+zor  : 5
+zam  : 5
+yda  : 5
+wri  : 5
+wah  : 5
+vir  : 5
+uub  : 5
+urr  : 5
+ung  : 5
+und  : 5
+uki  : 5
+ujh  : 5
+tva  : 5
+tre  : 5
+tni  : 5
+tat  : 5
+tao  : 5
+swa  : 5
+sun  : 5
+sth  : 5
+soo  : 5
+sle  : 5
+sir  : 5
+sim  : 5
+shq  : 5
+shk  : 5
+sey  : 5
+roh  : 5
+rji  : 5
+rja  : 5
+rga  : 5
+ral  : 5
+pun  : 5
+pii  : 5
+pee  : 5
+oto  : 5
+ose  : 5
+ope  : 5
+ook  : 5
+ono  : 5
+och  : 5
+nuu  : 5
+num  : 5
+nsh  : 5
+nil  : 5
+ndr  : 5
+ndo  : 5
+nav  : 5
+nao  : 5
+mol  : 5
+mna  : 5
+mmi  : 5
+mme  : 5
+mee  : 5
+mai  : 5
+luu  : 5
+lhe  : 5
+lav  : 5
+kur  : 5
+kor  : 5
+kko  : 5
+ker  : 5
+jne  : 5
+jab  : 5
+iza  : 5
+ikh  : 5
+ijo  : 5
+iib  : 5
+igi  : 5
+ice  : 5
+ibi  : 5
+hod  : 5
+hie  : 5
+hho  : 5
+hed  : 5
+hch  : 5
+gha  : 5
+gdi  : 5
+gai  : 5
+fan  : 5
+eno  : 5
+end  : 5
+ejo  : 5
+eez  : 5
+duu  : 5
+doo  : 5
+dli  : 5
+dik  : 5
+bah  : 5
+art  : 5
+arj  : 5
+arg  : 5
+aee  : 5
+ zid : 5
+ zeh : 5
+ you : 5
+ yan : 5
+ wor : 5
+ wai : 5
+ ved : 5
+ vad : 5
+ utp : 5
+ taj : 5
+ suc : 5
+ soy : 5
+ sch : 5
+ rou : 5
+ rom : 5
+ roe : 5
+ rim : 5
+ rev : 5
+ rel : 5
+ rek : 5
+ raz : 5
+ ral : 5
+ rai : 5
+ rad : 5
+ qay : 5
+ pon : 5
+ poc : 5
+ pes : 5
+ nyo : 5
+ noo : 5
+ naw : 5
+ mug : 5
+ miy : 5
+ mii : 5
+ mha : 5
+ mem : 5
+ mel : 5
+ kyu : 5
+ kra : 5
+ koo : 5
+ kok : 5
+ kee : 5
+ ked : 5
+ kaw : 5
+ kaf : 5
+ jya : 5
+ jva : 5
+ jur : 5
+ jas : 5
+ itr : 5
+ ith : 5
+ isi : 5
+ ikk : 5
+ iba : 5
+ huy : 5
+ hay : 5
+ gup : 5
+ guf : 5
+ gub : 5
+ god : 5
+ gen : 5
+ gaz : 5
+ dva : 5
+ dri : 5
+ dop : 5
+ dhr : 5
+ dav : 5
+ col : 5
+ bya : 5
+ bot : 5
+ bon : 5
+ bep : 5
+ bav : 5
+ ath : 5
+ asi : 5
+ arr : 5
+ alb : 5
+ ais : 5
+ aaf : 5
+zuu  : 4
+zoo  : 4
+zir  : 4
+zan  : 4
+yta  : 4
+yas  : 4
+xaa  : 4
+wai  : 4
+vit  : 4
+ver  : 4
+uze  : 4
+uyi  : 4
+uye  : 4
+ust  : 4
+use  : 4
+upa  : 4
+uku  : 4
+ukt  : 4
+uhe  : 4
+ubi  : 4
+uan  : 4
+tur  : 4
+tro  : 4
+tir  : 4
+tel  : 4
+tch  : 4
+sva  : 4
+suu  : 4
+sia  : 4
+sas  : 4
+rva  : 4
+rut  : 4
+rop  : 4
+rmi  : 4
+rim  : 4
+rij  : 4
+rie  : 4
+rde  : 4
+rch  : 4
+rav  : 4
+raq  : 4
+qii  : 4
+pte  : 4
+ppi  : 4
+pki  : 4
+phy  : 4
+per  : 4
+ove  : 4
+osa  : 4
+ooh  : 4
+ont  : 4
+onn  : 4
+ond  : 4
+oho  : 4
+oha  : 4
+obe  : 4
+nva  : 4
+ntu  : 4
+nto  : 4
+nso  : 4
+npe  : 4
+noh  : 4
+nme  : 4
+nji  : 4
+njh  : 4
+nje  : 4
+nja  : 4
+nhe  : 4
+ngo  : 4
+ngh  : 4
+nce  : 4
+nad  : 4
+mun  : 4
+mre  : 4
+mpe  : 4
+mey  : 4
+mam  : 4
+lva  : 4
+lma  : 4
+lka  : 4
+laj  : 4
+lae  : 4
+kya  : 4
+kdo  : 4
+jut  : 4
+jul  : 4
+juk  : 4
+jri  : 4
+jre  : 4
+jra  : 4
+jpa  : 4
+jna  : 4
+jko  : 4
+jho  : 4
+jeh  : 4
+jay  : 4
+jat  : 4
+jam  : 4
+jah  : 4
+itt  : 4
+ito  : 4
+ipa  : 4
+ige  : 4
+iga  : 4
+hud  : 4
+hid  : 4
+hde  : 4
+hae  : 4
+gte  : 4
+gla  : 4
+git  : 4
+gad  : 4
+fal  : 4
+ewa  : 4
+enk  : 4
+eme  : 4
+ema  : 4
+ell  : 4
+ehu  : 4
+eep  : 4
+eef  : 4
+ech  : 4
+dri  : 4
+dol  : 4
+dit  : 4
+dgi  : 4
+dey  : 4
+ddi  : 4
+dav  : 4
+buk  : 4
+bse  : 4
+ble  : 4
+bit  : 4
+bas  : 4
+azo  : 4
+awo  : 4
+aut  : 4
+aul  : 4
+asu  : 4
+asl  : 4
+arq  : 4
+aqt  : 4
+anp  : 4
+alp  : 4
+akt  : 4
+ajo  : 4
+ais  : 4
+ yuv : 4
+ yoj : 4
+ yog : 4
+ yam : 4
+ woh : 4
+ wic : 4
+ waj : 4
+ vud : 4
+ vot : 4
+ vim : 4
+ vij : 4
+ vih : 4
+ vek : 4
+ vat : 4
+ uts : 4
+ use : 4
+ uni : 4
+ ume : 4
+ udt : 4
+ tuh : 4
+ tou : 4
+ tip : 4
+ tez : 4
+ tay : 4
+ tag : 4
+ suv : 4
+ sut : 4
+ sup : 4
+ sug : 4
+ sti : 4
+ spa : 4
+ ser : 4
+ sej : 4
+ rum : 4
+ ruj : 4
+ rin : 4
+ rew : 4
+ ret : 4
+ rec : 4
+ qub : 4
+ puh : 4
+ prs : 4
+ poh : 4
+ pip : 4
+ pik : 4
+ pih : 4
+ pid : 4
+ pet : 4
+ pao : 4
+ num : 4
+ nuk : 4
+ nek : 4
+ nal : 4
+ mut : 4
+ mae : 4
+ lun : 4
+ loc : 4
+ liy : 4
+ lib : 4
+ lel : 4
+ kva : 4
+ kuh : 4
+ kom : 4
+ kiz : 4
+ kiy : 4
+ kii : 4
+ kid : 4
+ khv : 4
+ kaz : 4
+ jot : 4
+ jij : 4
+ jeb : 4
+ jau : 4
+ jae : 4
+ itn : 4
+ iss : 4
+ ima : 4
+ ikh : 4
+ idh : 4
+ huz : 4
+ huw : 4
+ huq : 4
+ hue : 4
+ hua : 4
+ hov : 4
+ hom : 4
+ hok : 4
+ hit : 4
+ hii : 4
+ hab : 4
+ gva : 4
+ gos : 4
+ gii : 4
+ ges : 4
+ ful : 4
+ fit : 4
+ fiq : 4
+ fid : 4
+ ekj : 4
+ ehs : 4
+ eha : 4
+ duv : 4
+ dum : 4
+ dug : 4
+ dru : 4
+ dog : 4
+ dad : 4
+ car : 4
+ boy : 4
+ boj : 4
+ boh : 4
+ bei : 4
+ ayo : 4
+ aws : 4
+ avs : 4
+ aus : 4
+ aty : 4
+ asu : 4
+ ass : 4
+ asm : 4
+ apr : 4
+ ann : 4
+ anc : 4
+ aji : 4
+ aje : 4
+ ait : 4
+ ahe : 4
+zii  : 3
+zid  : 3
+zat  : 3
+yut  : 3
+yek  : 3
+yay  : 3
+yai  : 3
+yah  : 3
+wre  : 3
+vri  : 3
+vre  : 3
+voh  : 3
+ved  : 3
+vad  : 3
+uvi  : 3
+uuk  : 3
+uuh  : 3
+usa  : 3
+urn  : 3
+unk  : 3
+unj  : 3
+unh  : 3
+umm  : 3
+uii  : 3
+uha  : 3
+ubh  : 3
+twa  : 3
+tut  : 3
+tun  : 3
+tto  : 3
+tol  : 3
+tma  : 3
+tli  : 3
+tki  : 3
+tka  : 3
+tit  : 3
+tib  : 3
+thu  : 3
+tav  : 3
+sus  : 3
+sto  : 3
+spe  : 3
+sos  : 3
+sor  : 3
+smo  : 3
+sib  : 3
+shu  : 3
+shn  : 3
+ses  : 3
+sco  : 3
+say  : 3
+sav  : 3
+rvi  : 3
+rth  : 3
+rsi  : 3
+rse  : 3
+roz  : 3
+roo  : 3
+rle  : 3
+rir  : 3
+rib  : 3
+rha  : 3
+rez  : 3
+ret  : 3
+rel  : 3
+rag  : 3
+raf  : 3
+rad  : 3
+psi  : 3
+ppe  : 3
+pni  : 3
+pis  : 3
+out  : 3
+our  : 3
+ost  : 3
+osi  : 3
+ory  : 3
+oru  : 3
+ort  : 3
+ord  : 3
+oma  : 3
+okh  : 3
+oen  : 3
+obi  : 3
+nyo  : 3
+nwa  : 3
+nve  : 3
+nus  : 3
+nur  : 3
+nsu  : 3
+niy  : 3
+nit  : 3
+nis  : 3
+nia  : 3
+ndu  : 3
+nds  : 3
+nay  : 3
+naj  : 3
+mse  : 3
+mro  : 3
+mri  : 3
+mra  : 3
+mik  : 3
+mhe  : 3
+mha  : 3
+med  : 3
+mbu  : 3
+mas  : 3
+mah  : 3
+lwa  : 3
+luk  : 3
+lmi  : 3
+llo  : 3
+lib  : 3
+lgi  : 3
+ldi  : 3
+lag  : 3
+kve  : 3
+kli  : 3
+kla  : 3
+key  : 3
+kde  : 3
+kda  : 3
+juu  : 3
+jum  : 3
+jti  : 3
+jte  : 3
+jor  : 3
+jni  : 3
+jin  : 3
+jik  : 3
+jde  : 3
+jai  : 3
+jag  : 3
+jad  : 3
+ive  : 3
+ium  : 3
+itz  : 3
+itu  : 3
+iso  : 3
+ism  : 3
+ipi  : 3
+ins  : 3
+ily  : 3
+ikr  : 3
+iko  : 3
+iip  : 3
+ide  : 3
+iba  : 3
+ial  : 3
+hwa  : 3
+hus  : 3
+hui  : 3
+hue  : 3
+hub  : 3
+hto  : 3
+hro  : 3
+hop  : 3
+hol  : 3
+hok  : 3
+hoi  : 3
+hoe  : 3
+hma  : 3
+hiv  : 3
+hes  : 3
+gri  : 3
+gni  : 3
+gho  : 3
+ghi  : 3
+ghe  : 3
+gde  : 3
+gaz  : 3
+gah  : 3
+ful  : 3
+fen  : 3
+fas  : 3
+ezi  : 3
+evi  : 3
+eve  : 3
+eto  : 3
+eth  : 3
+ery  : 3
+eru  : 3
+ers  : 3
+epi  : 3
+epe  : 3
+enu  : 3
+eng  : 3
+eko  : 3
+edh  : 3
+ect  : 3
+dum  : 3
+dul  : 3
+dre  : 3
+dle  : 3
+dki  : 3
+dka  : 3
+dia  : 3
+deh  : 3
+dde  : 3
+das  : 3
+dah  : 3
+dad  : 3
+dab  : 3
+cer  : 3
+cal  : 3
+bud  : 3
+bir  : 3
+bik  : 3
+bhu  : 3
+ben  : 3
+bam  : 3
+bak  : 3
+bai  : 3
+aze  : 3
+aus  : 3
+ask  : 3
+arv  : 3
+ars  : 3
+arh  : 3
+arf  : 3
+aqi  : 3
+apt  : 3
+any  : 3
+anw  : 3
+anh  : 3
+amb  : 3
+aid  : 3
+afe  : 3
+ael  : 3
+add  : 3
+ace  : 3
+ zya : 3
+ zor : 3
+ zis : 3
+ zil : 3
+ yun : 3
+ yug : 3
+ yoo : 3
+ yaq : 3
+ wis : 3
+ wat : 3
+ vus : 3
+ vun : 3
+ vra : 3
+ voh : 3
+ vaq : 3
+ utn : 3
+ usu : 3
+ ura : 3
+ upl : 3
+ uns : 3
+ unn : 3
+ unm : 3
+ ult : 3
+ ujl : 3
+ ujd : 3
+ udy : 3
+ udu : 3
+ tyo : 3
+ tuz : 3
+ tow : 3
+ top : 3
+ ton : 3
+ tob : 3
+ tej : 3
+ tea : 3
+ taz : 3
+ taw : 3
+ swi : 3
+ swe : 3
+ suy : 3
+ sou : 3
+ sma : 3
+ siw : 3
+ siv : 3
+ sih : 3
+ sew : 3
+ sea : 3
+ saq : 3
+ roz : 3
+ riv : 3
+ rii : 3
+ rid : 3
+ ric : 3
+ rea : 3
+ raq : 3
+ rap : 3
+ qus : 3
+ qau : 3
+ qab : 3
+ pud : 3
+ per : 3
+ pen : 3
+ paw : 3
+ off : 3
+ nyu : 3
+ nur : 3
+ niw : 3
+ mri : 3
+ mom : 3
+ lov : 3
+ lot : 3
+ liv : 3
+ lit : 3
+ lih : 3
+ lea : 3
+ laq : 3
+ lao : 3
+ kuv : 3
+ kup : 3
+ kod : 3
+ kiv : 3
+ kim : 3
+ ket : 3
+ ker : 3
+ kem : 3
+ kak : 3
+ jwa : 3
+ jon : 3
+ jok : 3
+ jio : 3
+ jig : 3
+ jev : 3
+ jak : 3
+ jac : 3
+ iti : 3
+ ism : 3
+ ing : 3
+ ich : 3
+ ibt : 3
+ huv : 3
+ hui : 3
+ hri : 3
+ hoj : 3
+ hiy : 3
+ heh : 3
+ hea : 3
+ haf : 3
+ gwa : 3
+ guh : 3
+ gro : 3
+ gob : 3
+ gid : 3
+ gao : 3
+ gab : 3
+ fri : 3
+ fre : 3
+ for : 3
+ fik : 3
+ fij : 3
+ eur : 3
+ eng : 3
+ dut : 3
+ dup : 3
+ dud : 3
+ dow : 3
+ dob : 3
+ dea : 3
+ dat : 3
+ con : 3
+ cap : 3
+ bus : 3
+ bum : 3
+ buk : 3
+ buh : 3
+ bta : 3
+ bli : 3
+ bjp : 3
+ biy : 3
+ bip : 3
+ bea : 3
+ baw : 3
+ bae : 3
+ azm : 3
+ aur : 3
+ atk : 3
+ ase : 3
+ arz : 3
+ art : 3
+ aro : 3
+ are : 3
+ anb : 3
+ amm : 3
+ alk : 3
+ ale : 3
+ aks : 3
+ ajo : 3
+ ahs : 3
+ aes : 3
+ abu : 3
+ abs : 3
+ abd : 3
+ aac : 3
+zur  : 2
+zuk  : 2
+zre  : 2
+zim  : 2
+zil  : 2
+zal  : 2
+zad  : 2
+zab  : 2
+yyo  : 2
+yug  : 2
+yri  : 2
+yoo  : 2
+yla  : 2
+yke  : 2
+yeh  : 2
+yab  : 2
+wit  : 2
+wer  : 2
+waz  : 2
+wam  : 2
+waj  : 2
+wad  : 2
+vya  : 2
+vra  : 2
+vor  : 2
+vin  : 2
+vil  : 2
+vii  : 2
+vid  : 2
+vey  : 2
+veg  : 2
+vaz  : 2
+vak  : 2
+vaj  : 2
+vah  : 2
+uya  : 2
+uve  : 2
+uup  : 2
+uui  : 2
+utt  : 2
+uss  : 2
+urm  : 2
+upp  : 2
+upi  : 2
+upe  : 2
+umr  : 2
+uly  : 2
+ulu  : 2
+ulm  : 2
+ull  : 2
+ulk  : 2
+uko  : 2
+ujo  : 2
+uhu  : 2
+uge  : 2
+uga  : 2
+uen  : 2
+udd  : 2
+ubo  : 2
+ube  : 2
+tul  : 2
+top  : 2
+tle  : 2
+tla  : 2
+tiy  : 2
+tim  : 2
+ted  : 2
+taq  : 2
+taj  : 2
+tai  : 2
+tah  : 2
+syo  : 2
+svo  : 2
+svi  : 2
+soi  : 2
+sma  : 2
+sli  : 2
+sis  : 2
+sio  : 2
+shv  : 2
+seh  : 2
+sau  : 2
+sai  : 2
+sab  : 2
+rye  : 2
+rwa  : 2
+rus  : 2
+rup  : 2
+rum  : 2
+rug  : 2
+rts  : 2
+rto  : 2
+rso  : 2
+rsa  : 2
+rri  : 2
+rog  : 2
+rod  : 2
+rno  : 2
+rmo  : 2
+rli  : 2
+riz  : 2
+riq  : 2
+rif  : 2
+ria  : 2
+rhi  : 2
+rem  : 2
+rek  : 2
+rej  : 2
+reh  : 2
+rdo  : 2
+rba  : 2
+qui  : 2
+qin  : 2
+qil  : 2
+qar  : 2
+qam  : 2
+por  : 2
+poo  : 2
+pno  : 2
+pko  : 2
+pka  : 2
+pin  : 2
+pid  : 2
+pet  : 2
+pda  : 2
+pay  : 2
+pao  : 2
+owk  : 2
+ova  : 2
+otu  : 2
+oso  : 2
+opi  : 2
+oof  : 2
+onu  : 2
+onk  : 2
+ong  : 2
+omi  : 2
+oll  : 2
+old  : 2
+oje  : 2
+ohu  : 2
+ody  : 2
+ock  : 2
+obh  : 2
+oan  : 2
+ntr  : 2
+noi  : 2
+nnu  : 2
+nno  : 2
+nma  : 2
+nku  : 2
+nkh  : 2
+nir  : 2
+nio  : 2
+nin  : 2
+nij  : 2
+nic  : 2
+nho  : 2
+nes  : 2
+nek  : 2
+nab  : 2
+mul  : 2
+muk  : 2
+mui  : 2
+muh  : 2
+mud  : 2
+msa  : 2
+mor  : 2
+miz  : 2
+mis  : 2
+mid  : 2
+met  : 2
+mes  : 2
+mer  : 2
+mei  : 2
+mbi  : 2
+lya  : 2
+lve  : 2
+lum  : 2
+lsi  : 2
+lse  : 2
+lok  : 2
+lly  : 2
+lko  : 2
+lit  : 2
+lik  : 2
+lic  : 2
+lej  : 2
+laq  : 2
+lap  : 2
+laf  : 2
+kyo  : 2
+kva  : 2
+kuu  : 2
+kut  : 2
+kuk  : 2
+kth  : 2
+ksa  : 2
+kre  : 2
+koo  : 2
+kol  : 2
+koi  : 2
+koe  : 2
+kle  : 2
+kis  : 2
+kir  : 2
+kie  : 2
+kht  : 2
+kdi  : 2
+kao  : 2
+jwa  : 2
+jva  : 2
+jun  : 2
+jug  : 2
+jud  : 2
+jta  : 2
+jse  : 2
+jpe  : 2
+jog  : 2
+jod  : 2
+jli  : 2
+jle  : 2
+jke  : 2
+jje  : 2
+jja  : 2
+jiv  : 2
+jir  : 2
+jil  : 2
+jid  : 2
+jen  : 2
+jeb  : 2
+jda  : 2
+jao  : 2
+izo  : 2
+iwa  : 2
+ivi  : 2
+iva  : 2
+its  : 2
+iss  : 2
+ird  : 2
+iqr  : 2
+ipe  : 2
+ink  : 2
+inh  : 2
+imi  : 2
+ime  : 2
+ilm  : 2
+iku  : 2
+iiz  : 2
+iil  : 2
+iik  : 2
+iif  : 2
+iid  : 2
+ihu  : 2
+ihe  : 2
+igo  : 2
+ica  : 2
+hyo  : 2
+hvi  : 2
+hth  : 2
+hse  : 2
+hsa  : 2
+hru  : 2
+hpe  : 2
+hoy  : 2
+hoj  : 2
+hlo  : 2
+hje  : 2
+hiq  : 2
+hip  : 2
+hij  : 2
+hep  : 2
+hej  : 2
+hea  : 2
+hdo  : 2
+hdi  : 2
+hbu  : 2
+haw  : 2
+hap  : 2
+guu  : 2
+gur  : 2
+gum  : 2
+gul  : 2
+goo  : 2
+goi  : 2
+glo  : 2
+giz  : 2
+gis  : 2
+ggi  : 2
+gge  : 2
+get  : 2
+ger  : 2
+gel  : 2
+geh  : 2
+gay  : 2
+gaj  : 2
+fte  : 2
+fta  : 2
+flu  : 2
+fiz  : 2
+fii  : 2
+fai  : 2
+eyo  : 2
+etu  : 2
+est  : 2
+esa  : 2
+eon  : 2
+elu  : 2
+eho  : 2
+eej  : 2
+eee  : 2
+eck  : 2
+ear  : 2
+eal  : 2
+dva  : 2
+dua  : 2
+dth  : 2
+dro  : 2
+dor  : 2
+dni  : 2
+dma  : 2
+dlo  : 2
+dla  : 2
+dko  : 2
+dim  : 2
+die  : 2
+ddu  : 2
+dap  : 2
+cup  : 2
+cow  : 2
+ces  : 2
+car  : 2
+bva  : 2
+bus  : 2
+bur  : 2
+bun  : 2
+bub  : 2
+bti  : 2
+bte  : 2
+boh  : 2
+boe  : 2
+bne  : 2
+bla  : 2
+bke  : 2
+bjp  : 2
+bho  : 2
+bhe  : 2
+beh  : 2
+bay  : 2
+bag  : 2
+bab  : 2
+awi  : 2
+atv  : 2
+att  : 2
+atl  : 2
+asy  : 2
+asv  : 2
+asr  : 2
+asp  : 2
+ary  : 2
+arx  : 2
+arb  : 2
+apo  : 2
+apn  : 2
+aph  : 2
+amu  : 2
+amp  : 2
+alk  : 2
+aks  : 2
+ajy  : 2
+agu  : 2
+abr  : 2
+abn  : 2
+abb  : 2
+ zoh : 2
+ ziy : 2
+ zim : 2
+ zik : 2
+ zha : 2
+ yuw : 2
+ yud : 2
+ yek : 2
+ yay : 2
+ yas : 2
+ yag : 2
+ wri : 2
+ win : 2
+ wib : 2
+ wek : 2
+ weh : 2
+ wap : 2
+ vuu : 2
+ vet : 2
+ ver : 2
+ vap : 2
+ uus : 2
+ uup : 2
+ ust : 2
+ uso : 2
+ usm : 2
+ urx : 2
+ upw : 2
+ upv : 2
+ upn : 2
+ uph : 2
+ umi : 2
+ ugt : 2
+ uge : 2
+ udn : 2
+ udi : 2
+ udg : 2
+ tyy : 2
+ tva : 2
+ tus : 2
+ tri : 2
+ toy : 2
+ tom : 2
+ tid : 2
+ tes : 2
+ tax : 2
+ svi : 2
+ suq : 2
+ str : 2
+ sra : 2
+ spo : 2
+ soz : 2
+ soj : 2
+ sog : 2
+ sof : 2
+ sod : 2
+ sna : 2
+ sij : 2
+ sig : 2
+ set : 2
+ sec : 2
+ seb : 2
+ ruy : 2
+ rru : 2
+ rov : 2
+ rol : 2
+ roj : 2
+ roh : 2
+ riw : 2
+ rip : 2
+ rih : 2
+ rem : 2
+ rej : 2
+ reg : 2
+ qud : 2
+ qam : 2
+ qal : 2
+ pum : 2
+ pub : 2
+ prd : 2
+ pie : 2
+ pei : 2
+ pea : 2
+ pam : 2
+ paj : 2
+ oho : 2
+ nuu : 2
+ nup : 2
+ nou : 2
+ nob : 2
+ nip : 2
+ nhi : 2
+ new : 2
+ nem : 2
+ nea : 2
+ nab : 2
+ mya : 2
+ muy : 2
+ mui : 2
+ muc : 2
+ moy : 2
+ mov : 2
+ mol : 2
+ moj : 2
+ mle : 2
+ miz : 2
+ mev : 2
+ met : 2
+ mes : 2
+ mba : 2
+ luv : 2
+ lug : 2
+ lou : 2
+ lob : 2
+ lga : 2
+ lew : 2
+ lev : 2
+ lei : 2
+ law : 2
+ lav : 2
+ kuj : 2
+ kuf : 2
+ kse : 2
+ kop : 2
+ koe : 2
+ kel : 2
+ kek : 2
+ kag : 2
+ jyu : 2
+ juw : 2
+ juv : 2
+ jua : 2
+ jos : 2
+ jiw : 2
+ jie : 2
+ jid : 2
+ jib : 2
+ izz : 2
+ izh : 2
+ iza : 2
+ ity : 2
+ isp : 2
+ isl : 2
+ ise : 2
+ inm : 2
+ inj : 2
+ inf : 2
+ ilz : 2
+ ikt : 2
+ ikr : 2
+ iim : 2
+ idu : 2
+ idl : 2
+ hyd : 2
+ huj : 2
+ hor : 2
+ hoi : 2
+ hme : 2
+ hiz : 2
+ hik : 2
+ het : 2
+ heg : 2
+ gut : 2
+ gue : 2
+ gri : 2
+ gre : 2
+ goy : 2
+ gow : 2
+ gou : 2
+ got : 2
+ gon : 2
+ goh : 2
+ gae : 2
+ fut : 2
+ fou : 2
+ flo : 2
+ fis : 2
+ fin : 2
+ fee : 2
+ fed : 2
+ fay : 2
+ eve : 2
+ eva : 2
+ esc : 2
+ era : 2
+ enn : 2
+ ela : 2
+ eks : 2
+ ekd : 2
+ eid : 2
+ ehe : 2
+ ees : 2
+ duc : 2
+ dth : 2
+ dro : 2
+ dod : 2
+ doc : 2
+ dna : 2
+ dit : 2
+ dih : 2
+ die : 2
+ dej : 2
+ dei : 2
+ dec : 2
+ dai : 2
+ cyl : 2
+ cyc : 2
+ cro : 2
+ cra : 2
+ cou : 2
+ cla : 2
+ cit : 2
+ cin : 2
+ chy : 2
+ cen : 2
+ can : 2
+ cal : 2
+ caa : 2
+ bui : 2
+ bub : 2
+ bos : 2
+ bom : 2
+ bla : 2
+ bef : 2
+ baq : 2
+ bap : 2
+ ayy : 2
+ ayu : 2
+ avi : 2
+ avg : 2
+ ave : 2
+ atm : 2
+ ati : 2
+ ast : 2
+ asr : 2
+ arj : 2
+ ari : 2
+ ane : 2
+ amu : 2
+ alv : 2
+ ali : 2
+ ajn : 2
+ ain : 2
+ aht : 2
+ ahi : 2
+ agn : 2
+ agl : 2
+ agh : 2
+ age : 2
+ aeg : 2
+ add : 2
+ act : 2
+ abn : 2
+ abl : 2
+ abi : 2
+ abb : 2
+zza  : 1
+zun  : 1
+zum  : 1
+zro  : 1
+zri  : 1
+zra  : 1
+zmi  : 1
+zma  : 1
+zin  : 1
+zhe  : 1
+zgi  : 1
+zer  : 1
+zen  : 1
+zda  : 1
+zbe  : 1
+zba  : 1
+zao  : 1
+zak  : 1
+zai  : 1
+yye  : 1
+yve  : 1
+yuu  : 1
+yus  : 1
+yur  : 1
+yum  : 1
+yub  : 1
+ysi  : 1
+yre  : 1
+yra  : 1
+you  : 1
+yot  : 1
+yne  : 1
+yle  : 1
+yko  : 1
+yiz  : 1
+yio  : 1
+yik  : 1
+ygi  : 1
+yey  : 1
+yes  : 1
+yer  : 1
+yel  : 1
+yei  : 1
+yed  : 1
+yde  : 1
+yap  : 1
+yao  : 1
+yae  : 1
+xne  : 1
+xia  : 1
+wti  : 1
+wra  : 1
+woh  : 1
+wki  : 1
+wii  : 1
+who  : 1
+wet  : 1
+wen  : 1
+weh  : 1
+wee  : 1
+wda  : 1
+way  : 1
+wao  : 1
+wak  : 1
+wag  : 1
+vvi  : 1
+vus  : 1
+vun  : 1
+vud  : 1
+vua  : 1
+vti  : 1
+vta  : 1
+vrs  : 1
+vni  : 1
+vna  : 1
+vli  : 1
+vis  : 1
+vik  : 1
+vie  : 1
+vem  : 1
+veh  : 1
+vee  : 1
+vay  : 1
+vao  : 1
+vai  : 1
+vab  : 1
+uwi  : 1
+uwe  : 1
+uuu  : 1
+uty  : 1
+utr  : 1
+uto  : 1
+utf  : 1
+usy  : 1
+usu  : 1
+usn  : 1
+urx  : 1
+urv  : 1
+urt  : 1
+uro  : 1
+urb  : 1
+uqr  : 1
+uqm  : 1
+uqe  : 1
+uqa  : 1
+upt  : 1
+upo  : 1
+unt  : 1
+uns  : 1
+unn  : 1
+ump  : 1
+umo  : 1
+umn  : 1
+umb  : 1
+ulq  : 1
+ulf  : 1
+ukr  : 1
+ukm  : 1
+ukk  : 1
+uju  : 1
+uiz  : 1
+uin  : 1
+uhm  : 1
+uhl  : 1
+uhj  : 1
+ugu  : 1
+ugr  : 1
+ugh  : 1
+uft  : 1
+ufr  : 1
+ufi  : 1
+uff  : 1
+ufa  : 1
+uey  : 1
+uel  : 1
+uee  : 1
+udu  : 1
+udr  : 1
+udo  : 1
+uck  : 1
+ubu  : 1
+uay  : 1
+ual  : 1
+uae  : 1
+uad  : 1
+tyu  : 1
+tuz  : 1
+tuu  : 1
+tus  : 1
+tuk  : 1
+tuj  : 1
+tui  : 1
+tub  : 1
+ttu  : 1
+tth  : 1
+tsa  : 1
+try  : 1
+toy  : 1
+tow  : 1
+too  : 1
+tok  : 1
+toh  : 1
+tod  : 1
+tno  : 1
+tly  : 1
+tis  : 1
+tip  : 1
+tij  : 1
+tic  : 1
+tez  : 1
+tes  : 1
+tek  : 1
+tej  : 1
+teg  : 1
+tda  : 1
+tba  : 1
+taz  : 1
+tax  : 1
+tau  : 1
+tap  : 1
+sut  : 1
+suo  : 1
+sul  : 1
+suk  : 1
+sui  : 1
+suf  : 1
+sud  : 1
+sub  : 1
+sty  : 1
+ssy  : 1
+sso  : 1
+srs  : 1
+sro  : 1
+soz  : 1
+sou  : 1
+som  : 1
+soh  : 1
+sog  : 1
+soe  : 1
+sno  : 1
+sni  : 1
+smt  : 1
+skh  : 1
+siv  : 1
+sit  : 1
+sip  : 1
+sie  : 1
+sid  : 1
+sic  : 1
+shy  : 1
+shr  : 1
+sfy  : 1
+sez  : 1
+sex  : 1
+set  : 1
+ser  : 1
+sel  : 1
+sek  : 1
+sej  : 1
+sda  : 1
+sca  : 1
+sbu  : 1
+saz  : 1
+saj  : 1
+sah  : 1
+saf  : 1
+rzu  : 1
+rzo  : 1
+rza  : 1
+rxo  : 1
+rxe  : 1
+ruv  : 1
+ruk  : 1
+ruh  : 1
+ruf  : 1
+rue  : 1
+rud  : 1
+rty  : 1
+rtu  : 1
+rry  : 1
+rrt  : 1
+rrr  : 1
+rro  : 1
+roy  : 1
+row  : 1
+rou  : 1
+ros  : 1
+ror  : 1
+rom  : 1
+rol  : 1
+rok  : 1
+roj  : 1
+roi  : 1
+roe  : 1
+rob  : 1
+rme  : 1
+rlo  : 1
+rla  : 1
+rks  : 1
+rko  : 1
+rki  : 1
+rka  : 1
+rje  : 1
+riy  : 1
+rip  : 1
+rio  : 1
+rig  : 1
+rid  : 1
+rhx  : 1
+rhe  : 1
+rgv  : 1
+rgh  : 1
+rge  : 1
+rfa  : 1
+rew  : 1
+rer  : 1
+rec  : 1
+reb  : 1
+rea  : 1
+rdn  : 1
+rbh  : 1
+rbe  : 1
+ray  : 1
+raw  : 1
+rap  : 1
+qum  : 1
+que  : 1
+qub  : 1
+qta  : 1
+qra  : 1
+qqo  : 1
+qko  : 1
+qir  : 1
+qim  : 1
+qia  : 1
+qas  : 1
+qal  : 1
+qad  : 1
+qaa  : 1
+pye  : 1
+pya  : 1
+puu  : 1
+put  : 1
+pum  : 1
+pul  : 1
+puj  : 1
+pue  : 1
+pub  : 1
+pth  : 1
+ptc  : 1
+pse  : 1
+pot  : 1
+pol  : 1
+poh  : 1
+pms  : 1
+pja  : 1
+pir  : 1
+pie  : 1
+phu  : 1
+phi  : 1
+pha  : 1
+pen  : 1
+peh  : 1
+peg  : 1
+ped  : 1
+pdi  : 1
+pde  : 1
+pcc  : 1
+pav  : 1
+pap  : 1
+pam  : 1
+pag  : 1
+oxa  : 1
+owr  : 1
+own  : 1
+oup  : 1
+oul  : 1
+ouj  : 1
+ott  : 1
+oth  : 1
+orx  : 1
+orv  : 1
+ork  : 1
+orh  : 1
+org  : 1
+opo  : 1
+opa  : 1
+ooo  : 1
+oog  : 1
+ony  : 1
+onh  : 1
+omo  : 1
+omb  : 1
+olu  : 1
+oku  : 1
+oii  : 1
+ogo  : 1
+ofi  : 1
+off  : 1
+ofe  : 1
+oee  : 1
+odu  : 1
+odd  : 1
+obs  : 1
+oad  : 1
+nze  : 1
+nyu  : 1
+nyi  : 1
+nvo  : 1
+nup  : 1
+nuk  : 1
+nty  : 1
+nts  : 1
+nri  : 1
+npi  : 1
+not  : 1
+nom  : 1
+nok  : 1
+noj  : 1
+nod  : 1
+nnt  : 1
+nng  : 1
+nmi  : 1
+nlo  : 1
+nju  : 1
+njo  : 1
+niz  : 1
+nie  : 1
+nib  : 1
+ngu  : 1
+nfi  : 1
+new  : 1
+net  : 1
+ner  : 1
+nem  : 1
+nel  : 1
+neh  : 1
+ndy  : 1
+nct  : 1
+nbi  : 1
+naz  : 1
+nau  : 1
+nas  : 1
+nag  : 1
+nae  : 1
+mwa  : 1
+mva  : 1
+muz  : 1
+mut  : 1
+mua  : 1
+mrs  : 1
+mrr  : 1
+mps  : 1
+mpi  : 1
+mph  : 1
+mpa  : 1
+moy  : 1
+mom  : 1
+moh  : 1
+mod  : 1
+mnk  : 1
+mni  : 1
+mmy  : 1
+mmu  : 1
+mlo  : 1
+mli  : 1
+mle  : 1
+mki  : 1
+mji  : 1
+mjh  : 1
+mje  : 1
+mja  : 1
+miy  : 1
+mho  : 1
+mhi  : 1
+mge  : 1
+mev  : 1
+mem  : 1
+mel  : 1
+meh  : 1
+mbo  : 1
+mao  : 1
+maj  : 1
+mae  : 1
+lye  : 1
+lwe  : 1
+luv  : 1
+lut  : 1
+lul  : 1
+lui  : 1
+lub  : 1
+lty  : 1
+lpa  : 1
+lot  : 1
+lol  : 1
+loi  : 1
+log  : 1
+loe  : 1
+lni  : 1
+lmo  : 1
+lme  : 1
+lls  : 1
+lkg  : 1
+lji  : 1
+lja  : 1
+liy  : 1
+lip  : 1
+lij  : 1
+lif  : 1
+lia  : 1
+lho  : 1
+lhi  : 1
+lge  : 1
+lfo  : 1
+lfi  : 1
+lfe  : 1
+let  : 1
+leh  : 1
+leg  : 1
+lde  : 1
+lda  : 1
+lco  : 1
+laz  : 1
+lau  : 1
+las  : 1
+lad  : 1
+kyu  : 1
+kwe  : 1
+kwa  : 1
+kuz  : 1
+kuj  : 1
+kud  : 1
+kso  : 1
+krr  : 1
+kro  : 1
+koy  : 1
+kot  : 1
+kos  : 1
+kop  : 1
+kni  : 1
+kmi  : 1
+klo  : 1
+kja  : 1
+kib  : 1
+khy  : 1
+khu  : 1
+khr  : 1
+khm  : 1
+kem  : 1
+kel  : 1
+keh  : 1
+kea  : 1
+kay  : 1
+kaq  : 1
+kap  : 1
+kak  : 1
+kai  : 1
+kah  : 1
+kab  : 1
+jur  : 1
+juo  : 1
+jua  : 1
+jsv  : 1
+jot  : 1
+joo  : 1
+jol  : 1
+joi  : 1
+jnu  : 1
+jme  : 1
+jla  : 1
+jki  : 1
+jji  : 1
+jis  : 1
+jio  : 1
+jim  : 1
+jib  : 1
+jia  : 1
+jet  : 1
+jel  : 1
+jdi  : 1
+jas  : 1
+jap  : 1
+jae  : 1
+izr  : 1
+izi  : 1
+ize  : 1
+iyu  : 1
+iyi  : 1
+iwi  : 1
+itc  : 1
+isq  : 1
+irt  : 1
+irs  : 1
+irq  : 1
+irn  : 1
+irl  : 1
+irf  : 1
+iqi  : 1
+ipu  : 1
+ior  : 1
+inu  : 1
+int  : 1
+inm  : 1
+imt  : 1
+ilk  : 1
+ikk  : 1
+ijr  : 1
+iiw  : 1
+ign  : 1
+igh  : 1
+iff  : 1
+ife  : 1
+ies  : 1
+idu  : 1
+ido  : 1
+idd  : 1
+ict  : 1
+ick  : 1
+ici  : 1
+ibu  : 1
+ibo  : 1
+ibh  : 1
+ibe  : 1
+iaz  : 1
+ias  : 1
+hza  : 1
+hxe  : 1
+hva  : 1
+huo  : 1
+huj  : 1
+huh  : 1
+hug  : 1
+hts  : 1
+hsi  : 1
+hqt  : 1
+hqa  : 1
+hps  : 1
+how  : 1
+hou  : 1
+hom  : 1
+hog  : 1
+hnu  : 1
+hns  : 1
+hno  : 1
+hmo  : 1
+hmm  : 1
+hmh  : 1
+hmd  : 1
+hlu  : 1
+hkh  : 1
+hiz  : 1
+hiw  : 1
+hig  : 1
+hib  : 1
+hia  : 1
+hhy  : 1
+hhu  : 1
+hhp  : 1
+hge  : 1
+hga  : 1
+hfe  : 1
+hfa  : 1
+hez  : 1
+hem  : 1
+heh  : 1
+haz  : 1
+hau  : 1
+haq  : 1
+haj  : 1
+gyo  : 1
+gut  : 1
+gup  : 1
+gud  : 1
+gto  : 1
+gre  : 1
+gra  : 1
+got  : 1
+gor  : 1
+gop  : 1
+gol  : 1
+god  : 1
+gnu  : 1
+gno  : 1
+gme  : 1
+gma  : 1
+gij  : 1
+ggo  : 1
+gdh  : 1
+gav  : 1
+gas  : 1
+gao  : 1
+fut  : 1
+fun  : 1
+fty  : 1
+fti  : 1
+for  : 1
+fic  : 1
+ffa  : 1
+fee  : 1
+fed  : 1
+fde  : 1
+fda  : 1
+faq  : 1
+ezo  : 1
+eza  : 1
+ewe  : 1
+evo  : 1
+ety  : 1
+ets  : 1
+etr  : 1
+esu  : 1
+ert  : 1
+ern  : 1
+erh  : 1
+eqa  : 1
+epu  : 1
+ens  : 1
+enp  : 1
+emp  : 1
+emi  : 1
+ely  : 1
+els  : 1
+ekt  : 1
+eks  : 1
+eih  : 1
+eid  : 1
+ehr  : 1
+ehn  : 1
+ehd  : 1
+ego  : 1
+eft  : 1
+efa  : 1
+eey  : 1
+eev  : 1
+eeq  : 1
+eeg  : 1
+ebi  : 1
+ebe  : 1
+eba  : 1
+eau  : 1
+eas  : 1
+eap  : 1
+eam  : 1
+eak  : 1
+eah  : 1
+dya  : 1
+dwe  : 1
+dus  : 1
+duk  : 1
+dui  : 1
+dub  : 1
+dry  : 1
+dqe  : 1
+dpi  : 1
+dpe  : 1
+dpa  : 1
+dos  : 1
+dom  : 1
+doh  : 1
+dog  : 1
+dns  : 1
+dmo  : 1
+dmi  : 1
+dis  : 1
+dip  : 1
+dio  : 1
+dig  : 1
+did  : 1
+dhy  : 1
+dhh  : 1
+dga  : 1
+dex  : 1
+det  : 1
+del  : 1
+dek  : 1
+ddo  : 1
+dda  : 1
+daz  : 1
+dao  : 1
+dag  : 1
+cre  : 1
+cot  : 1
+coi  : 1
+cob  : 1
+clw  : 1
+cks  : 1
+cko  : 1
+cis  : 1
+cil  : 1
+ced  : 1
+cci  : 1
+cch  : 1
+cbi  : 1
+can  : 1
+bza  : 1
+buz  : 1
+but  : 1
+bum  : 1
+buj  : 1
+bto  : 1
+bta  : 1
+bsi  : 1
+bsc  : 1
+bru  : 1
+bro  : 1
+boy  : 1
+bor  : 1
+bol  : 1
+boj  : 1
+boi  : 1
+bnu  : 1
+bna  : 1
+bly  : 1
+blu  : 1
+bko  : 1
+bki  : 1
+bka  : 1
+bja  : 1
+bis  : 1
+bij  : 1
+bib  : 1
+bia  : 1
+bhy  : 1
+bey  : 1
+bel  : 1
+bed  : 1
+bdi  : 1
+bdh  : 1
+bbc  : 1
+bba  : 1
+baz  : 1
+baq  : 1
+bap  : 1
+baj  : 1
+azm  : 1
+azb  : 1
+ayu  : 1
+ayt  : 1
+ayn  : 1
+aym  : 1
+ayd  : 1
+axi  : 1
+awl  : 1
+awk  : 1
+avn  : 1
+auu  : 1
+aum  : 1
+auk  : 1
+auj  : 1
+aud  : 1
+aub  : 1
+aty  : 1
+atu  : 1
+atr  : 1
+atm  : 1
+asn  : 1
+asm  : 1
+arl  : 1
+aqs  : 1
+aqa  : 1
+apu  : 1
+app  : 1
+aos  : 1
+aoh  : 1
+anz  : 1
+anm  : 1
+anf  : 1
+amy  : 1
+amr  : 1
+amn  : 1
+amm  : 1
+amk  : 1
+amh  : 1
+aly  : 1
+ald  : 1
+aky  : 1
+akr  : 1
+akm  : 1
+akl  : 1
+akk  : 1
+akj  : 1
+ajj  : 1
+aiz  : 1
+aiy  : 1
+ait  : 1
+aik  : 1
+aig  : 1
+aif  : 1
+aht  : 1
+ahr  : 1
+ahn  : 1
+agy  : 1
+agn  : 1
+agg  : 1
+afz  : 1
+aft  : 1
+aey  : 1
+aet  : 1
+aer  : 1
+aem  : 1
+ady  : 1
+adr  : 1
+act  : 1
+ack  : 1
+abm  : 1
+abd  : 1
+ zum : 1
+ zoo : 1
+ zir : 1
+ ziq : 1
+ zii : 1
+ zia : 1
+ zev : 1
+ zag : 1
+ yye : 1
+ yur : 1
+ yuh : 1
+ yra : 1
+ yor : 1
+ yod : 1
+ yha : 1
+ yey : 1
+ yev : 1
+ yes : 1
+ yei : 1
+ yed : 1
+ yea : 1
+ yav : 1
+ yai : 1
+ wsi : 1
+ wit : 1
+ wim : 1
+ wil : 1
+ wik : 1
+ wij : 1
+ wig : 1
+ wid : 1
+ who : 1
+ whe : 1
+ wet : 1
+ wee : 1
+ web : 1
+ wea : 1
+ wau : 1
+ waq : 1
+ wak : 1
+ wae : 1
+ wac : 1
+ vyo : 1
+ vut : 1
+ vul : 1
+ vuc : 1
+ vru : 1
+ vrt : 1
+ vrs : 1
+ vrk : 1
+ vor : 1
+ von : 1
+ vol : 1
+ voi : 1
+ viy : 1
+ vig : 1
+ ves : 1
+ veh : 1
+ veg : 1
+ vec : 1
+ vaz : 1
+ vag : 1
+ vac : 1
+ uyi : 1
+ uun : 1
+ utk : 1
+ uti : 1
+ ute : 1
+ usp : 1
+ usn : 1
+ ush : 1
+ uru : 1
+ urj : 1
+ uri : 1
+ urd : 1
+ upy : 1
+ ups : 1
+ upr : 1
+ upp : 1
+ upo : 1
+ upj : 1
+ upb : 1
+ unv : 1
+ unu : 1
+ unp : 1
+ une : 1
+ umn : 1
+ ulf : 1
+ ule : 1
+ ukt : 1
+ ukh : 1
+ ujr : 1
+ ujh : 1
+ uje : 1
+ uht : 1
+ uha : 1
+ ugr : 1
+ ugn : 1
+ uff : 1
+ udo : 1
+ udk : 1
+ ucc : 1
+ uad : 1
+ twa : 1
+ tvi : 1
+ tup : 1
+ tui : 1
+ tud : 1
+ tsu : 1
+ tru : 1
+ tro : 1
+ tre : 1
+ tos : 1
+ tof : 1
+ tiz : 1
+ tiw : 1
+ tic : 1
+ tib : 1
+ thr : 1
+ tev : 1
+ tek : 1
+ tei : 1
+ teg : 1
+ tec : 1
+ tav : 1
+ suz : 1
+ sui : 1
+ suf : 1
+ stu : 1
+ sro : 1
+ sre : 1
+ spr : 1
+ spe : 1
+ sov : 1
+ sos : 1
+ sor : 1
+ sok : 1
+ soi : 1
+ soe : 1
+ sne : 1
+ smt : 1
+ smr : 1
+ slo : 1
+ slm : 1
+ sle : 1
+ ska : 1
+ sja : 1
+ sic : 1
+ shw : 1
+ sht : 1
+ shp : 1
+ sez : 1
+ sex : 1
+ ses : 1
+ sep : 1
+ sem : 1
+ sek : 1
+ sed : 1
+ sco : 1
+ sae : 1
+ ruq : 1
+ rug : 1
+ ruc : 1
+ rto : 1
+ rpr : 1
+ row : 1
+ rop : 1
+ roi : 1
+ rod : 1
+ rob : 1
+ roa : 1
+ rjy : 1
+ rig : 1
+ rib : 1
+ rhu : 1
+ rhi : 1
+ rha : 1
+ rgv : 1
+ rer : 1
+ rep : 1
+ ref : 1
+ red : 1
+ reb : 1
+ ray : 1
+ rao : 1
+ rae : 1
+ quz : 1
+ qut : 1
+ qui : 1
+ que : 1
+ qua : 1
+ qim : 1
+ qil : 1
+ qii : 1
+ qee : 1
+ qaz : 1
+ qav : 1
+ qai : 1
+ puy : 1
+ pue : 1
+ pua : 1
+ pta : 1
+ psa : 1
+ pry : 1
+ prt : 1
+ prn : 1
+ prk : 1
+ prh : 1
+ pov : 1
+ pou : 1
+ pop : 1
+ pok : 1
+ pod : 1
+ pms : 1
+ ple : 1
+ pla : 1
+ pij : 1
+ pep : 1
+ peg : 1
+ pcc : 1
+ pab : 1
+ oye : 1
+ our : 1
+ osh : 1
+ osc : 1
+ orw : 1
+ ori : 1
+ org : 1
+ ore : 1
+ ord : 1
+ ope : 1
+ oor : 1
+ oon : 1
+ one : 1
+ ond : 1
+ oll : 1
+ ole : 1
+ ola : 1
+ oks : 1
+ ojh : 1
+ oha : 1
+ oct : 1
+ nut : 1
+ nus : 1
+ nuq : 1
+ nri : 1
+ nov : 1
+ nor : 1
+ non : 1
+ nok : 1
+ noc : 1
+ niz : 1
+ nij : 1
+ nif : 1
+ nha : 1
+ ney : 1
+ nev : 1
+ nep : 1
+ nei : 1
+ nef : 1
+ nec : 1
+ nax : 1
+ nap : 1
+ nae : 1
+ mrs : 1
+ mop : 1
+ mok : 1
+ mog : 1
+ moc : 1
+ mob : 1
+ mim : 1
+ mij : 1
+ mid : 1
+ mia : 1
+ mew : 1
+ mek : 1
+ mea : 1
+ lus : 1
+ lum : 1
+ lui : 1
+ low : 1
+ lon : 1
+ loi : 1
+ loh : 1
+ llo : 1
+ lli : 1
+ lle : 1
+ lky : 1
+ lkg : 1
+ lis : 1
+ lif : 1
+ lie : 1
+ lid : 1
+ lic : 1
+ ley : 1
+ lep : 1
+ lej : 1
+ lef : 1
+ lda : 1
+ laz : 1
+ kve : 1
+ kuz : 1
+ kuw : 1
+ kue : 1
+ kub : 1
+ kua : 1
+ kta : 1
+ krt : 1
+ kro : 1
+ krm : 1
+ kou : 1
+ koi : 1
+ koc : 1
+ kle : 1
+ kja : 1
+ kiw : 1
+ kie : 1
+ kic : 1
+ kib : 1
+ kia : 1
+ khx : 1
+ khr : 1
+ key : 1
+ kew : 1
+ kev : 1
+ keb : 1
+ kea : 1
+ kaq : 1
+ kae : 1
+ juh : 1
+ jue : 1
+ joi : 1
+ job : 1
+ jik : 1
+ jih : 1
+ jia : 1
+ jew : 1
+ jel : 1
+ jec : 1
+ itw : 1
+ itv : 1
+ its : 1
+ itl : 1
+ itc : 1
+ ist : 1
+ isq : 1
+ isn : 1
+ iru : 1
+ irs : 1
+ ire : 1
+ iqr : 1
+ iqa : 1
+ inq : 1
+ inp : 1
+ inn : 1
+ imp : 1
+ iml : 1
+ imk : 1
+ ily : 1
+ ilm : 1
+ ill : 1
+ ilj : 1
+ ikd : 1
+ iit : 1
+ iid : 1
+ iff : 1
+ ies : 1
+ idv : 1
+ idi : 1
+ ict : 1
+ hya : 1
+ hup : 1
+ huo : 1
+ huh : 1
+ hud : 1
+ hox : 1
+ how : 1
+ hop : 1
+ hoh : 1
+ hoe : 1
+ hod : 1
+ hoc : 1
+ hns : 1
+ hmm : 1
+ hiw : 1
+ hip : 1
+ hig : 1
+ hid : 1
+ hia : 1
+ hhm : 1
+ hey : 1
+ hem : 1
+ hei : 1
+ hec : 1
+ hah : 1
+ hae : 1
+ gua : 1
+ gru : 1
+ gok : 1
+ gog : 1
+ gli : 1
+ giz : 1
+ giv : 1
+ gis : 1
+ gim : 1
+ get : 1
+ ger : 1
+ gei : 1
+ ged : 1
+ gas : 1
+ gap : 1
+ fuz : 1
+ fun : 1
+ fuh : 1
+ fud : 1
+ fua : 1
+ fot : 1
+ fok : 1
+ flu : 1
+ fla : 1
+ fic : 1
+ fhi : 1
+ fen : 1
+ fek : 1
+ eye : 1
+ exc : 1
+ ewa : 1
+ etb : 1
+ ess : 1
+ esr : 1
+ esk : 1
+ ers : 1
+ ern : 1
+ ept : 1
+ enu : 1
+ ent : 1
+ end : 1
+ ema : 1
+ elo : 1
+ eku : 1
+ ekl : 1
+ eke : 1
+ ekc : 1
+ ekb : 1
+ ein : 1
+ ehd : 1
+ eff : 1
+ eeq : 1
+ eek : 1
+ edi : 1
+ ech : 1
+ eba : 1
+ dys : 1
+ dyo : 1
+ dwi : 1
+ dvi : 1
+ duy : 1
+ dui : 1
+ drs : 1
+ doz : 1
+ dom : 1
+ dok : 1
+ dns : 1
+ dia : 1
+ dhw : 1
+ dhv : 1
+ dey : 1
+ del : 1
+ ddh : 1
+ dac : 1
+ cut : 1
+ cup : 1
+ cul : 1
+ cub : 1
+ cri : 1
+ cot : 1
+ cor : 1
+ coi : 1
+ cof : 1
+ clw : 1
+ cli : 1
+ civ : 1
+ chr : 1
+ chn : 1
+ chk : 1
+ cer : 1
+ cel : 1
+ ceh : 1
+ cbi : 1
+ cat : 1
+ cah : 1
+ byo : 1
+ bto : 1
+ bsc : 1
+ bru : 1
+ bre : 1
+ bok : 1
+ boi : 1
+ bog : 1
+ boe : 1
+ boa : 1
+ biz : 1
+ biw : 1
+ biv : 1
+ bhh : 1
+ bda : 1
+ bbc : 1
+ azh : 1
+ ayk : 1
+ ayi : 1
+ aww : 1
+ awo : 1
+ avt : 1
+ avo : 1
+ avh : 1
+ aun : 1
+ aug : 1
+ aud : 1
+ atu : 1
+ ate : 1
+ asq : 1
+ asl : 1
+ ask : 1
+ arv : 1
+ aru : 1
+ arp : 1
+ arl : 1
+ arb : 1
+ apu : 1
+ aps : 1
+ apo : 1
+ apk : 1
+ api : 1
+ aon : 1
+ aog : 1
+ anz : 1
+ anw : 1
+ anv : 1
+ anp : 1
+ anm : 1
+ ani : 1
+ anh : 1
+ amo : 1
+ amn : 1
+ alw : 1
+ alu : 1
+ als : 1
+ alp : 1
+ alh : 1
+ aku : 1
+ akr : 1
+ akl : 1
+ akk : 1
+ akj : 1
+ akb : 1
+ ajk : 1
+ ajj : 1
+ aiy : 1
+ aiw : 1
+ air : 1
+ aih : 1
+ ahw : 1
+ agy : 1
+ agv : 1
+ agr : 1
+ ago : 1
+ agi : 1
+ aft : 1
+ afr : 1
+ aeh : 1
+ ady : 1
+ adt : 1
+ adm : 1
+ adl : 1
+ ade : 1
+ acr : 1
+ abt : 1
+ abo : 1
+ abm : 1
+ abk : 1
+ abe : 1
+ aaa : 1

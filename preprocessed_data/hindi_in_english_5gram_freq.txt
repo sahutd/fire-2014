@@ -1,0 +1,14290 @@
+yaan  : 332
+enge  : 284
+iyon  : 228
+anaa  : 219
+aaye  : 208
+aana  : 200
+aane  : 191
+ataa  : 183
+aaya  : 149
+ sama : 143
+ chaa : 143
+iyaa  : 141
+aron  : 137
+aari  : 137
+ungi  : 136
+aani  : 134
+unga  : 132
+egaa  : 130
+ baha : 128
+ chhu : 126
+akar  : 123
+aate  : 122
+aayi  : 120
+aati  : 119
+ chha : 118
+ musk : 117
+iyan  : 115
+araa  : 115
+ayen  : 114
+anon  : 108
+ maha : 107
+ para : 105
+ chal : 105
+ bara : 103
+ dikh : 102
+aata  : 101
+aare  : 100
+aale  : 100
+aara  : 98
+ayaa  : 97
+yega  : 95
+ bana : 95
+yein  : 89
+ khil : 86
+riya  : 85
+alaa  : 85
+ maan : 85
+ bata : 85
+aala  : 84
+ suna : 84
+ laga : 84
+ paha : 83
+ bich : 83
+ mana : 82
+ bhaa : 82
+ bada : 81
+alon  : 80
+ bach : 80
+aake  : 78
+ tara : 77
+ saja : 76
+ kara : 76
+ jala : 76
+ jaga : 76
+ jaan : 76
+ dila : 75
+aali  : 74
+ dekh : 74
+ cham : 74
+atii  : 72
+ shar : 71
+ baan : 71
+haar  : 70
+ mila : 69
+ tada : 67
+ mach : 67
+ chho : 67
+ngaa  : 66
+ kaha : 66
+ sara : 65
+ khaa : 65
+engi  : 64
+yegi  : 63
+tein  : 63
+aaen  : 62
+hana  : 61
+aoon  : 60
+ bula : 60
+hane  : 59
+ utha : 58
+ chur : 58
+ badh : 58
+ongi  : 57
+niya  : 57
+aton  : 57
+aaun  : 57
+maan  : 56
+aaon  : 56
+ rang : 56
+ hans : 56
+ guza : 55
+ sata : 54
+ chah : 54
+ bujh : 54
+haan  : 53
+aoge  : 53
+ chan : 53
+ bhul : 53
+ saha : 52
+ saan : 52
+ nibh : 52
+ hama : 52
+ shaa : 51
+ samb : 51
+ nika : 51
+ laha : 51
+ bhar : 50
+ basa : 50
+daar  : 49
+arii  : 49
+ ghab : 49
+rein  : 48
+onga  : 48
+ samj : 47
+ jhuk : 47
+mein  : 46
+ sula : 46
+ meha : 46
+ kama : 46
+anii  : 44
+ soch : 44
+ gira : 44
+ chun : 44
+rana  : 43
+hein  : 43
+aten  : 43
+ pala : 43
+ pach : 43
+ chup : 43
+ band : 43
+ baja : 43
+auun  : 42
+aran  : 42
+ taka : 42
+ pari : 42
+ dara : 42
+adaa  : 41
+ pura : 41
+ mita : 41
+ luta : 41
+vaan  : 40
+hata  : 40
+baan  : 40
+ shik : 40
+ kaan : 40
+ jaag : 40
+yuun  : 39
+kaar  : 39
+hara  : 39
+alii  : 39
+ rach : 39
+ lada : 39
+ kaar : 39
+ chad : 39
+aren  : 38
+ puka : 38
+ dukh : 38
+lein  : 37
+lane  : 37
+hate  : 37
+adon  : 37
+aaro  : 37
+aaii  : 37
+ naza : 37
+ khus : 37
+ khel : 37
+ jhuu : 37
+raan  : 36
+hari  : 36
+egii  : 36
+egee  : 36
+ sikh : 36
+ raaj : 36
+ maar : 36
+ kala : 36
+ daal : 36
+ char : 36
+ngii  : 35
+liya  : 35
+hati  : 35
+haai  : 35
+atee  : 35
+ rakh : 35
+ mara : 35
+ jhoo : 35
+ guna : 35
+ chhi : 35
+ bars : 35
+lata  : 34
+apan  : 34
+ thuk : 34
+ phir : 34
+ maja : 34
+ likh : 34
+ chak : 34
+akaa  : 33
+aiya  : 33
+ tadp : 33
+ sada : 33
+ musa : 33
+ mata : 33
+ gula : 33
+ deew : 33
+ bikh : 33
+ beka : 33
+ baar : 33
+rati  : 32
+hare  : 32
+arat  : 32
+aave  : 32
+aano  : 32
+ pyaa : 32
+ paka : 32
+ naac : 32
+ mura : 32
+ khul : 32
+ chin : 32
+rata  : 31
+lana  : 31
+hala  : 31
+chaa  : 31
+ayee  : 31
+ ulaj : 31
+ pooc : 31
+ pahu : 31
+ kata : 31
+ jaay : 31
+ bhuu : 31
+lati  : 30
+avaa  : 30
+aree  : 30
+ rula : 30
+ pata : 30
+ nish : 30
+ nach : 30
+ mujh : 30
+ khol : 30
+ gara : 30
+ choo : 30
+ beha : 30
+ andh : 30
+ aash : 30
+tane  : 29
+taan  : 29
+aram  : 29
+aiye  : 29
+ udaa : 29
+ raha : 29
+ pras : 29
+ nira : 29
+ jhul : 29
+vaar  : 28
+shan  : 28
+hega  : 28
+hake  : 28
+aadi  : 28
+ sang : 28
+ prat : 28
+ paay : 28
+ madh : 28
+ dhaa : 28
+ bala : 28
+ bait : 28
+lega  : 27
+late  : 27
+hale  : 27
+avan  : 27
+ahon  : 27
+ sanv : 27
+ sans : 27
+ mang : 27
+ kare : 27
+ jhaa : 27
+ jana : 27
+ hawa : 27
+ diwa : 27
+ dhad : 27
+ chuu : 27
+ chhe : 27
+ bahe : 27
+ anga : 27
+rane  : 26
+inaa  : 26
+hoon  : 26
+hegi  : 26
+haya  : 26
+agar  : 26
+ taar : 26
+ sita : 26
+ rahe : 26
+ mula : 26
+ hara : 26
+ chat : 26
+ bech : 26
+ baad : 26
+ aank : 26
+kane  : 25
+ilaa  : 25
+avat  : 25
+arta  : 25
+angi  : 25
+amaa  : 25
+akii  : 25
+ahan  : 25
+aayo  : 25
+ vira : 25
+ saad : 25
+ phul : 25
+ padh : 25
+ niga : 25
+ mast : 25
+ kary : 25
+ jhum : 25
+ jama : 25
+ ghat : 25
+ diva : 25
+ chit : 25
+ bita : 25
+waan  : 24
+tana  : 24
+legi  : 24
+daan  : 24
+amon  : 24
+alee  : 24
+ tumh : 24
+ tujh : 24
+ taan : 24
+ suha : 24
+ mush : 24
+ mukh : 24
+ khud : 24
+ khan : 24
+ kaat : 24
+ chik : 24
+ bhag : 24
+ngee  : 23
+iron  : 23
+diya  : 23
+dana  : 23
+aegi  : 23
+aasi  : 23
+ zind : 23
+ sura : 23
+ saba : 23
+ parc : 23
+ naha : 23
+ masa : 23
+ mahe : 23
+ huma : 23
+ haar : 23
+ dush : 23
+ biga : 23
+ bhig : 23
+tiya  : 22
+rate  : 22
+khon  : 22
+kati  : 22
+baar  : 22
+anga  : 22
+ vidh : 22
+ utar : 22
+ paal : 22
+ lehr : 22
+ lala : 22
+ kahe : 22
+ hasa : 22
+ deev : 22
+ daga : 22
+ baal : 22
+ baaj : 22
+ aaza : 22
+ aasa : 22
+taar  : 21
+mati  : 21
+liye  : 21
+huun  : 21
+haye  : 21
+haal  : 21
+ange  : 21
+anen  : 21
+ahaa  : 21
+aalo  : 21
+aahi  : 21
+ tapa : 21
+ tama : 21
+ pich : 21
+ paan : 21
+ niha : 21
+ naar : 21
+ muka : 21
+ moha : 21
+ mehe : 21
+ khar : 21
+ kada : 21
+ hava : 21
+yaar  : 20
+waar  : 20
+raye  : 20
+rake  : 20
+khaa  : 20
+hiya  : 20
+hali  : 20
+haao  : 20
+haae  : 20
+eyaa  : 20
+eena  : 20
+akon  : 20
+aaji  : 20
+aade  : 20
+aada  : 20
+ vish : 20
+ vich : 20
+ tala : 20
+ sala : 20
+ sach : 20
+ raah : 20
+ puuc : 20
+ prad : 20
+ pila : 20
+ kisi : 20
+ kaam : 20
+ hata : 20
+ ghar : 20
+ ganv : 20
+ dhar : 20
+ baat : 20
+ abhi : 20
+raai  : 19
+luun  : 19
+kana  : 19
+inon  : 19
+hiye  : 19
+gaar  : 19
+amen  : 19
+aman  : 19
+aein  : 19
+abon  : 19
+ utaa : 19
+ tana : 19
+ sahe : 19
+ puch : 19
+ karo : 19
+ jawa : 19
+ hala : 19
+ fara : 19
+ daba : 19
+ chum : 19
+ bisa : 19
+ beta : 19
+ beet : 19
+tegi  : 18
+shon  : 18
+raar  : 18
+pati  : 18
+pana  : 18
+laya  : 18
+kate  : 18
+kata  : 18
+hoge  : 18
+heen  : 18
+eraa  : 18
+chon  : 18
+awaa  : 18
+asta  : 18
+arne  : 18
+anti  : 18
+ahar  : 18
+acha  : 18
+aavo  : 18
+ tuut : 18
+ tars : 18
+ tanh : 18
+ sanw : 18
+ rupa : 18
+ raat : 18
+ raas : 18
+ raam : 18
+ pigh : 18
+ pard : 18
+ nikh : 18
+ mahi : 18
+ kari : 18
+ jata : 18
+ jaad : 18
+ gava : 18
+ dhun : 18
+ chod : 18
+ bith : 18
+ bhan : 18
+ bhad : 18
+ beqa : 18
+ beda : 18
+ adhi : 18
+vari  : 17
+urat  : 17
+than  : 17
+thaa  : 17
+saan  : 17
+ruun  : 17
+roon  : 17
+noon  : 17
+nate  : 17
+mana  : 17
+loon  : 17
+laao  : 17
+laae  : 17
+iyat  : 17
+eron  : 17
+dhan  : 17
+dein  : 17
+ayin  : 17
+ayak  : 17
+asha  : 17
+andi  : 17
+amat  : 17
+ahat  : 17
+adar  : 17
+aami  : 17
+ sava : 17
+ rama : 17
+ praa : 17
+ poor : 17
+ pehc : 17
+ peha : 17
+ paya : 17
+ naga : 17
+ naaz : 17
+ naak : 17
+ mand : 17
+ maah : 17
+ lubh : 17
+ kisa : 17
+ kaal : 17
+ ghul : 17
+ gaha : 17
+ gaay : 17
+ doha : 17
+ bola : 17
+ badl : 17
+ apan : 17
+ aaja : 17
+zaar  : 16
+wali  : 16
+tega  : 16
+riye  : 16
+regi  : 16
+ndra  : 16
+nati  : 16
+laye  : 16
+laai  : 16
+kari  : 16
+eyon  : 16
+chha  : 16
+ayii  : 16
+awan  : 16
+aogi  : 16
+anda  : 16
+alat  : 16
+akta  : 16
+ahii  : 16
+adan  : 16
+abar  : 16
+ sune : 16
+ sund : 16
+ sawa : 16
+ sand : 16
+ ruut : 16
+ raja : 16
+ pahe : 16
+ naja : 16
+ mant : 16
+ mala : 16
+ kuda : 16
+ jisa : 16
+ jhil : 16
+ jeet : 16
+ itar : 16
+ hind : 16
+ hari : 16
+ gung : 16
+ duni : 16
+ doob : 16
+ comp : 16
+ chuk : 16
+ bhee : 16
+ baaw : 16
+raao  : 15
+orii  : 15
+mane  : 15
+kegi  : 15
+ilon  : 15
+hiyo  : 15
+gane  : 15
+date  : 15
+dane  : 15
+chhe  : 15
+chal  : 15
+atan  : 15
+ashi  : 15
+asaa  : 15
+arna  : 15
+anee  : 15
+adhi  : 15
+ vaal : 15
+ tuma : 15
+ thaa : 15
+ taqa : 15
+ taba : 15
+ seva : 15
+ sarv : 15
+ rish : 15
+ raan : 15
+ parv : 15
+ paap : 15
+ naad : 15
+ mile : 15
+ maat : 15
+ maas : 15
+ lipa : 15
+ laay : 15
+ kita : 15
+ khay : 15
+ karu : 15
+ kach : 15
+ juda : 15
+ jind : 15
+ jina : 15
+ java : 15
+ jaao : 15
+ ghum : 15
+ fasa : 15
+ duub : 15
+ dari : 15
+ chub : 15
+ chil : 15
+ cheh : 15
+ chau : 15
+ bhat : 15
+ baah : 15
+ aaye : 15
+ aara : 15
+wale  : 14
+tati  : 14
+tate  : 14
+sane  : 14
+rani  : 14
+raat  : 14
+pate  : 14
+oron  : 14
+oori  : 14
+nuun  : 14
+nkar  : 14
+ndar  : 14
+nand  : 14
+nake  : 14
+naam  : 14
+laan  : 14
+laam  : 14
+ksha  : 14
+kein  : 14
+itaa  : 14
+hnaa  : 14
+hkar  : 14
+hayi  : 14
+hani  : 14
+gari  : 14
+gana  : 14
+dhaa  : 14
+ayon  : 14
+ason  : 14
+asan  : 14
+ante  : 14
+anch  : 14
+alen  : 14
+alay  : 14
+alan  : 14
+alam  : 14
+ahen  : 14
+ahee  : 14
+agaa  : 14
+abad  : 14
+ yaad : 14
+ wafa : 14
+ waal : 14
+ waad : 14
+ veer : 14
+ vaad : 14
+ ubha : 14
+ sing : 14
+ sapa : 14
+ saam : 14
+ maza : 14
+ maal : 14
+ laut : 14
+ lage : 14
+ karm : 14
+ kaay : 14
+ jaae : 14
+ gaan : 14
+ fiza : 14
+ daha : 14
+ daan : 14
+ chee : 14
+ bira : 14
+ bhoo : 14
+ beva : 14
+ besa : 14
+ bang : 14
+ bain : 14
+ baaz : 14
+ ankh : 14
+ anja : 14
+ aawa : 14
+ aakh : 14
+taab  : 13
+saar  : 13
+raam  : 13
+nein  : 13
+ndon  : 13
+mata  : 13
+inge  : 13
+hogi  : 13
+hiin  : 13
+here  : 13
+gali  : 13
+dhar  : 13
+dari  : 13
+char  : 13
+arun  : 13
+anam  : 13
+ahin  : 13
+ahal  : 13
+agon  : 13
+agan  : 13
+adii  : 13
+aava  : 13
+aath  : 13
+aahe  : 13
+ vaas : 13
+ takr : 13
+ sukh : 13
+ sudh : 13
+ siya : 13
+ sima : 13
+ sank : 13
+ saka : 13
+ safa : 13
+ saaw : 13
+ rusa : 13
+ rasa : 13
+ patt : 13
+ pada : 13
+ nind : 13
+ nash : 13
+ maay : 13
+ loot : 13
+ lamb : 13
+ laal : 13
+ laag : 13
+ kush : 13
+ khwa : 13
+ kavi : 13
+ kasa : 13
+ kali : 13
+ jagm : 13
+ jaat : 13
+ diiv : 13
+ dhan : 13
+ deva : 13
+ darw : 13
+ daar : 13
+ bewa : 13
+ aapa : 13
+take  : 12
+shak  : 12
+sata  : 12
+rava  : 12
+raaj  : 12
+pata  : 12
+pane  : 12
+oshi  : 12
+ntri  : 12
+nana  : 12
+maat  : 12
+loge  : 12
+lake  : 12
+kega  : 12
+kara  : 12
+hera  : 12
+gati  : 12
+enaa  : 12
+degi  : 12
+dega  : 12
+data  : 12
+dake  : 12
+chan  : 12
+ayan  : 12
+atin  : 12
+atha  : 12
+atak  : 12
+arti  : 12
+anta  : 12
+anna  : 12
+alta  : 12
+alne  : 12
+alla  : 12
+alak  : 12
+akam  : 12
+ajan  : 12
+aiyo  : 12
+agee  : 12
+aega  : 12
+adha  : 12
+aden  : 12
+adam  : 12
+achi  : 12
+ache  : 12
+aazi  : 12
+aama  : 12
+aaja  : 12
+aabi  : 12
+ zanj : 12
+ yaar : 12
+ vaar : 12
+ toot : 12
+ thum : 12
+ stha : 12
+ sind : 12
+ sark : 12
+ sant : 12
+ sake : 12
+ saal : 12
+ ruth : 12
+ rahu : 12
+ puuj : 12
+ pran : 12
+ pher : 12
+ pati : 12
+ pana : 12
+ paar : 12
+ paak : 12
+ nird : 12
+ nich : 12
+ manz : 12
+ luut : 12
+ leha : 12
+ khin : 12
+ khat : 12
+ kaab : 12
+ jaal : 12
+ haat : 12
+ haal : 12
+ guja : 12
+ ghoo : 12
+ gali : 12
+ farm : 12
+ fari : 12
+ doos : 12
+ dast : 12
+ dama : 12
+ chul : 12
+ chir : 12
+ bhik : 12
+ behe : 12
+ barb : 12
+ bane : 12
+ baav : 12
+ baag : 12
+ baab : 12
+ adhy : 12
+ achc : 12
+ aazm : 12
+ aava : 12
+yaam  : 11
+wari  : 11
+wara  : 11
+vana  : 11
+vaai  : 11
+unaa  : 11
+ulaa  : 11
+thon  : 11
+taye  : 11
+tata  : 11
+shaa  : 11
+rega  : 11
+oree  : 11
+nkaa  : 11
+ndaa  : 11
+nche  : 11
+nata  : 11
+nagi  : 11
+mari  : 11
+lani  : 11
+laal  : 11
+kaya  : 11
+jhaa  : 11
+jaan  : 11
+iren  : 11
+iraa  : 11
+inda  : 11
+ilen  : 11
+idaa  : 11
+hadi  : 11
+haat  : 11
+epan  : 11
+eeta  : 11
+eela  : 11
+duun  : 11
+dani  : 11
+daai  : 11
+chhi  : 11
+baad  : 11
+ayat  : 11
+atri  : 11
+asar  : 11
+ardi  : 11
+alti  : 11
+aley  : 11
+akat  : 11
+agat  : 11
+abha  : 11
+aase  : 11
+aakh  : 11
+aaga  : 11
+aado  : 11
+ vafa : 11
+ uthh : 11
+ uljh : 11
+ ujad : 11
+ uchh : 11
+ taal : 11
+ suur : 11
+ sila : 11
+ sidh : 11
+ shuk : 11
+ shra : 11
+ seen : 11
+ saga : 11
+ sadh : 11
+ sabh : 11
+ saat : 11
+ saar : 11
+ saah : 11
+ reha : 11
+ rava : 11
+ raho : 11
+ rahi : 11
+ path : 11
+ palk : 11
+ pair : 11
+ paav : 11
+ naya : 11
+ nava : 11
+ muqa : 11
+ mehk : 11
+ manj : 11
+ mada : 11
+ maam : 11
+ ladk : 11
+ kira : 11
+ kina : 11
+ kash : 11
+ jaha : 11
+ jaav : 11
+ jaau : 11
+ inta : 11
+ hira : 11
+ hila : 11
+ haza : 11
+ hasi : 11
+ ghut : 11
+ garm : 11
+ fran : 11
+ faas : 11
+ dulh : 11
+ dish : 11
+ daud : 11
+ darr : 11
+ dare : 11
+ daas : 11
+ daam : 11
+ chot : 11
+ bhol : 11
+ bhej : 11
+ bekh : 11
+ bega : 11
+ bair : 11
+ arma : 11
+ akad : 11
+ adhu : 11
+ adha : 11
+ aans : 11
+yiye  : 10
+yara  : 10
+yada  : 10
+ware  : 10
+ulon  : 10
+toon  : 10
+tion  : 10
+tari  : 10
+tani  : 10
+star  : 10
+siya  : 10
+sion  : 10
+shti  : 10
+sari  : 10
+sake  : 10
+raya  : 10
+raae  : 10
+oton  : 10
+otaa  : 10
+olon  : 10
+olaa  : 10
+ngey  : 10
+ndan  : 10
+ndal  : 10
+make  : 10
+maar  : 10
+maal  : 10
+maai  : 10
+kram  : 10
+kiya  : 10
+kaye  : 10
+jaar  : 10
+imaa  : 10
+ikar  : 10
+hyan  : 10
+htaa  : 10
+hraa  : 10
+hole  : 10
+hish  : 10
+hhaa  : 10
+haon  : 10
+halo  : 10
+haad  : 10
+giya  : 10
+elon  : 10
+elaa  : 10
+desh  : 10
+dati  : 10
+dard  : 10
+ayal  : 10
+avar  : 10
+atta  : 10
+atra  : 10
+athi  : 10
+aste  : 10
+asee  : 10
+arte  : 10
+aras  : 10
+anke  : 10
+amal  : 10
+alte  : 10
+ajon  : 10
+agii  : 10
+aanv  : 10
+aang  : 10
+aaje  : 10
+ zama : 10
+ vika : 10
+ ummi : 10
+ ujaa : 10
+ toha : 10
+ toda : 10
+ tasa : 10
+ tare : 10
+ sulj : 10
+ sisa : 10
+ shya : 10
+ shiv : 10
+ sher : 10
+ seha : 10
+ saas : 10
+ saaj : 10
+ ruke : 10
+ ruka : 10
+ prem : 10
+ prab : 10
+ pooj : 10
+ pita : 10
+ pehn : 10
+ pare : 10
+ pade : 10
+ paat : 10
+ paao : 10
+ nisa : 10
+ nama : 10
+ naam : 10
+ mund : 10
+ muda : 10
+ mich : 10
+ mare : 10
+ lahe : 10
+ lach : 10
+ laan : 10
+ kehl : 10
+ keha : 10
+ kaja : 10
+ kahu : 10
+ jiya : 10
+ jhar : 10
+ jhan : 10
+ japa : 10
+ janm : 10
+ hich : 10
+ hase : 10
+ halk : 10
+ ghol : 10
+ ghan : 10
+ gehr : 10
+ gawa : 10
+ fira : 10
+ duaa : 10
+ dhul : 10
+ dhoo : 10
+ dard : 10
+ chor : 10
+ boon : 10
+ bole : 10
+ behl : 10
+ batl : 10
+ banj : 10
+ baas : 10
+ anaa : 10
+ adaa : 10
+ aane : 10
+ aadi : 10
+ aada : 10
+yoon  : 9
+yari  : 9
+yala  : 9
+yaat  : 9
+vara  : 9
+utaa  : 9
+urii  : 9
+udaa  : 9
+taon  : 9
+staa  : 9
+soon  : 9
+shin  : 9
+sara  : 9
+sana  : 9
+rasi  : 9
+oraa  : 9
+olii  : 9
+ogii  : 9
+odaa  : 9
+ngan  : 9
+nchi  : 9
+nane  : 9
+naai  : 9
+maya  : 9
+mani  : 9
+llaa  : 9
+laah  : 9
+kade  : 9
+kaao  : 9
+kaan  : 9
+jiye  : 9
+itik  : 9
+idhi  : 9
+hini  : 9
+heti  : 9
+hele  : 9
+hela  : 9
+haro  : 9
+haas  : 9
+gata  : 9
+gani  : 9
+gada  : 9
+gaan  : 9
+etaa  : 9
+ehra  : 9
+eeli  : 9
+eele  : 9
+chit  : 9
+asti  : 9
+arya  : 9
+arey  : 9
+amil  : 9
+alke  : 9
+alim  : 9
+aksh  : 9
+ajaa  : 9
+aise  : 9
+abee  : 9
+aaki  : 9
+aaka  : 9
+aaho  : 9
+aage  : 9
+ zulf : 9
+ vara : 9
+ vais : 9
+ ujiy : 9
+ udha : 9
+ toof : 9
+ tasv : 9
+ suni : 9
+ shri : 9
+ shir : 9
+ sanj : 9
+ samp : 9
+ saku : 9
+ sako : 9
+ sakh : 9
+ saiy : 9
+ sahi : 9
+ roye : 9
+ reht : 9
+ ranj : 9
+ puur : 9
+ puja : 9
+ prak : 9
+ piya : 9
+ pehe : 9
+ peec : 9
+ parw : 9
+ pani : 9
+ paiy : 9
+ pain : 9
+ paga : 9
+ nikl : 9
+ nauk : 9
+ nain : 9
+ naag : 9
+ muha : 9
+ moti : 9
+ milt : 9
+ matw : 9
+ maro : 9
+ majb : 9
+ lute : 9
+ laad : 9
+ koya : 9
+ khev : 9
+ khal : 9
+ kate : 9
+ kart : 9
+ kang : 9
+ kahi : 9
+ kaah : 9
+ kaag : 9
+ jyot : 9
+ juba : 9
+ jhut : 9
+ jhel : 9
+ jhag : 9
+ jale : 9
+ isha : 9
+ hont : 9
+ guru : 9
+ gori : 9
+ gher : 9
+ ghaa : 9
+ gari : 9
+ gaat : 9
+ gaal : 9
+ dula : 9
+ dubo : 9
+ duba : 9
+ door : 9
+ dola : 9
+ dewa : 9
+ chap : 9
+ chai : 9
+ bund : 9
+ bhuj : 9
+ bhii : 9
+ bhav : 9
+ bhaj : 9
+ beba : 9
+ base : 9
+ bans : 9
+ balk : 9
+ badn : 9
+ alab : 9
+ afas : 9
+ acha : 9
+ acch : 9
+ aaya : 9
+ aaga : 9
+yata  : 8
+wala  : 8
+vati  : 8
+vaas  : 8
+vaad  : 8
+uuri  : 8
+uthi  : 8
+uthe  : 8
+urti  : 8
+ukhi  : 8
+ttaa  : 8
+thar  : 8
+thak  : 8
+tara  : 8
+taao  : 8
+ston  : 8
+siyo  : 8
+shya  : 8
+segi  : 8
+sati  : 8
+sate  : 8
+riki  : 8
+raha  : 8
+raaz  : 8
+paye  : 8
+paar  : 8
+onaa  : 8
+olen  : 8
+niye  : 8
+ngen  : 8
+ndha  : 8
+nava  : 8
+naan  : 8
+maye  : 8
+mako  : 8
+lika  : 8
+lava  : 8
+laat  : 8
+khan  : 8
+karo  : 8
+jana  : 8
+ithi  : 8
+ikaa  : 8
+hota  : 8
+hone  : 8
+hira  : 8
+haun  : 8
+haki  : 8
+hada  : 8
+haav  : 8
+gaai  : 8
+enon  : 8
+elii  : 8
+ekha  : 8
+ekar  : 8
+ehar  : 8
+eene  : 8
+eche  : 8
+doge  : 8
+ddhi  : 8
+ccha  : 8
+bhar  : 8
+been  : 8
+bbat  : 8
+azon  : 8
+azar  : 8
+atke  : 8
+atar  : 8
+atam  : 8
+asii  : 8
+arit  : 8
+arak  : 8
+apna  : 8
+apat  : 8
+anoo  : 8
+anka  : 8
+andh  : 8
+ande  : 8
+amma  : 8
+amar  : 8
+alna  : 8
+akti  : 8
+akna  : 8
+aken  : 8
+afaa  : 8
+adte  : 8
+aboo  : 8
+abin  : 8
+abaa  : 8
+aato  : 8
+aaru  : 8
+aanu  : 8
+aagi  : 8
+ yaha : 8
+ vina : 8
+ uthe : 8
+ unak : 8
+ umme : 8
+ ulle : 8
+ toli : 8
+ tode : 8
+ tita : 8
+ tees : 8
+ swar : 8
+ swaa : 8
+ suun : 8
+ suba : 8
+ soor : 8
+ shay : 8
+ shan : 8
+ shah : 8
+ seet : 8
+ seek : 8
+ saug : 8
+ saud : 8
+ satt : 8
+ satr : 8
+ sapn : 8
+ sanb : 8
+ sana : 8
+ same : 8
+ saje : 8
+ sain : 8
+ saay : 8
+ rusw : 8
+ roke : 8
+ rijh : 8
+ rasi : 8
+ rajn : 8
+ ragh : 8
+ qata : 8
+ piro : 8
+ papi : 8
+ pand : 8
+ paag : 8
+ nirm : 8
+ nazr : 8
+ nauj : 8
+ nagm : 8
+ naas : 8
+ murj : 8
+ muba : 8
+ mili : 8
+ maya : 8
+ maus : 8
+ main : 8
+ lang : 8
+ lamh : 8
+ laja : 8
+ kuch : 8
+ kham : 8
+ kend : 8
+ keht : 8
+ karn : 8
+ kant : 8
+ kami : 8
+ kale : 8
+ kaho : 8
+ kaba : 8
+ just : 8
+ jhin : 8
+ jaye : 8
+ jaya : 8
+ inte : 8
+ insa : 8
+ husn : 8
+ hume : 8
+ hath : 8
+ hasr : 8
+ hame : 8
+ haan : 8
+ gunj : 8
+ giri : 8
+ gire : 8
+ gard : 8
+ gala : 8
+ gaja : 8
+ gaau : 8
+ gaao : 8
+ duun : 8
+ dost : 8
+ doon : 8
+ dilw : 8
+ dill : 8
+ dild : 8
+ daak : 8
+ chid : 8
+ buza : 8
+ bolu : 8
+ boli : 8
+ bima : 8
+ bill : 8
+ beht : 8
+ bati : 8
+ bast : 8
+ banu : 8
+ bali : 8
+ atak : 8
+ ashi : 8
+ apna : 8
+ anta : 8
+ ansu : 8
+ angu : 8
+ ande : 8
+ anaj : 8
+ amar : 8
+ alla : 8
+ akhi : 8
+ akel : 8
+ afsa : 8
+ aasm : 8
+ aanc : 8
+ aaka : 8
+yaas  : 7
+yaad  : 7
+yaab  : 7
+vuun  : 7
+vare  : 7
+vani  : 7
+vaal  : 7
+uraa  : 7
+unde  : 7
+umar  : 7
+ukta  : 7
+ujhe  : 7
+tare  : 7
+tala  : 7
+taae  : 7
+saye  : 7
+sare  : 7
+saki  : 7
+saka  : 7
+saas  : 7
+roor  : 7
+roge  : 7
+riyo  : 7
+reen  : 7
+rayi  : 7
+rama  : 7
+raja  : 7
+raay  : 7
+puri  : 7
+piya  : 7
+pake  : 7
+paao  : 7
+otii  : 7
+oone  : 7
+ohar  : 7
+ohan  : 7
+obaa  : 7
+ngon  : 7
+ngin  : 7
+ndhe  : 7
+ncha  : 7
+naya  : 7
+naao  : 7
+ment  : 7
+mbar  : 7
+mate  : 7
+mano  : 7
+maao  : 7
+llah  : 7
+lkar  : 7
+liyo  : 7
+ling  : 7
+layi  : 7
+kuun  : 7
+koon  : 7
+khta  : 7
+kash  : 7
+kaam  : 7
+jati  : 7
+jare  : 7
+jara  : 7
+jaao  : 7
+jaai  : 7
+iyya  : 7
+itya  : 7
+itar  : 7
+iran  : 7
+inna  : 7
+ilii  : 7
+hula  : 7
+htha  : 7
+htey  : 7
+holi  : 7
+hola  : 7
+hila  : 7
+heri  : 7
+hene  : 7
+hche  : 7
+hano  : 7
+hain  : 7
+haay  : 7
+haah  : 7
+gein  : 7
+gate  : 7
+gale  : 7
+gaah  : 7
+faan  : 7
+eren  : 7
+ehre  : 7
+eeye  : 7
+doon  : 7
+dkar  : 7
+dhon  : 7
+dagi  : 7
+bara  : 7
+baat  : 7
+azaa  : 7
+ayam  : 7
+atti  : 7
+ashe  : 7
+arzi  : 7
+arin  : 7
+arik  : 7
+arda  : 7
+araj  : 7
+arah  : 7
+aqat  : 7
+apur  : 7
+appa  : 7
+apas  : 7
+anni  : 7
+amii  : 7
+alli  : 7
+alle  : 7
+akul  : 7
+akte  : 7
+akhi  : 7
+aile  : 7
+aida  : 7
+ahun  : 7
+ahoo  : 7
+aher  : 7
+aham  : 7
+agun  : 7
+aaza  : 7
+aawe  : 7
+aash  : 7
+aasa  : 7
+aaoo  : 7
+aant  : 7
+aand  : 7
+aalu  : 7
+aaha  : 7
+aago  : 7
+ zulm : 7
+ zakh : 7
+ zaal : 7
+ wira : 7
+ viir : 7
+ vaha : 7
+ usak : 7
+ udat : 7
+ tuta : 7
+ tukd : 7
+ tira : 7
+ tika : 7
+ taiy : 7
+ taak : 7
+ svaa : 7
+ soni : 7
+ sira : 7
+ shur : 7
+ shol : 7
+ shok : 7
+ shiq : 7
+ shak : 7
+ saty : 7
+ sasu : 7
+ sarg : 7
+ sann : 7
+ ruba : 7
+ roop : 7
+ rast : 7
+ rasm : 7
+ rajy : 7
+ raak : 7
+ qurb : 7
+ purv : 7
+ priy : 7
+ phen : 7
+ pech : 7
+ patr : 7
+ pash : 7
+ pasa : 7
+ part : 7
+ pape : 7
+ panc : 7
+ pado : 7
+ paau : 7
+ nyaa : 7
+ neen : 7
+ nasi : 7
+ nara : 7
+ nand : 7
+ nahi : 7
+ nagh : 7
+ nadi : 7
+ naat : 7
+ naal : 7
+ munn : 7
+ mudd : 7
+ mite : 7
+ milo : 7
+ mauj : 7
+ matv : 7
+ mash : 7
+ mari : 7
+ mard : 7
+ manc : 7
+ maaj : 7
+ lara : 7
+ lapa : 7
+ laki : 7
+ lake : 7
+ lahr : 7
+ laao : 7
+ laae : 7
+ kunw : 7
+ kudi : 7
+ kiss : 7
+ kism : 7
+ khum : 7
+ khoy : 7
+ khoo : 7
+ khaz : 7
+ kaya : 7
+ kaun : 7
+ kapa : 7
+ kanh : 7
+ kamp : 7
+ kajr : 7
+ kais : 7
+ kaaj : 7
+ juga : 7
+ jogi : 7
+ jita : 7
+ jhap : 7
+ jeey : 7
+ jazb : 7
+ jaro : 7
+ jais : 7
+ jadu : 7
+ jaba : 7
+ itan : 7
+ isak : 7
+ inak : 7
+ hote : 7
+ hast : 7
+ hamr : 7
+ haas : 7
+ guzr : 7
+ govi : 7
+ ghad : 7
+ geet : 7
+ gaur : 7
+ gang : 7
+ gand : 7
+ gaav : 7
+ duur : 7
+ dusa : 7
+ duha : 7
+ dova : 7
+ dohr : 7
+ dhok : 7
+ dhin : 7
+ dham : 7
+ dhal : 7
+ daya : 7
+ dawa : 7
+ dasa : 7
+ daav : 7
+ daad : 7
+ chut : 7
+ chud : 7
+ chip : 7
+ bolo : 7
+ bija : 7
+ bhra : 7
+ bhal : 7
+ batt : 7
+ bano : 7
+ bani : 7
+ baje : 7
+ baiy : 7
+ babu : 7
+ baap : 7
+ ambu : 7
+ aaba : 7
+zaan  : 6
+yyaa  : 6
+yogi  : 6
+yoge  : 6
+yate  : 6
+yaal  : 6
+yaaa  : 6
+wani  : 6
+wana  : 6
+vesh  : 6
+vasi  : 6
+vali  : 6
+vaaz  : 6
+uvan  : 6
+unda  : 6
+umat  : 6
+ukii  : 6
+ukhe  : 6
+ukar  : 6
+ubaa  : 6
+tuun  : 6
+ttar  : 6
+ting  : 6
+taya  : 6
+taai  : 6
+stii  : 6
+sraa  : 6
+soor  : 6
+skar  : 6
+sile  : 6
+shta  : 6
+shit  : 6
+shen  : 6
+sein  : 6
+sega  : 6
+saro  : 6
+sala  : 6
+saao  : 6
+rkar  : 6
+rdon  : 6
+rath  : 6
+rase  : 6
+rari  : 6
+ranj  : 6
+rang  : 6
+rahi  : 6
+ragi  : 6
+rade  : 6
+rada  : 6
+raah  : 6
+oyaa  : 6
+orat  : 6
+ooba  : 6
+okha  : 6
+okar  : 6
+nwar  : 6
+nton  : 6
+noge  : 6
+nnaa  : 6
+njan  : 6
+nhen  : 6
+ngal  : 6
+negi  : 6
+ndhi  : 6
+nath  : 6
+nase  : 6
+naka  : 6
+mmaa  : 6
+mini  : 6
+mare  : 6
+maka  : 6
+maga  : 6
+ltaa  : 6
+lnaa  : 6
+lion  : 6
+lama  : 6
+laka  : 6
+laay  : 6
+kkam  : 6
+khya  : 6
+khne  : 6
+khen  : 6
+kali  : 6
+kadi  : 6
+kaai  : 6
+kaae  : 6
+jori  : 6
+jiya  : 6
+jhii  : 6
+jhan  : 6
+jaye  : 6
+jani  : 6
+jane  : 6
+iyam  : 6
+iyal  : 6
+itte  : 6
+itha  : 6
+ison  : 6
+isii  : 6
+isaa  : 6
+imat  : 6
+illi  : 6
+ikha  : 6
+ikat  : 6
+ihaa  : 6
+iche  : 6
+hute  : 6
+hule  : 6
+huda  : 6
+hton  : 6
+hoti  : 6
+hosh  : 6
+hoor  : 6
+hode  : 6
+hlaa  : 6
+hiri  : 6
+hina  : 6
+hena  : 6
+heli  : 6
+hand  : 6
+hami  : 6
+hako  : 6
+haka  : 6
+hade  : 6
+haam  : 6
+guun  : 6
+goon  : 6
+gini  : 6
+gaye  : 6
+gala  : 6
+gaao  : 6
+evar  : 6
+enga  : 6
+ehna  : 6
+eher  : 6
+eeya  : 6
+eeti  : 6
+ebon  : 6
+diyo  : 6
+diye  : 6
+ddha  : 6
+daas  : 6
+cham  : 6
+bhag  : 6
+bhaa  : 6
+base  : 6
+bala  : 6
+bake  : 6
+badi  : 6
+baaz  : 6
+ayar  : 6
+awat  : 6
+awar  : 6
+awab  : 6
+atna  : 6
+asya  : 6
+asat  : 6
+asal  : 6
+arma  : 6
+araz  : 6
+arab  : 6
+apta  : 6
+apar  : 6
+apak  : 6
+anun  : 6
+anth  : 6
+ansi  : 6
+anne  : 6
+anan  : 6
+anak  : 6
+amin  : 6
+ambh  : 6
+amad  : 6
+alun  : 6
+alki  : 6
+alin  : 6
+akho  : 6
+ajii  : 6
+ajal  : 6
+aisi  : 6
+aish  : 6
+aisa  : 6
+aing  : 6
+aina  : 6
+aili  : 6
+ahti  : 6
+ahta  : 6
+ahne  : 6
+ahak  : 6
+agne  : 6
+agli  : 6
+adti  : 6
+adta  : 6
+adne  : 6
+adna  : 6
+adke  : 6
+adhe  : 6
+adat  : 6
+abil  : 6
+abii  : 6
+aame  : 6
+aain  : 6
+ zuba : 6
+ zaru : 6
+ waar : 6
+ vyak : 6
+ vist : 6
+ vipa : 6
+ vidy : 6
+ vide : 6
+ vibh : 6
+ vand : 6
+ vahi : 6
+ unga : 6
+ unch : 6
+ ujal : 6
+ ugaa : 6
+ uday : 6
+ tufa : 6
+ tina : 6
+ tikh : 6
+ tiha : 6
+ thok : 6
+ thod : 6
+ thir : 6
+ tere : 6
+ taul : 6
+ taaj : 6
+ suru : 6
+ suku : 6
+ soon : 6
+ sola : 6
+ sipa : 6
+ sheh : 6
+ sehr : 6
+ seem : 6
+ saya : 6
+ sath : 6
+ sard : 6
+ sany : 6
+ samu : 6
+ samm : 6
+ salo : 6
+ saji : 6
+ sahu : 6
+ safe : 6
+ sadi : 6
+ rukh : 6
+ rosh : 6
+ roka : 6
+ rehe : 6
+ rawa : 6
+ rash : 6
+ raks : 6
+ raaz : 6
+ raag : 6
+ qasa : 6
+ qaaf : 6
+ puta : 6
+ punj : 6
+ pinj : 6
+ phuu : 6
+ phis : 6
+ pehl : 6
+ peet : 6
+ peed : 6
+ pasi : 6
+ panj : 6
+ paim : 6
+ paig : 6
+ pahc : 6
+ padu : 6
+ paae : 6
+ niya : 6
+ niva : 6
+ niil : 6
+ nigo : 6
+ neel : 6
+ nayi : 6
+ nase : 6
+ naka : 6
+ naan : 6
+ naah : 6
+ muhj : 6
+ moda : 6
+ mitt : 6
+ mith : 6
+ milu : 6
+ mikh : 6
+ mehb : 6
+ megh : 6
+ math : 6
+ mart : 6
+ mans : 6
+ mano : 6
+ manm : 6
+ maka : 6
+ mail : 6
+ maga : 6
+ lipt : 6
+ lata : 6
+ lagi : 6
+ lade : 6
+ laat : 6
+ kyaa : 6
+ kunv : 6
+ kris : 6
+ kitn : 6
+ kish : 6
+ khya : 6
+ khub : 6
+ khid : 6
+ khab : 6
+ kehn : 6
+ kehe : 6
+ kava : 6
+ kati : 6
+ kath : 6
+ kanv : 6
+ kaaf : 6
+ jung : 6
+ jula : 6
+ jiye : 6
+ jiit : 6
+ jhon : 6
+ jhol : 6
+ jant : 6
+ jalw : 6
+ jalv : 6
+ jalt : 6
+ iraa : 6
+ hosh : 6
+ hima : 6
+ haja : 6
+ hair : 6
+ gyaa : 6
+ guun : 6
+ gudi : 6
+ gopa : 6
+ goon : 6
+ ghun : 6
+ ghod : 6
+ ghir : 6
+ gayi : 6
+ gaya : 6
+ galt : 6
+ gaga : 6
+ gaae : 6
+ fais : 6
+ fail : 6
+ duwa : 6
+ dole : 6
+ diya : 6
+ dina : 6
+ dhya : 6
+ dher : 6
+ dhak : 6
+ desh : 6
+ daul : 6
+ dagm : 6
+ daaw : 6
+ chol : 6
+ ched : 6
+ buun : 6
+ bura : 6
+ buna : 6
+ budd : 6
+ birh : 6
+ bina : 6
+ bika : 6
+ biit : 6
+ biha : 6
+ besh : 6
+ beho : 6
+ behk : 6
+ baya : 6
+ bari : 6
+ banw : 6
+ ball : 6
+ bahi : 6
+ baga : 6
+ awaa : 6
+ anur : 6
+ ango : 6
+ angd : 6
+ anda : 6
+ ajan : 6
+ aham : 6
+ adiv : 6
+ abha : 6
+ aang : 6
+ aala : 6
+ aaha : 6
+zuur  : 5
+zara  : 5
+zaam  : 5
+yiya  : 5
+wane  : 5
+waaz  : 5
+waas  : 5
+waal  : 5
+waab  : 5
+veer  : 5
+vala  : 5
+vaah  : 5
+vaab  : 5
+uzar  : 5
+uute  : 5
+uuta  : 5
+uuli  : 5
+uule  : 5
+utta  : 5
+uton  : 5
+ushi  : 5
+uron  : 5
+urna  : 5
+unon  : 5
+umen  : 5
+ulti  : 5
+ulta  : 5
+ulla  : 5
+ulha  : 5
+ujaa  : 5
+udha  : 5
+uddh  : 5
+uche  : 5
+tnaa  : 5
+tkar  : 5
+tila  : 5
+thya  : 5
+thik  : 5
+teen  : 5
+tali  : 5
+taka  : 5
+taba  : 5
+taaz  : 5
+suur  : 5
+suri  : 5
+ster  : 5
+stan  : 5
+skaa  : 5
+shee  : 5
+saya  : 5
+sava  : 5
+sase  : 5
+sani  : 5
+same  : 5
+sale  : 5
+sako  : 5
+saal  : 5
+saai  : 5
+saae  : 5
+ruur  : 5
+rthi  : 5
+rtaa  : 5
+rogi  : 5
+rnaa  : 5
+rjan  : 5
+riti  : 5
+ring  : 5
+rbat  : 5
+raje  : 5
+rabi  : 5
+raag  : 5
+paya  : 5
+pani  : 5
+paka  : 5
+pada  : 5
+paan  : 5
+paal  : 5
+otha  : 5
+otee  : 5
+oote  : 5
+oota  : 5
+oole  : 5
+olna  : 5
+odon  : 5
+ocha  : 5
+nyaa  : 5
+nson  : 5
+nhon  : 5
+ngne  : 5
+nega  : 5
+ndii  : 5
+nder  : 5
+nden  : 5
+naye  : 5
+nani  : 5
+naki  : 5
+naat  : 5
+naar  : 5
+naae  : 5
+mmat  : 5
+meer  : 5
+mber  : 5
+mayi  : 5
+mase  : 5
+mara  : 5
+mand  : 5
+mala  : 5
+lish  : 5
+lhaa  : 5
+laki  : 5
+lade  : 5
+koge  : 5
+khte  : 5
+khil  : 5
+khar  : 5
+kaas  : 5
+kaal  : 5
+jegi  : 5
+jate  : 5
+jata  : 5
+jali  : 5
+jale  : 5
+iyun  : 5
+ivar  : 5
+itta  : 5
+itne  : 5
+itam  : 5
+ital  : 5
+isse  : 5
+issa  : 5
+isha  : 5
+isee  : 5
+irat  : 5
+inya  : 5
+inke  : 5
+inii  : 5
+ikka  : 5
+ikhe  : 5
+ikal  : 5
+iine  : 5
+ihar  : 5
+idha  : 5
+hyaa  : 5
+huaa  : 5
+hram  : 5
+hori  : 5
+hoom  : 5
+holo  : 5
+hodi  : 5
+hoda  : 5
+hire  : 5
+hili  : 5
+hile  : 5
+hero  : 5
+heki  : 5
+hcha  : 5
+hava  : 5
+hase  : 5
+hame  : 5
+hama  : 5
+haap  : 5
+haak  : 5
+ghon  : 5
+gega  : 5
+geen  : 5
+gara  : 5
+gama  : 5
+gaam  : 5
+gaae  : 5
+etii  : 5
+esha  : 5
+erii  : 5
+erey  : 5
+eree  : 5
+emat  : 5
+ekta  : 5
+ekhi  : 5
+ehta  : 5
+ehne  : 5
+ehke  : 5
+ehan  : 5
+ehaa  : 5
+eeno  : 5
+eeda  : 5
+edaa  : 5
+door  : 5
+dhya  : 5
+dhta  : 5
+dayi  : 5
+dasa  : 5
+dara  : 5
+dale  : 5
+daam  : 5
+daad  : 5
+core  : 5
+chti  : 5
+chne  : 5
+chna  : 5
+chii  : 5
+chho  : 5
+chee  : 5
+chay  : 5
+chat  : 5
+chak  : 5
+cche  : 5
+bati  : 5
+bate  : 5
+bata  : 5
+baro  : 5
+bani  : 5
+baah  : 5
+ayya  : 5
+ayda  : 5
+avon  : 5
+aven  : 5
+atey  : 5
+assi  : 5
+asne  : 5
+arsh  : 5
+arre  : 5
+arra  : 5
+aroh  : 5
+arke  : 5
+arji  : 5
+arar  : 5
+arai  : 5
+apti  : 5
+apne  : 5
+ansa  : 5
+anki  : 5
+anha  : 5
+aney  : 5
+anat  : 5
+amne  : 5
+amla  : 5
+amke  : 5
+ambe  : 5
+amba  : 5
+amak  : 5
+aloo  : 5
+akne  : 5
+akit  : 5
+akhe  : 5
+akee  : 5
+akal  : 5
+ajya  : 5
+ajhi  : 5
+ajha  : 5
+ajar  : 5
+aila  : 5
+aike  : 5
+agti  : 5
+agin  : 5
+agda  : 5
+afir  : 5
+afat  : 5
+afar  : 5
+adir  : 5
+adin  : 5
+acho  : 5
+abul  : 5
+abua  : 5
+abhi  : 5
+aban  : 5
+aavi  : 5
+aako  : 5
+aahu  : 5
+aach  : 5
+aabu  : 5
+ zarr : 5
+ zara : 5
+ zami : 5
+ zaha : 5
+ yuun : 5
+ yeha : 5
+ vyav : 5
+ vyaa : 5
+ vana : 5
+ utta : 5
+ utre : 5
+ utpa : 5
+ utan : 5
+ upka : 5
+ upar : 5
+ unho : 5
+ unhe : 5
+ uman : 5
+ umad : 5
+ ulaz : 5
+ ulat : 5
+ uddh : 5
+ tyaa : 5
+ tota : 5
+ thik : 5
+ than : 5
+ tham : 5
+ tera : 5
+ taqd : 5
+ taku : 5
+ taki : 5
+ swap : 5
+ swam : 5
+ sulg : 5
+ such : 5
+ subh : 5
+ sona : 5
+ soha : 5
+ siks : 5
+ siin : 5
+ shat : 5
+ sham : 5
+ shab : 5
+ save : 5
+ sarh : 5
+ samo : 5
+ sami : 5
+ samh : 5
+ sakt : 5
+ sajj : 5
+ sail : 5
+ saho : 5
+ saac : 5
+ saab : 5
+ reva : 5
+ resh : 5
+ rekh : 5
+ ratl : 5
+ rase : 5
+ raft : 5
+ raad : 5
+ qada : 5
+ qaay : 5
+ pyar : 5
+ prit : 5
+ pree : 5
+ poon : 5
+ pesh : 5
+ paye : 5
+ paun : 5
+ pate : 5
+ pary : 5
+ paro : 5
+ papp : 5
+ pank : 5
+ pall : 5
+ pale : 5
+ pakk : 5
+ pakd : 5
+ pais : 5
+ pahl : 5
+ paas : 5
+ nyay : 5
+ nirv : 5
+ nimb : 5
+ nila : 5
+ neta : 5
+ neha : 5
+ nafa : 5
+ naaj : 5
+ musi : 5
+ muaa : 5
+ miya : 5
+ minn : 5
+ mina : 5
+ mill : 5
+ meri : 5
+ mera : 5
+ maru : 5
+ marm : 5
+ mama : 5
+ mall : 5
+ majh : 5
+ maik : 5
+ maid : 5
+ madr : 5
+ luun : 5
+ lori : 5
+ lekh : 5
+ lehe : 5
+ laun : 5
+ lape : 5
+ lama : 5
+ lall : 5
+ lalc : 5
+ lagt : 5
+ lago : 5
+ lafa : 5
+ ladi : 5
+ labo : 5
+ laav : 5
+ laau : 5
+ laak : 5
+ laaj : 5
+ kumh : 5
+ kshe : 5
+ ksha : 5
+ kosh : 5
+ kisk : 5
+ khuu : 5
+ khot : 5
+ khoj : 5
+ khet : 5
+ khad : 5
+ kato : 5
+ kasm : 5
+ karw : 5
+ karv : 5
+ kany : 5
+ kank : 5
+ kand : 5
+ kall : 5
+ kaht : 5
+ juut : 5
+ juta : 5
+ jugn : 5
+ jitn : 5
+ jism : 5
+ jisk : 5
+ jinh : 5
+ jhun : 5
+ jham : 5
+ jhal : 5
+ jeha : 5
+ jeev : 5
+ jann : 5
+ jane : 5
+ jali : 5
+ jaai : 5
+ jaah : 5
+ inka : 5
+ inas : 5
+ hums : 5
+ humr : 5
+ humn : 5
+ hong : 5
+ hiss : 5
+ heer : 5
+ haus : 5
+ haay : 5
+ gust : 5
+ guma : 5
+ guda : 5
+ gita : 5
+ girt : 5
+ gina : 5
+ gila : 5
+ ghot : 5
+ gall : 5
+ gale : 5
+ gair : 5
+ gaad : 5
+ fool : 5
+ film : 5
+ fasl : 5
+ duus : 5
+ duri : 5
+ duka : 5
+ dori : 5
+ dooj : 5
+ doli : 5
+ dilb : 5
+ dhol : 5
+ devi : 5
+ deep : 5
+ deen : 5
+ deej : 5
+ deed : 5
+ dava : 5
+ darb : 5
+ dang : 5
+ dafa : 5
+ daay : 5
+ chii : 5
+ chet : 5
+ chay : 5
+ chab : 5
+ buta : 5
+ bull : 5
+ buja : 5
+ boot : 5
+ bind : 5
+ biju : 5
+ bijl : 5
+ bidh : 5
+ bide : 5
+ bhuk : 5
+ bhay : 5
+ bema : 5
+ beem : 5
+ bark : 5
+ barh : 5
+ barf : 5
+ bant : 5
+ bann : 5
+ bank : 5
+ bahu : 5
+ baho : 5
+ bagi : 5
+ bado : 5
+ anya : 5
+ anus : 5
+ anka : 5
+ anan : 5
+ amri : 5
+ amee : 5
+ amba : 5
+ amaa : 5
+ alaa : 5
+ akha : 5
+ ajaa : 5
+ aayo : 5
+ aayi : 5
+ aath : 5
+ aata : 5
+ aarz : 5
+ aapk : 5
+ aama : 5
+yiyo  : 4
+yasi  : 4
+yana  : 4
+yaah  : 4
+wein  : 4
+waai  : 4
+waah  : 4
+vale  : 4
+uuti  : 4
+utne  : 4
+utha  : 4
+usur  : 4
+uske  : 4
+urur  : 4
+uree  : 4
+uran  : 4
+unki  : 4
+unhi  : 4
+unak  : 4
+umte  : 4
+umne  : 4
+umme  : 4
+umma  : 4
+uman  : 4
+umak  : 4
+ulle  : 4
+ulat  : 4
+ulam  : 4
+ukaa  : 4
+ujhi  : 4
+udan  : 4
+udai  : 4
+uchh  : 4
+tton  : 4
+trii  : 4
+tiye  : 4
+tija  : 4
+thri  : 4
+taro  : 4
+tale  : 4
+taki  : 4
+taal  : 4
+taaj  : 4
+taah  : 4
+suon  : 4
+ssaa  : 4
+srat  : 4
+soos  : 4
+smon  : 4
+smat  : 4
+siye  : 4
+sila  : 4
+shri  : 4
+shor  : 4
+shal  : 4
+shah  : 4
+seen  : 4
+sape  : 4
+sang  : 4
+saab  : 4
+ruba  : 4
+rodh  : 4
+rnon  : 4
+rita  : 4
+rish  : 4
+rion  : 4
+rila  : 4
+rika  : 4
+rida  : 4
+ress  : 4
+reli  : 4
+rban  : 4
+rawa  : 4
+rale  : 4
+raki  : 4
+raji  : 4
+raas  : 4
+raab  : 4
+ptaa  : 4
+ppaa  : 4
+payi  : 4
+path  : 4
+pari  : 4
+para  : 4
+pade  : 4
+paai  : 4
+othi  : 4
+osaa  : 4
+ooti  : 4
+oora  : 4
+ooda  : 4
+ondi  : 4
+olti  : 4
+olta  : 4
+okhe  : 4
+ojan  : 4
+ojaa  : 4
+ogee  : 4
+ogan  : 4
+odti  : 4
+odna  : 4
+odke  : 4
+odii  : 4
+nvar  : 4
+nush  : 4
+ntar  : 4
+ntal  : 4
+ntaa  : 4
+nnon  : 4
+nkon  : 4
+njhe  : 4
+niyo  : 4
+nhin  : 4
+ngna  : 4
+ngle  : 4
+nayi  : 4
+nawa  : 4
+nami  : 4
+nako  : 4
+naah  : 4
+mosh  : 4
+mkar  : 4
+miya  : 4
+mita  : 4
+mega  : 4
+meen  : 4
+mbha  : 4
+mbal  : 4
+mbaa  : 4
+mast  : 4
+mali  : 4
+majh  : 4
+maay  : 4
+maae  : 4
+lori  : 4
+lini  : 4
+leen  : 4
+lawa  : 4
+lang  : 4
+ladi  : 4
+laad  : 4
+ksho  : 4
+krit  : 4
+kkaa  : 4
+king  : 4
+kile  : 4
+kila  : 4
+khun  : 4
+khti  : 4
+khna  : 4
+khai  : 4
+kayi  : 4
+kare  : 4
+kale  : 4
+kala  : 4
+kado  : 4
+kaat  : 4
+jood  : 4
+joli  : 4
+jhen  : 4
+jega  : 4
+jeet  : 4
+jaya  : 4
+jari  : 4
+japa  : 4
+jala  : 4
+jade  : 4
+jaae  : 4
+jaab  : 4
+izaa  : 4
+iyee  : 4
+iwan  : 4
+ivan  : 4
+itri  : 4
+itna  : 4
+ithe  : 4
+isne  : 4
+isko  : 4
+iski  : 4
+isar  : 4
+isal  : 4
+irah  : 4
+iqon  : 4
+inse  : 4
+inka  : 4
+indi  : 4
+inde  : 4
+iman  : 4
+ikko  : 4
+ikhi  : 4
+ijie  : 4
+ijaa  : 4
+iite  : 4
+iile  : 4
+icha  : 4
+ibon  : 4
+hyam  : 4
+hvar  : 4
+hura  : 4
+huna  : 4
+humi  : 4
+hume  : 4
+huli  : 4
+hthi  : 4
+htar  : 4
+hron  : 4
+hote  : 4
+hore  : 4
+hoke  : 4
+hoka  : 4
+hodo  : 4
+hmon  : 4
+hita  : 4
+hise  : 4
+hine  : 4
+hika  : 4
+hete  : 4
+heta  : 4
+hesh  : 4
+heka  : 4
+heel  : 4
+hasa  : 4
+harm  : 4
+halu  : 4
+haag  : 4
+guru  : 4
+gres  : 4
+giri  : 4
+gine  : 4
+gayi  : 4
+gaya  : 4
+gaun  : 4
+gadi  : 4
+gaal  : 4
+fein  : 4
+evan  : 4
+evaa  : 4
+eton  : 4
+etar  : 4
+erat  : 4
+elen  : 4
+elee  : 4
+ekne  : 4
+ejaa  : 4
+ehti  : 4
+ehte  : 4
+ehri  : 4
+ehla  : 4
+ehki  : 4
+ehka  : 4
+eeva  : 4
+eete  : 4
+eere  : 4
+eera  : 4
+eeki  : 4
+eeje  : 4
+edon  : 4
+edhe  : 4
+eden  : 4
+dili  : 4
+dhne  : 4
+dhik  : 4
+dher  : 4
+dhai  : 4
+desi  : 4
+deer  : 4
+daye  : 4
+daya  : 4
+dare  : 4
+dalo  : 4
+dali  : 4
+dala  : 4
+daka  : 4
+daao  : 4
+ctor  : 4
+cket  : 4
+chup  : 4
+chun  : 4
+chle  : 4
+chin  : 4
+chai  : 4
+budh  : 4
+boor  : 4
+bool  : 4
+bile  : 4
+bhav  : 4
+bhai  : 4
+bele  : 4
+bela  : 4
+beer  : 4
+baru  : 4
+bari  : 4
+baki  : 4
+baaj  : 4
+baai  : 4
+baab  : 4
+azan  : 4
+azam  : 4
+awon  : 4
+auri  : 4
+audi  : 4
+atya  : 4
+atte  : 4
+atne  : 4
+atil  : 4
+athe  : 4
+asur  : 4
+asra  : 4
+asna  : 4
+asir  : 4
+asik  : 4
+asen  : 4
+armi  : 4
+aris  : 4
+arde  : 4
+apke  : 4
+apit  : 4
+apaa  : 4
+anso  : 4
+ansh  : 4
+anse  : 4
+anik  : 4
+anad  : 4
+amir  : 4
+alma  : 4
+allu  : 4
+alis  : 4
+akki  : 4
+akka  : 4
+akin  : 4
+akil  : 4
+akha  : 4
+akan  : 4
+ajpa  : 4
+ajne  : 4
+ajhe  : 4
+ajee  : 4
+ajah  : 4
+ahte  : 4
+ahit  : 4
+ahir  : 4
+ahek  : 4
+ahab  : 4
+agya  : 4
+agta  : 4
+agir  : 4
+agen  : 4
+agal  : 4
+afil  : 4
+adun  : 4
+adoo  : 4
+adev  : 4
+adee  : 4
+adai  : 4
+abuu  : 4
+abse  : 4
+abal  : 4
+aans  : 4
+aanp  : 4
+aann  : 4
+aank  : 4
+aais  : 4
+aafi  : 4
+aadh  : 4
+aabe  : 4
+aaba  : 4
+ zina : 4
+ zaro : 4
+ zari : 4
+ zame : 4
+ zaba : 4
+ yuva : 4
+ yahi : 4
+ wara : 4
+ wais : 4
+ waha : 4
+ waas : 4
+ waah : 4
+ vyap : 4
+ vrid : 4
+ vitt : 4
+ vita : 4
+ vila : 4
+ vida : 4
+ vekh : 4
+ vars : 4
+ vaan : 4
+ utht : 4
+ uthi : 4
+ umar : 4
+ udeg : 4
+ udao : 4
+ tura : 4
+ tula : 4
+ tuka : 4
+ trav : 4
+ tola : 4
+ toka : 4
+ todu : 4
+ todo : 4
+ tink : 4
+ tima : 4
+ tijo : 4
+ thak : 4
+ tele : 4
+ teha : 4
+ teer : 4
+ tand : 4
+ takn : 4
+ tabe : 4
+ taaz : 4
+ taab : 4
+ svar : 4
+ suuk : 4
+ surm : 4
+ surk : 4
+ surj : 4
+ suri : 4
+ sunu : 4
+ suno : 4
+ summ : 4
+ sult : 4
+ sujh : 4
+ sook : 4
+ sohn : 4
+ sinc : 4
+ simt : 4
+ sils : 4
+ sikk : 4
+ siik : 4
+ shas : 4
+ shai : 4
+ sena : 4
+ sehn : 4
+ saza : 4
+ saut : 4
+ sats : 4
+ sast : 4
+ sars : 4
+ sapt : 4
+ sanc : 4
+ samr : 4
+ sali : 4
+ sale : 4
+ saki : 4
+ sajn : 4
+ sahr : 4
+ sadb : 4
+ sacc : 4
+ sabk : 4
+ saav : 4
+ saaq : 4
+ saak : 4
+ saai : 4
+ ruuk : 4
+ ruta : 4
+ rusv : 4
+ ruki : 4
+ roti : 4
+ root : 4
+ rond : 4
+ roko : 4
+ rewa : 4
+ rehn : 4
+ rehg : 4
+ rati : 4
+ raso : 4
+ rali : 4
+ rajs : 4
+ raht : 4
+ radh : 4
+ raba : 4
+ qura : 4
+ qaya : 4
+ qaab : 4
+ puli : 4
+ prac : 4
+ posh : 4
+ pora : 4
+ poch : 4
+ piye : 4
+ pipa : 4
+ phuh : 4
+ phod : 4
+ pehr : 4
+ peen : 4
+ peel : 4
+ peeh : 4
+ pava : 4
+ parm : 4
+ papa : 4
+ pann : 4
+ pakh : 4
+ paah : 4
+ noor : 4
+ nity : 4
+ nidh : 4
+ nazd : 4
+ nawa : 4
+ nati : 4
+ narm : 4
+ nang : 4
+ nagr : 4
+ nagi : 4
+ muun : 4
+ must : 4
+ murd : 4
+ muni : 4
+ munh : 4
+ mota : 4
+ mora : 4
+ moor : 4
+ moon : 4
+ modo : 4
+ mitr : 4
+ misa : 4
+ milk : 4
+ mhaa : 4
+ menh : 4
+ mehr : 4
+ meer : 4
+ medi : 4
+ mayk : 4
+ marn : 4
+ mann : 4
+ mali : 4
+ maiy : 4
+ mahu : 4
+ madm : 4
+ madi : 4
+ maai : 4
+ loon : 4
+ loks : 4
+ loka : 4
+ liba : 4
+ leng : 4
+ laye : 4
+ lash : 4
+ lakh : 4
+ lahu : 4
+ ladt : 4
+ labh : 4
+ laaz : 4
+ laai : 4
+ kwaa : 4
+ kvaa : 4
+ kuti : 4
+ kusu : 4
+ kurt : 4
+ kura : 4
+ kuma : 4
+ kuku : 4
+ kuhu : 4
+ kota : 4
+ kola : 4
+ koha : 4
+ kiza : 4
+ khva : 4
+ khiz : 4
+ kaza : 4
+ kanw : 4
+ kalk : 4
+ kabi : 4
+ kaas : 4
+ jvaa : 4
+ jumm : 4
+ juka : 4
+ joot : 4
+ jood : 4
+ joda : 4
+ jiva : 4
+ jite : 4
+ jink : 4
+ jila : 4
+ jhok : 4
+ jhak : 4
+ jhab : 4
+ jeen : 4
+ jaun : 4
+ jati : 4
+ jang : 4
+ jaln : 4
+ jage : 4
+ jadh : 4
+ jaaw : 4
+ jaar : 4
+ jaam : 4
+ itta : 4
+ itra : 4
+ ishq : 4
+ isam : 4
+ inhe : 4
+ indr : 4
+ indo : 4
+ ilaa : 4
+ ibaa : 4
+ hurr : 4
+ hota : 4
+ hoon : 4
+ hill : 4
+ hile : 4
+ hate : 4
+ hass : 4
+ haso : 4
+ hare : 4
+ haqi : 4
+ hams : 4
+ hall : 4
+ haad : 4
+ gvaa : 4
+ gunc : 4
+ gulz : 4
+ guls : 4
+ graa : 4
+ goro : 4
+ gopi : 4
+ goli : 4
+ gola : 4
+ gird : 4
+ gino : 4
+ ghuu : 4
+ geha : 4
+ gaza : 4
+ gaye : 4
+ gath : 4
+ gare : 4
+ ganw : 4
+ gann : 4
+ gama : 4
+ gadd : 4
+ gaar : 4
+ furs : 4
+ fura : 4
+ fana : 4
+ fala : 4
+ ehsa : 4
+ dwaa : 4
+ duuj : 4
+ dusr : 4
+ dube : 4
+ dris : 4
+ doul : 4
+ dora : 4
+ dono : 4
+ dire : 4
+ dipa : 4
+ dima : 4
+ dilr : 4
+ dilk : 4
+ dili : 4
+ diga : 4
+ dida : 4
+ dhor : 4
+ dhon : 4
+ dhir : 4
+ dhil : 4
+ dehl : 4
+ dehk : 4
+ deha : 4
+ daur : 4
+ daru : 4
+ dart : 4
+ dars : 4
+ dali : 4
+ coll : 4
+ chug : 4
+ chim : 4
+ chas : 4
+ bure : 4
+ budh : 4
+ braj : 4
+ bite : 4
+ bisr : 4
+ bila : 4
+ bida : 4
+ bibh : 4
+ bhop : 4
+ bhit : 4
+ bhas : 4
+ bhai : 4
+ beti : 4
+ bera : 4
+ bepa : 4
+ bela : 4
+ begu : 4
+ bedi : 4
+ baza : 4
+ baso : 4
+ basi : 4
+ bagh : 4
+ badt : 4
+ badd : 4
+ bacc : 4
+ baay : 4
+ baak : 4
+ baai : 4
+ awas : 4
+ avsa : 4
+ avas : 4
+ atya : 4
+ asma : 4
+ asha : 4
+ asaa : 4
+ aram : 4
+ araj : 4
+ apra : 4
+ apar : 4
+ anoo : 4
+ anok : 4
+ angr : 4
+ anch : 4
+ amer : 4
+ albe : 4
+ ajee : 4
+ ahme : 4
+ agga : 4
+ agar : 4
+ adho : 4
+ abhy : 4
+ aaun : 4
+ aaoo : 4
+ aand : 4
+ aaiy : 4
+ aain : 4
+ aaeg : 4
+zori  : 3
+zoor  : 3
+zish  : 3
+zaro  : 3
+zari  : 3
+yyan  : 3
+ykar  : 3
+yare  : 3
+yani  : 3
+yake  : 3
+yade  : 3
+yaaz  : 3
+yaay  : 3
+woge  : 3
+ward  : 3
+wano  : 3
+wafa  : 3
+ving  : 3
+vind  : 3
+viir  : 3
+vida  : 3
+veli  : 3
+vaon  : 3
+uvaa  : 3
+uura  : 3
+utte  : 3
+utri  : 3
+utra  : 3
+utho  : 3
+utan  : 3
+uski  : 3
+usht  : 3
+uruu  : 3
+urma  : 3
+uppi  : 3
+upai  : 3
+unya  : 3
+unun  : 3
+unti  : 3
+unta  : 3
+unne  : 3
+unna  : 3
+unke  : 3
+unka  : 3
+undi  : 3
+unan  : 3
+unam  : 3
+umti  : 3
+umta  : 3
+umon  : 3
+umka  : 3
+umaa  : 3
+ulte  : 3
+ulne  : 3
+ullu  : 3
+ulii  : 3
+ulhe  : 3
+ulan  : 3
+ukti  : 3
+ukne  : 3
+ukha  : 3
+ujii  : 3
+ugar  : 3
+udti  : 3
+udra  : 3
+udii  : 3
+ubha  : 3
+uban  : 3
+tyon  : 3
+tuur  : 3
+ture  : 3
+ttam  : 3
+tori  : 3
+tmak  : 3
+tkal  : 3
+tish  : 3
+thte  : 3
+ters  : 3
+tayi  : 3
+tama  : 3
+taap  : 3
+suun  : 3
+suum  : 3
+sson  : 3
+srii  : 3
+soge  : 3
+sman  : 3
+slaa  : 3
+sini  : 3
+sine  : 3
+sina  : 3
+sili  : 3
+shto  : 3
+shte  : 3
+shna  : 3
+shme  : 3
+shik  : 3
+shii  : 3
+shay  : 3
+sham  : 3
+shad  : 3
+sena  : 3
+seer  : 3
+seeb  : 3
+sato  : 3
+sant  : 3
+sand  : 3
+sama  : 3
+sali  : 3
+safa  : 3
+saaz  : 3
+saat  : 3
+saaf  : 3
+rxaa  : 3
+rvaa  : 3
+rtha  : 3
+rtan  : 3
+rson  : 3
+rraa  : 3
+rpan  : 3
+rope  : 3
+roko  : 3
+rmon  : 3
+rman  : 3
+riit  : 3
+riha  : 3
+rgon  : 3
+reet  : 3
+reeb  : 3
+rect  : 3
+rday  : 3
+rdan  : 3
+razi  : 3
+rasa  : 3
+rapa  : 3
+raoo  : 3
+raon  : 3
+ramo  : 3
+rali  : 3
+rakh  : 3
+raka  : 3
+radi  : 3
+raav  : 3
+raal  : 3
+qaam  : 3
+pore  : 3
+poor  : 3
+pnon  : 3
+pnil  : 3
+pkar  : 3
+pita  : 3
+phal  : 3
+pegi  : 3
+pega  : 3
+pare  : 3
+papa  : 3
+pann  : 3
+pala  : 3
+paat  : 3
+paas  : 3
+paae  : 3
+otri  : 3
+oten  : 3
+otal  : 3
+orie  : 3
+opal  : 3
+oore  : 3
+oono  : 3
+ooni  : 3
+oona  : 3
+ooli  : 3
+oola  : 3
+ooji  : 3
+ooja  : 3
+oobe  : 3
+onon  : 3
+onke  : 3
+onde  : 3
+omti  : 3
+omte  : 3
+omta  : 3
+omne  : 3
+olan  : 3
+okhi  : 3
+oken  : 3
+okaa  : 3
+ojee  : 3
+odun  : 3
+odta  : 3
+odho  : 3
+odhi  : 3
+odha  : 3
+oche  : 3
+nwre  : 3
+nvon  : 3
+nvaa  : 3
+nsen  : 3
+nsee  : 3
+noki  : 3
+nogi  : 3
+nkor  : 3
+njar  : 3
+niti  : 3
+nita  : 3
+niin  : 3
+ndav  : 3
+ncho  : 3
+naun  : 3
+nape  : 3
+naay  : 3
+naab  : 3
+much  : 3
+msum  : 3
+moon  : 3
+mohi  : 3
+mkin  : 3
+mkaa  : 3
+mila  : 3
+mika  : 3
+miin  : 3
+meri  : 3
+mele  : 3
+mann  : 3
+mama  : 3
+male  : 3
+main  : 3
+lney  : 3
+lkon  : 3
+litz  : 3
+lian  : 3
+lash  : 3
+lasa  : 3
+lami  : 3
+lagi  : 3
+lage  : 3
+laau  : 3
+laas  : 3
+laap  : 3
+laaj  : 3
+laab  : 3
+ktaa  : 3
+kran  : 3
+kpan  : 3
+kore  : 3
+kora  : 3
+kole  : 3
+kkha  : 3
+kkar  : 3
+kjut  : 3
+kiye  : 3
+kisi  : 3
+kilo  : 3
+khda  : 3
+khat  : 3
+keli  : 3
+kela  : 3
+keen  : 3
+kalp  : 3
+kadu  : 3
+kada  : 3
+kaay  : 3
+kaah  : 3
+jila  : 3
+jhun  : 3
+jhti  : 3
+jhte  : 3
+jhna  : 3
+jhko  : 3
+jhim  : 3
+jhey  : 3
+jeer  : 3
+jaro  : 3
+jama  : 3
+jada  : 3
+jaam  : 3
+jaal  : 3
+iyen  : 3
+iyad  : 3
+itti  : 3
+itra  : 3
+itni  : 3
+itii  : 3
+isri  : 3
+isra  : 3
+isme  : 3
+iske  : 3
+iska  : 3
+isht  : 3
+ishi  : 3
+irii  : 3
+iraq  : 3
+iraj  : 3
+iqat  : 3
+ipal  : 3
+ipak  : 3
+inko  : 3
+imon  : 3
+ilti  : 3
+ilta  : 3
+ilne  : 3
+ille  : 3
+illa  : 3
+iley  : 3
+ilee  : 3
+ilan  : 3
+ilak  : 3
+ilai  : 3
+iksh  : 3
+ikra  : 3
+ikne  : 3
+ikii  : 3
+ikho  : 3
+iike  : 3
+igar  : 3
+igaa  : 3
+idon  : 3
+iday  : 3
+idar  : 3
+ibat  : 3
+hyog  : 3
+hwar  : 3
+huur  : 3
+huti  : 3
+huta  : 3
+huri  : 3
+hune  : 3
+huke  : 3
+huka  : 3
+hudi  : 3
+htii  : 3
+hten  : 3
+hrey  : 3
+hrat  : 3
+hpan  : 3
+hoye  : 3
+honi  : 3
+hona  : 3
+home  : 3
+hoki  : 3
+hman  : 3
+hloo  : 3
+hkaa  : 3
+hith  : 3
+hion  : 3
+hinn  : 3
+hing  : 3
+hima  : 3
+hiki  : 3
+hida  : 3
+hhun  : 3
+hhua  : 3
+hhti  : 3
+hhim  : 3
+hhen  : 3
+heru  : 3
+helo  : 3
+heke  : 3
+hchi  : 3
+havi  : 3
+have  : 3
+hato  : 3
+hail  : 3
+hahi  : 3
+haba  : 3
+guna  : 3
+gree  : 3
+goli  : 3
+goge  : 3
+gita  : 3
+gila  : 3
+ghne  : 3
+ghat  : 3
+ghar  : 3
+ghad  : 3
+gayo  : 3
+gava  : 3
+gath  : 3
+garh  : 3
+gade  : 3
+gaay  : 3
+gaav  : 3
+file  : 3
+faao  : 3
+faai  : 3
+ewaa  : 3
+evam  : 3
+etra  : 3
+ethi  : 3
+etha  : 3
+etey  : 3
+eten  : 3
+etee  : 3
+esii  : 3
+esee  : 3
+eney  : 3
+endi  : 3
+ench  : 3
+eman  : 3
+emaa  : 3
+ekti  : 3
+ekna  : 3
+ekhe  : 3
+ekat  : 3
+ehle  : 3
+ehak  : 3
+ehad  : 3
+eeth  : 3
+eero  : 3
+eeni  : 3
+eeka  : 3
+edha  : 3
+edam  : 3
+echa  : 3
+dyaa  : 3
+duur  : 3
+duri  : 3
+dpan  : 3
+dore  : 3
+dola  : 3
+dish  : 3
+dini  : 3
+ding  : 3
+dina  : 3
+dien  : 3
+dhti  : 3
+dhke  : 3
+dhin  : 3
+dham  : 3
+dava  : 3
+daur  : 3
+dasi  : 3
+daro  : 3
+dang  : 3
+daal  : 3
+daae  : 3
+cisi  : 3
+chte  : 3
+chor  : 3
+chke  : 3
+chch  : 3
+chad  : 3
+cchi  : 3
+buli  : 3
+bule  : 3
+bula  : 3
+buji  : 3
+btaa  : 3
+boob  : 3
+bike  : 3
+bhra  : 3
+bhon  : 3
+beli  : 3
+begi  : 3
+bane  : 3
+band  : 3
+bana  : 3
+bali  : 3
+bale  : 3
+baka  : 3
+bahu  : 3
+bahi  : 3
+baas  : 3
+azuu  : 3
+azir  : 3
+ayun  : 3
+ayta  : 3
+ayog  : 3
+ayad  : 3
+awri  : 3
+avas  : 3
+auta  : 3
+aune  : 3
+auna  : 3
+auka  : 3
+atva  : 3
+atre  : 3
+atma  : 3
+atka  : 3
+atir  : 3
+atib  : 3
+atho  : 3
+asva  : 3
+asun  : 3
+asum  : 3
+asth  : 3
+asle  : 3
+asla  : 3
+asin  : 3
+asim  : 3
+asil  : 3
+asib  : 3
+asia  : 3
+asht  : 3
+asak  : 3
+asad  : 3
+arur  : 3
+arth  : 3
+aroo  : 3
+arle  : 3
+arja  : 3
+arir  : 3
+arij  : 3
+arib  : 3
+argi  : 3
+arga  : 3
+araf  : 3
+apun  : 3
+apki  : 3
+aoun  : 3
+anya  : 3
+anwa  : 3
+anva  : 3
+anuu  : 3
+ansu  : 3
+anko  : 3
+anjh  : 3
+ango  : 3
+ance  : 3
+anav  : 3
+anai  : 3
+amta  : 3
+amro  : 3
+amay  : 3
+amam  : 3
+amag  : 3
+alva  : 3
+aluu  : 3
+alka  : 3
+alie  : 3
+alib  : 3
+alai  : 3
+alab  : 3
+akur  : 3
+akun  : 3
+akke  : 3
+akad  : 3
+ajuu  : 3
+ajti  : 3
+ajre  : 3
+ajra  : 3
+ajni  : 3
+ajik  : 3
+aini  : 3
+aine  : 3
+ahuu  : 3
+ahna  : 3
+ahil  : 3
+ahie  : 3
+ahel  : 3
+agte  : 3
+agri  : 3
+agle  : 3
+agha  : 3
+agey  : 3
+aduu  : 3
+adur  : 3
+adri  : 3
+adhu  : 3
+adho  : 3
+adal  : 3
+adak  : 3
+achu  : 3
+abit  : 3
+abir  : 3
+abah  : 3
+aapi  : 3
+aape  : 3
+aapa  : 3
+aanw  : 3
+aanh  : 3
+aaku  : 3
+aajo  : 3
+aabo  : 3
+ zuru : 3
+ zula : 3
+ zidd : 3
+ zard : 3
+ zali : 3
+ zala : 3
+ zakm : 3
+ zaan : 3
+ yaro : 3
+ yaki : 3
+ yaka : 3
+ yado : 3
+ yaah : 3
+ work : 3
+ wohi : 3
+ wich : 3
+ ward : 3
+ wall : 3
+ wale : 3
+ wahi : 3
+ wada : 3
+ vrik : 3
+ viva : 3
+ visa : 3
+ vima : 3
+ vija : 3
+ viha : 3
+ veda : 3
+ vaya : 3
+ vasu : 3
+ vast : 3
+ vasl : 3
+ vasa : 3
+ varn : 3
+ vard : 3
+ vall : 3
+ vada : 3
+ vaay : 3
+ vaap : 3
+ vaah : 3
+ utho : 3
+ usik : 3
+ usap : 3
+ usam : 3
+ upla : 3
+ upak : 3
+ unhi : 3
+ ungl : 3
+ umee : 3
+ ulja : 3
+ udde : 3
+ udan : 3
+ udak : 3
+ udai : 3
+ tuuf : 3
+ tute : 3
+ turk : 3
+ tohf : 3
+ todn : 3
+ todi : 3
+ titl : 3
+ tisr : 3
+ tisa : 3
+ tiis : 3
+ tiir : 3
+ thhi : 3
+ ther : 3
+ thek : 3
+ thee : 3
+ teri : 3
+ teen : 3
+ tedh : 3
+ taya : 3
+ tark : 3
+ tari : 3
+ tapt : 3
+ tani : 3
+ talv : 3
+ tali : 3
+ takt : 3
+ taha : 3
+ tabi : 3
+ taas : 3
+ taap : 3
+ swee : 3
+ swat : 3
+ swas : 3
+ suul : 3
+ sust : 3
+ sush : 3
+ suro : 3
+ sure : 3
+ sunt : 3
+ sunn : 3
+ sunh : 3
+ suma : 3
+ suga : 3
+ stit : 3
+ sthi : 3
+ step : 3
+ stan : 3
+ siwa : 3
+ site : 3
+ sinh : 3
+ sine : 3
+ sika : 3
+ siid : 3
+ siha : 3
+ shre : 3
+ shoo : 3
+ shis : 3
+ shin : 3
+ shaw : 3
+ shal : 3
+ sewa : 3
+ seht : 3
+ sehm : 3
+ seep : 3
+ seat : 3
+ scho : 3
+ sawe : 3
+ saso : 3
+ saro : 3
+ sari : 3
+ sarf : 3
+ sare : 3
+ samv : 3
+ sajt : 3
+ sadk : 3
+ saaz : 3
+ saap : 3
+ saaa : 3
+ ruma : 3
+ rukt : 3
+ ruko : 3
+ rukn : 3
+ rujh : 3
+ ruda : 3
+ roma : 3
+ rokh : 3
+ riks : 3
+ rikh : 3
+ reet : 3
+ raza : 3
+ ravi : 3
+ ramb : 3
+ raje : 3
+ rail : 3
+ rahn : 3
+ raga : 3
+ raav : 3
+ raar : 3
+ qiss : 3
+ qism : 3
+ qari : 3
+ qara : 3
+ qaat : 3
+ pyas : 3
+ puun : 3
+ push : 3
+ pune : 3
+ puna : 3
+ puha : 3
+ prog : 3
+ prod : 3
+ prii : 3
+ pray : 3
+ prah : 3
+ prag : 3
+ ponc : 3
+ poho : 3
+ piyu : 3
+ piyo : 3
+ pish : 3
+ pind : 3
+ piit : 3
+ piin : 3
+ phel : 3
+ phaa : 3
+ peer : 3
+ pawa : 3
+ pase : 3
+ paid : 3
+ pahr : 3
+ pahi : 3
+ pagl : 3
+ padt : 3
+ padm : 3
+ padi : 3
+ paai : 3
+ odha : 3
+ nyot : 3
+ numa : 3
+ niti : 3
+ nith : 3
+ niry : 3
+ nirn : 3
+ niri : 3
+ nirb : 3
+ nina : 3
+ niin : 3
+ niic : 3
+ nige : 3
+ nida : 3
+ nehl : 3
+ nave : 3
+ nata : 3
+ nasa : 3
+ nari : 3
+ namb : 3
+ nakh : 3
+ naiy : 3
+ nada : 3
+ muse : 3
+ murg : 3
+ muma : 3
+ mukt : 3
+ mujk : 3
+ mugh : 3
+ muft : 3
+ mosc : 3
+ mori : 3
+ mohi : 3
+ mode : 3
+ mitn : 3
+ mist : 3
+ miss : 3
+ misr : 3
+ mira : 3
+ miln : 3
+ mere : 3
+ memo : 3
+ mein : 3
+ meht : 3
+ mehn : 3
+ mehm : 3
+ meet : 3
+ meen : 3
+ medh : 3
+ mayo : 3
+ mauq : 3
+ maul : 3
+ mauk : 3
+ maso : 3
+ masi : 3
+ marz : 3
+ mary : 3
+ marr : 3
+ marh : 3
+ manv : 3
+ mamm : 3
+ malo : 3
+ makh : 3
+ majn : 3
+ maji : 3
+ made : 3
+ maaz : 3
+ maae : 3
+ maad : 3
+ lung : 3
+ liha : 3
+ leti : 3
+ lete : 3
+ leki : 3
+ leke : 3
+ leen : 3
+ lank : 3
+ laks : 3
+ lail : 3
+ laho : 3
+ lagu : 3
+ lafd : 3
+ laar : 3
+ laac : 3
+ kyon : 3
+ kutu : 3
+ kutt : 3
+ kurs : 3
+ kurb : 3
+ kunj : 3
+ kula : 3
+ kram : 3
+ koth : 3
+ kore : 3
+ koma : 3
+ kiya : 3
+ kiva : 3
+ kise : 3
+ kima : 3
+ kila : 3
+ kiji : 3
+ kije : 3
+ kiij : 3
+ kida : 3
+ khok : 3
+ khiv : 3
+ khir : 3
+ khic : 3
+ khew : 3
+ khaw : 3
+ khas : 3
+ kesh : 3
+ kesa : 3
+ kehk : 3
+ kawa : 3
+ kaul : 3
+ katr : 3
+ karl : 3
+ kapd : 3
+ kanu : 3
+ kano : 3
+ kani : 3
+ kamr : 3
+ kaml : 3
+ kamb : 3
+ kalj : 3
+ kair : 3
+ kahn : 3
+ kafa : 3
+ kadk : 3
+ kabu : 3
+ kabo : 3
+ kabh : 3
+ kaak : 3
+ jyaa : 3
+ jurm : 3
+ junu : 3
+ jumt : 3
+ jude : 3
+ jora : 3
+ jodi : 3
+ jode : 3
+ jiyu : 3
+ jiyo : 3
+ jiss : 3
+ jiiv : 3
+ jiin : 3
+ jeva : 3
+ jara : 3
+ jaoo : 3
+ janw : 3
+ janu : 3
+ jank : 3
+ janj : 3
+ jani : 3
+ jame : 3
+ jalo : 3
+ jald : 3
+ jada : 3
+ jaap : 3
+ jaak : 3
+ itte : 3
+ itih : 3
+ ithl : 3
+ isii : 3
+ irad : 3
+ inti : 3
+ inhi : 3
+ indi : 3
+ inam : 3
+ inaa : 3
+ imti : 3
+ imaa : 3
+ ilti : 3
+ ikht : 3
+ ikay : 3
+ ikaa : 3
+ huzu : 3
+ huur : 3
+ humm : 3
+ humd : 3
+ hulc : 3
+ huku : 3
+ hrid : 3
+ hoti : 3
+ hoot : 3
+ hona : 3
+ holi : 3
+ hola : 3
+ hoja : 3
+ hiya : 3
+ hiro : 3
+ hina : 3
+ himm : 3
+ hija : 3
+ hiir : 3
+ hero : 3
+ hera : 3
+ heli : 3
+ haya : 3
+ hatt : 3
+ harr : 3
+ hark : 3
+ harj : 3
+ hang : 3
+ hamn : 3
+ hami : 3
+ hamd : 3
+ haki : 3
+ guss : 3
+ gusa : 3
+ guni : 3
+ gulb : 3
+ gujr : 3
+ guha : 3
+ guft : 3
+ gudg : 3
+ grou : 3
+ gran : 3
+ gosh : 3
+ goom : 3
+ gint : 3
+ giit : 3
+ ghus : 3
+ gham : 3
+ ghag : 3
+ gesu : 3
+ gend : 3
+ geel : 3
+ gayo : 3
+ gaun : 3
+ gata : 3
+ garj : 3
+ garb : 3
+ ganj : 3
+ gana : 3
+ gadi : 3
+ gada : 3
+ gaam : 3
+ gaai : 3
+ gaag : 3
+ fraa : 3
+ fiqr : 3
+ fija : 3
+ fida : 3
+ fare : 3
+ faay : 3
+ euro : 3
+ ekju : 3
+ ehas : 3
+ dwar : 3
+ dvaa : 3
+ duva : 3
+ duul : 3
+ durg : 3
+ dupa : 3
+ dung : 3
+ duma : 3
+ duhk : 3
+ drav : 3
+ dowa : 3
+ dosh : 3
+ dosa : 3
+ doro : 3
+ dopa : 3
+ dool : 3
+ dolu : 3
+ doba : 3
+ dino : 3
+ dilo : 3
+ dilj : 3
+ diji : 3
+ dhub : 3
+ dhua : 3
+ dhim : 3
+ dhik : 3
+ dhag : 3
+ deti : 3
+ dete : 3
+ deng : 3
+ dekt : 3
+ deke : 3
+ deey : 3
+ deee : 3
+ dass : 3
+ darv : 3
+ daro : 3
+ darn : 3
+ darm : 3
+ darj : 3
+ dans : 3
+ dale : 3
+ daat : 3
+ daag : 3
+ chus : 3
+ chua : 3
+ chok : 3
+ chek : 3
+ chac : 3
+ cara : 3
+ byaa : 3
+ buud : 3
+ bunt : 3
+ buni : 3
+ bulb : 3
+ brin : 3
+ bolt : 3
+ bojh : 3
+ blit : 3
+ biti : 3
+ bikt : 3
+ bigd : 3
+ bhun : 3
+ bhoj : 3
+ bhog : 3
+ bhic : 3
+ bhed : 3
+ bezu : 3
+ beza : 3
+ besu : 3
+ beri : 3
+ bena : 3
+ bele : 3
+ beja : 3
+ behn : 3
+ beer : 3
+ been : 3
+ bazi : 3
+ bava : 3
+ bato : 3
+ bate : 3
+ bart : 3
+ bare : 3
+ bamb : 3
+ balm : 3
+ baks : 3
+ bakk : 3
+ bakh : 3
+ baka : 3
+ baji : 3
+ bais : 3
+ bahk : 3
+ bagu : 3
+ baet : 3
+ badu : 3
+ badr : 3
+ badg : 3
+ baba : 3
+ baaq : 3
+ baaa : 3
+ azma : 3
+ azam : 3
+ azaa : 3
+ ayeg : 3
+ ayaa : 3
+ awsa : 3
+ atar : 3
+ ataa : 3
+ ashq : 3
+ asam : 3
+ arth : 3
+ araz : 3
+ arab : 3
+ appn : 3
+ appk : 3
+ apne : 3
+ anuk : 3
+ anub : 3
+ anth : 3
+ anju : 3
+ anam : 3
+ amro : 3
+ amir : 3
+ ambe : 3
+ ajoo : 3
+ ahsa : 3
+ ahma : 3
+ agan : 3
+ achh : 3
+ abdu : 3
+ aayu : 3
+ aauu : 3
+ aasu : 3
+ aast : 3
+ aasr : 3
+ aart : 3
+ aari : 3
+ aapn : 3
+ aaon : 3
+ aaog : 3
+ aanh : 3
+ aana : 3
+ aali : 3
+ aakr : 3
+ aajk : 3
+ aais : 3
+ aahe : 3
+ aagh : 3
+ aafa : 3
+ aaen : 3
+ aadh : 3
+ aach : 3
+zzat  : 2
+zuon  : 2
+zren  : 2
+zoom  : 2
+ziya  : 2
+zata  : 2
+zare  : 2
+zama  : 2
+zali  : 2
+zadi  : 2
+zaad  : 2
+yuva  : 2
+yusi  : 2
+youn  : 2
+yoos  : 2
+yina  : 2
+yian  : 2
+yeda  : 2
+yaya  : 2
+yava  : 2
+yath  : 2
+yaon  : 2
+yalo  : 2
+yale  : 2
+yaka  : 2
+yaha  : 2
+yaen  : 2
+yadi  : 2
+wood  : 2
+wita  : 2
+wida  : 2
+waya  : 2
+wata  : 2
+wass  : 2
+wasa  : 2
+waqt  : 2
+wami  : 2
+wadi  : 2
+wada  : 2
+waao  : 2
+waaj  : 2
+vvat  : 2
+vita  : 2
+vina  : 2
+vidh  : 2
+very  : 2
+veen  : 2
+vaye  : 2
+vate  : 2
+vata  : 2
+varg  : 2
+vane  : 2
+vahi  : 2
+vaha  : 2
+vafa  : 2
+vade  : 2
+vada  : 2
+vaay  : 2
+vaaj  : 2
+uyon  : 2
+uwon  : 2
+uwat  : 2
+uwaa  : 2
+uvar  : 2
+uuth  : 2
+uurn  : 2
+uure  : 2
+uuno  : 2
+uuni  : 2
+uune  : 2
+uund  : 2
+uumi  : 2
+uume  : 2
+uulo  : 2
+uula  : 2
+uuji  : 2
+uuje  : 2
+uuja  : 2
+uuhi  : 2
+uuda  : 2
+uuch  : 2
+uubi  : 2
+uuba  : 2
+utum  : 2
+utii  : 2
+uten  : 2
+utch  : 2
+utar  : 2
+usum  : 2
+usth  : 2
+ussi  : 2
+usse  : 2
+usne  : 2
+usme  : 2
+uska  : 2
+usar  : 2
+usam  : 2
+urya  : 2
+urvi  : 2
+urta  : 2
+urop  : 2
+urga  : 2
+urda  : 2
+urav  : 2
+urao  : 2
+uraj  : 2
+urab  : 2
+upur  : 2
+upta  : 2
+upne  : 2
+upke  : 2
+upii  : 2
+upay  : 2
+upaa  : 2
+unth  : 2
+unse  : 2
+unnu  : 2
+unji  : 2
+unje  : 2
+unii  : 2
+uney  : 2
+unar  : 2
+unao  : 2
+unal  : 2
+unah  : 2
+umse  : 2
+umsa  : 2
+umri  : 2
+umre  : 2
+umpe  : 2
+ummi  : 2
+umko  : 2
+umhe  : 2
+umbe  : 2
+ulmi  : 2
+ulen  : 2
+ular  : 2
+ulal  : 2
+ulae  : 2
+ukun  : 2
+ukuk  : 2
+ukte  : 2
+ukra  : 2
+ukon  : 2
+ukna  : 2
+ukke  : 2
+ukho  : 2
+uken  : 2
+ukda  : 2
+ukan  : 2
+ujri  : 2
+ujko  : 2
+ujho  : 2
+ujha  : 2
+ujeh  : 2
+ujar  : 2
+ujan  : 2
+ujal  : 2
+uhon  : 2
+uhje  : 2
+uhin  : 2
+uhik  : 2
+uhar  : 2
+ugal  : 2
+udun  : 2
+udta  : 2
+udne  : 2
+udke  : 2
+udhu  : 2
+udhe  : 2
+udam  : 2
+udah  : 2
+ucho  : 2
+uchi  : 2
+ubho  : 2
+ubar  : 2
+uaar  : 2
+uaan  : 2
+turi  : 2
+ttri  : 2
+ttha  : 2
+tsav  : 2
+trik  : 2
+trey  : 2
+tree  : 2
+trat  : 2
+tram  : 2
+traa  : 2
+tpan  : 2
+tory  : 2
+tora  : 2
+tole  : 2
+toin  : 2
+toge  : 2
+tney  : 2
+tlam  : 2
+tiyo  : 2
+tive  : 2
+tith  : 2
+tima  : 2
+till  : 2
+tiki  : 2
+tije  : 2
+tiin  : 2
+tice  : 2
+thur  : 2
+thun  : 2
+thti  : 2
+thta  : 2
+thra  : 2
+thor  : 2
+thne  : 2
+thna  : 2
+thke  : 2
+thit  : 2
+thin  : 2
+thii  : 2
+thhe  : 2
+they  : 2
+ther  : 2
+then  : 2
+thee  : 2
+tham  : 2
+thal  : 2
+teri  : 2
+tere  : 2
+tera  : 2
+tena  : 2
+teha  : 2
+teda  : 2
+taza  : 2
+tawa  : 2
+tava  : 2
+taur  : 2
+taun  : 2
+tark  : 2
+tapa  : 2
+tang  : 2
+tall  : 2
+taju  : 2
+taja  : 2
+tain  : 2
+tade  : 2
+tabo  : 2
+tabi  : 2
+taav  : 2
+taaq  : 2
+taam  : 2
+taak  : 2
+syon  : 2
+swaa  : 2
+suva  : 2
+suut  : 2
+suul  : 2
+suub  : 2
+suru  : 2
+suni  : 2
+sune  : 2
+suna  : 2
+suli  : 2
+suan  : 2
+stut  : 2
+stra  : 2
+stha  : 2
+sten  : 2
+stav  : 2
+stak  : 2
+sske  : 2
+sram  : 2
+spad  : 2
+soom  : 2
+sool  : 2
+soob  : 2
+some  : 2
+smen  : 2
+slon  : 2
+skin  : 2
+skii  : 2
+site  : 2
+sita  : 2
+sisi  : 2
+sise  : 2
+sire  : 2
+siki  : 2
+sike  : 2
+sika  : 2
+siin  : 2
+sidh  : 2
+sibi  : 2
+shth  : 2
+shok  : 2
+shni  : 2
+shmi  : 2
+shma  : 2
+shir  : 2
+shiq  : 2
+shil  : 2
+shid  : 2
+shep  : 2
+shch  : 2
+shbu  : 2
+shaw  : 2
+sera  : 2
+scow  : 2
+salo  : 2
+saad  : 2
+rzoo  : 2
+rzii  : 2
+rwat  : 2
+rwah  : 2
+rvat  : 2
+rvan  : 2
+ruut  : 2
+ruup  : 2
+ruum  : 2
+ruuh  : 2
+ruud  : 2
+ruti  : 2
+rukh  : 2
+rtik  : 2
+rtii  : 2
+rthe  : 2
+rsha  : 2
+rsat  : 2
+rsaa  : 2
+rron  : 2
+rrne  : 2
+rrna  : 2
+rree  : 2
+roye  : 2
+roya  : 2
+roti  : 2
+rota  : 2
+rosa  : 2
+roop  : 2
+room  : 2
+rooh  : 2
+rood  : 2
+rona  : 2
+roke  : 2
+roga  : 2
+rodo  : 2
+rmar  : 2
+rmal  : 2
+rkat  : 2
+rkas  : 2
+rkaa  : 2
+rjit  : 2
+rite  : 2
+rini  : 2
+rile  : 2
+riin  : 2
+riib  : 2
+rica  : 2
+rian  : 2
+rial  : 2
+rhey  : 2
+rhan  : 2
+rhad  : 2
+rhaa  : 2
+reme  : 2
+rele  : 2
+rela  : 2
+rekh  : 2
+rehi  : 2
+reef  : 2
+rdii  : 2
+rdha  : 2
+rdes  : 2
+rder  : 2
+rchi  : 2
+rche  : 2
+rcha  : 2
+rbon  : 2
+rbar  : 2
+razu  : 2
+raza  : 2
+rato  : 2
+rast  : 2
+rara  : 2
+rant  : 2
+rano  : 2
+rank  : 2
+rand  : 2
+rame  : 2
+rako  : 2
+raju  : 2
+rahu  : 2
+raho  : 2
+rach  : 2
+raba  : 2
+raad  : 2
+raaa  : 2
+qeen  : 2
+qaat  : 2
+pure  : 2
+pter  : 2
+ppar  : 2
+poon  : 2
+poge  : 2
+pnaa  : 2
+piye  : 2
+pith  : 2
+ping  : 2
+pihe  : 2
+pere  : 2
+peer  : 2
+payo  : 2
+parn  : 2
+park  : 2
+paon  : 2
+pano  : 2
+pali  : 2
+pale  : 2
+pako  : 2
+paki  : 2
+pahi  : 2
+padi  : 2
+padh  : 2
+paad  : 2
+oyla  : 2
+ower  : 2
+ovat  : 2
+ovar  : 2
+ouun  : 2
+osti  : 2
+osho  : 2
+osco  : 2
+orni  : 2
+ooto  : 2
+oont  : 2
+oond  : 2
+oome  : 2
+ooma  : 2
+ooka  : 2
+ooje  : 2
+ooge  : 2
+ooga  : 2
+oodi  : 2
+ooan  : 2
+onta  : 2
+onse  : 2
+onka  : 2
+onia  : 2
+onch  : 2
+olun  : 2
+olne  : 2
+olle  : 2
+olin  : 2
+oley  : 2
+olee  : 2
+olat  : 2
+olar  : 2
+olam  : 2
+okna  : 2
+ojna  : 2
+ojit  : 2
+ojhe  : 2
+ohre  : 2
+ohra  : 2
+ohon  : 2
+ohni  : 2
+ohna  : 2
+ohit  : 2
+ohii  : 2
+ogon  : 2
+oghe  : 2
+ogey  : 2
+ogaa  : 2
+odne  : 2
+odee  : 2
+odar  : 2
+ocho  : 2
+ochi  : 2
+ochh  : 2
+obhi  : 2
+obha  : 2
+nzar  : 2
+nyon  : 2
+nyam  : 2
+nwan  : 2
+nvre  : 2
+nval  : 2
+nuur  : 2
+nuon  : 2
+numa  : 2
+ntra  : 2
+ntha  : 2
+nter  : 2
+nten  : 2
+ntam  : 2
+nsoo  : 2
+nsil  : 2
+nsii  : 2
+nsan  : 2
+nsad  : 2
+npat  : 2
+noor  : 2
+noin  : 2
+nnum  : 2
+nnat  : 2
+nmay  : 2
+nmaa  : 2
+nkii  : 2
+nkho  : 2
+nkhe  : 2
+nken  : 2
+nkan  : 2
+nkam  : 2
+nkal  : 2
+njhi  : 2
+njha  : 2
+njee  : 2
+nisa  : 2
+nind  : 2
+niji  : 2
+niim  : 2
+nhii  : 2
+nhai  : 2
+nhaa  : 2
+ngun  : 2
+ngta  : 2
+nglo  : 2
+ngli  : 2
+ngit  : 2
+ngat  : 2
+ngar  : 2
+neta  : 2
+neri  : 2
+nere  : 2
+nepe  : 2
+neki  : 2
+neha  : 2
+neet  : 2
+neen  : 2
+ndur  : 2
+ndre  : 2
+ndni  : 2
+ndit  : 2
+ndia  : 2
+ndhu  : 2
+ndho  : 2
+ndgi  : 2
+ndeh  : 2
+ndee  : 2
+ndam  : 2
+nawi  : 2
+nave  : 2
+nash  : 2
+naro  : 2
+nari  : 2
+naon  : 2
+nama  : 2
+nali  : 2
+nale  : 2
+naha  : 2
+nadi  : 2
+nada  : 2
+nach  : 2
+nabi  : 2
+naap  : 2
+naak  : 2
+naaa  : 2
+mvar  : 2
+muun  : 2
+muna  : 2
+mukt  : 2
+mukh  : 2
+mpat  : 2
+mpaa  : 2
+mote  : 2
+mooh  : 2
+mmne  : 2
+mmal  : 2
+mmad  : 2
+miyo  : 2
+miti  : 2
+mith  : 2
+miri  : 2
+mina  : 2
+mili  : 2
+mile  : 2
+mhen  : 2
+meva  : 2
+mera  : 2
+mela  : 2
+megi  : 2
+meet  : 2
+meek  : 2
+meed  : 2
+mdam  : 2
+mbay  : 2
+mban  : 2
+mawa  : 2
+maut  : 2
+masi  : 2
+masa  : 2
+maro  : 2
+mape  : 2
+mank  : 2
+mang  : 2
+maje  : 2
+mahi  : 2
+maha  : 2
+maas  : 2
+maam  : 2
+maah  : 2
+maad  : 2
+ltin  : 2
+lthi  : 2
+lore  : 2
+loor  : 2
+loom  : 2
+loni  : 2
+lone  : 2
+lona  : 2
+logi  : 2
+lmon  : 2
+llon  : 2
+llii  : 2
+llav  : 2
+llam  : 2
+lken  : 2
+lkaa  : 2
+lity  : 2
+line  : 2
+lina  : 2
+lile  : 2
+like  : 2
+lfon  : 2
+leti  : 2
+lele  : 2
+lekh  : 2
+leja  : 2
+leem  : 2
+leel  : 2
+leef  : 2
+lawe  : 2
+lave  : 2
+laur  : 2
+laun  : 2
+last  : 2
+lasi  : 2
+land  : 2
+lali  : 2
+lala  : 2
+lako  : 2
+lajh  : 2
+lain  : 2
+lahu  : 2
+laha  : 2
+laga  : 2
+lach  : 2
+labo  : 2
+labi  : 2
+labh  : 2
+laak  : 2
+laag  : 2
+kyon  : 2
+kvaa  : 2
+kuti  : 2
+kush  : 2
+kuma  : 2
+kudi  : 2
+kuda  : 2
+kuch  : 2
+ktha  : 2
+ksar  : 2
+ksaa  : 2
+kron  : 2
+kraa  : 2
+koyi  : 2
+kori  : 2
+kone  : 2
+kona  : 2
+kode  : 2
+knik  : 2
+kkon  : 2
+kita  : 2
+kire  : 2
+kini  : 2
+khud  : 2
+khri  : 2
+khra  : 2
+khni  : 2
+khke  : 2
+khit  : 2
+khir  : 2
+khhe  : 2
+khey  : 2
+kham  : 2
+khal  : 2
+khak  : 2
+kdon  : 2
+kdam  : 2
+kbar  : 2
+kava  : 2
+kasi  : 2
+karn  : 2
+kani  : 2
+kami  : 2
+kahu  : 2
+kahi  : 2
+kaaj  : 2
+kaab  : 2
+jyon  : 2
+juur  : 2
+juun  : 2
+juud  : 2
+juri  : 2
+juba  : 2
+jraa  : 2
+jpai  : 2
+joon  : 2
+jnaa  : 2
+jkho  : 2
+jkal  : 2
+jiyo  : 2
+jish  : 2
+jina  : 2
+jili  : 2
+jile  : 2
+jhum  : 2
+jhse  : 2
+jhsa  : 2
+jhpe  : 2
+jhne  : 2
+jhme  : 2
+jhil  : 2
+jhat  : 2
+jhar  : 2
+jeye  : 2
+jein  : 2
+jege  : 2
+jawa  : 2
+java  : 2
+jaun  : 2
+jaon  : 2
+janu  : 2
+jano  : 2
+jake  : 2
+jaha  : 2
+jage  : 2
+jadi  : 2
+jaaz  : 2
+jaay  : 2
+jaad  : 2
+iyar  : 2
+iwit  : 2
+iwas  : 2
+ivas  : 2
+ivaa  : 2
+itwa  : 2
+iton  : 2
+ithu  : 2
+iten  : 2
+itat  : 2
+itan  : 2
+itak  : 2
+ista  : 2
+issi  : 2
+ispe  : 2
+isle  : 2
+ishq  : 2
+isho  : 2
+ishe  : 2
+isey  : 2
+ises  : 2
+irye  : 2
+irun  : 2
+irti  : 2
+irte  : 2
+irta  : 2
+irne  : 2
+irna  : 2
+irin  : 2
+iqui  : 2
+iqii  : 2
+ipon  : 2
+ipat  : 2
+ipad  : 2
+inti  : 2
+inte  : 2
+inta  : 2
+insa  : 2
+inpe  : 2
+inne  : 2
+inku  : 2
+inki  : 2
+inhi  : 2
+inhe  : 2
+inha  : 2
+ingh  : 2
+ines  : 2
+inee  : 2
+indu  : 2
+indo  : 2
+inch  : 2
+inay  : 2
+inat  : 2
+inak  : 2
+imit  : 2
+ilte  : 2
+ilna  : 2
+illo  : 2
+ilke  : 2
+ilin  : 2
+ilam  : 2
+ilal  : 2
+ilaf  : 2
+ikve  : 2
+ikta  : 2
+ikon  : 2
+ikna  : 2
+ikli  : 2
+ijay  : 2
+ijan  : 2
+iiya  : 2
+iiti  : 2
+iire  : 2
+iini  : 2
+iiki  : 2
+iika  : 2
+iijo  : 2
+iich  : 2
+ihoo  : 2
+ihat  : 2
+ihas  : 2
+ihan  : 2
+igdi  : 2
+igam  : 2
+igal  : 2
+ifon  : 2
+ieen  : 2
+idin  : 2
+idhe  : 2
+ides  : 2
+iden  : 2
+iddh  : 2
+ichi  : 2
+ichh  : 2
+ices  : 2
+ical  : 2
+ibha  : 2
+ibaa  : 2
+iana  : 2
+hyut  : 2
+hyal  : 2
+hyak  : 2
+huye  : 2
+huwa  : 2
+huve  : 2
+huva  : 2
+huus  : 2
+huum  : 2
+huul  : 2
+huth  : 2
+husi  : 2
+hurr  : 2
+hure  : 2
+hupi  : 2
+hupe  : 2
+hupa  : 2
+huon  : 2
+huni  : 2
+huki  : 2
+huji  : 2
+hudh  : 2
+htra  : 2
+htee  : 2
+hsus  : 2
+hsas  : 2
+hrii  : 2
+hren  : 2
+hree  : 2
+hrai  : 2
+hoyi  : 2
+hoya  : 2
+howk  : 2
+hotu  : 2
+horo  : 2
+hora  : 2
+hoot  : 2
+hoop  : 2
+hool  : 2
+hoja  : 2
+hoin  : 2
+hoho  : 2
+hohe  : 2
+hodh  : 2
+hniy  : 2
+hney  : 2
+hndi  : 2
+hmed  : 2
+hmat  : 2
+hmad  : 2
+hmaa  : 2
+hlon  : 2
+hjko  : 2
+hitr  : 2
+hiti  : 2
+hiro  : 2
+hipi  : 2
+hipa  : 2
+hino  : 2
+himi  : 2
+hiiz  : 2
+hige  : 2
+hidi  : 2
+hian  : 2
+hhui  : 2
+hhoo  : 2
+hhon  : 2
+hhne  : 2
+hhin  : 2
+hhan  : 2
+hhai  : 2
+hfil  : 2
+henk  : 2
+helu  : 2
+hehe  : 2
+hege  : 2
+heez  : 2
+heer  : 2
+heek  : 2
+heed  : 2
+hedo  : 2
+hedi  : 2
+hede  : 2
+heda  : 2
+hdhi  : 2
+hcho  : 2
+hbuu  : 2
+hbar  : 2
+hawa  : 2
+hass  : 2
+hasp  : 2
+hasi  : 2
+haru  : 2
+hape  : 2
+haoo  : 2
+hant  : 2
+haho  : 2
+hahe  : 2
+hago  : 2
+hagi  : 2
+haga  : 2
+hafa  : 2
+hael  : 2
+haaz  : 2
+haaq  : 2
+haab  : 2
+guri  : 2
+guni  : 2
+gule  : 2
+gula  : 2
+gudi  : 2
+grah  : 2
+gpur  : 2
+goya  : 2
+gote  : 2
+gosh  : 2
+goke  : 2
+godi  : 2
+goda  : 2
+gmag  : 2
+glon  : 2
+ging  : 2
+gina  : 2
+gili  : 2
+gile  : 2
+giit  : 2
+giir  : 2
+giin  : 2
+ghle  : 2
+gham  : 2
+gend  : 2
+geli  : 2
+gegi  : 2
+geet  : 2
+gaur  : 2
+garz  : 2
+gare  : 2
+gaon  : 2
+ganv  : 2
+gake  : 2
+gaha  : 2
+gadh  : 2
+gaaz  : 2
+gaaw  : 2
+gaat  : 2
+gaad  : 2
+fter  : 2
+ftaa  : 2
+fiza  : 2
+fitr  : 2
+fila  : 2
+fana  : 2
+faen  : 2
+faam  : 2
+ewar  : 2
+ever  : 2
+evad  : 2
+etro  : 2
+etna  : 2
+etin  : 2
+etik  : 2
+eter  : 2
+etam  : 2
+etal  : 2
+esko  : 2
+eshi  : 2
+esan  : 2
+esak  : 2
+esaa  : 2
+eran  : 2
+eral  : 2
+eqat  : 2
+epal  : 2
+ense  : 2
+enke  : 2
+endr  : 2
+emit  : 2
+elna  : 2
+elan  : 2
+ekho  : 2
+ekal  : 2
+ehro  : 2
+ehni  : 2
+ehko  : 2
+ehen  : 2
+ehel  : 2
+ehek  : 2
+eham  : 2
+ehal  : 2
+egha  : 2
+eeyo  : 2
+eeri  : 2
+eeng  : 2
+eema  : 2
+eeke  : 2
+eejo  : 2
+eeja  : 2
+eein  : 2
+eeha  : 2
+eega  : 2
+eedi  : 2
+eech  : 2
+edii  : 2
+edar  : 2
+echi  : 2
+eate  : 2
+dyog  : 2
+dvar  : 2
+duch  : 2
+dtee  : 2
+drat  : 2
+dras  : 2
+dosh  : 2
+done  : 2
+dome  : 2
+dole  : 2
+dogi  : 2
+dnaa  : 2
+dmon  : 2
+dkon  : 2
+diri  : 2
+dire  : 2
+dira  : 2
+dila  : 2
+diir  : 2
+diin  : 2
+digi  : 2
+dida  : 2
+dhun  : 2
+dhum  : 2
+dhna  : 2
+dhit  : 2
+dhii  : 2
+dhha  : 2
+dhen  : 2
+dhao  : 2
+devi  : 2
+desa  : 2
+deri  : 2
+dere  : 2
+dera  : 2
+deep  : 2
+deen  : 2
+deek  : 2
+dday  : 2
+ddat  : 2
+ddar  : 2
+ddaa  : 2
+daus  : 2
+dasy  : 2
+dast  : 2
+dano  : 2
+dama  : 2
+dalu  : 2
+daku  : 2
+daki  : 2
+dadi  : 2
+dada  : 2
+daay  : 2
+daat  : 2
+daak  : 2
+daag  : 2
+cort  : 2
+chya  : 2
+chuk  : 2
+chua  : 2
+chta  : 2
+chod  : 2
+chlo  : 2
+chis  : 2
+chim  : 2
+chil  : 2
+chen  : 2
+chap  : 2
+cent  : 2
+buwa  : 2
+buva  : 2
+buul  : 2
+buri  : 2
+bura  : 2
+buon  : 2
+bulo  : 2
+bukh  : 2
+bujh  : 2
+buja  : 2
+buaa  : 2
+boti  : 2
+bote  : 2
+bola  : 2
+body  : 2
+bina  : 2
+bili  : 2
+bila  : 2
+biin  : 2
+bida  : 2
+bibi  : 2
+bhin  : 2
+bhii  : 2
+bhee  : 2
+bhal  : 2
+beti  : 2
+bdhi  : 2
+bbar  : 2
+bbaa  : 2
+basi  : 2
+bang  : 2
+baho  : 2
+baha  : 2
+babu  : 2
+baba  : 2
+baap  : 2
+azuk  : 2
+azor  : 2
+azoo  : 2
+azal  : 2
+azad  : 2
+ayri  : 2
+ayab  : 2
+awaz  : 2
+awas  : 2
+awal  : 2
+awai  : 2
+awah  : 2
+avri  : 2
+avid  : 2
+avey  : 2
+avaz  : 2
+aval  : 2
+aura  : 2
+auno  : 2
+auni  : 2
+auli  : 2
+aule  : 2
+aula  : 2
+auke  : 2
+atur  : 2
+atun  : 2
+atto  : 2
+atol  : 2
+atla  : 2
+atki  : 2
+atit  : 2
+atel  : 2
+atch  : 2
+atao  : 2
+aswa  : 2
+asse  : 2
+asmo  : 2
+asme  : 2
+asli  : 2
+asko  : 2
+aske  : 2
+asio  : 2
+ashq  : 2
+ashn  : 2
+ashk  : 2
+asam  : 2
+arwa  : 2
+arva  : 2
+aruu  : 2
+arso  : 2
+arsi  : 2
+arse  : 2
+arsa  : 2
+aroz  : 2
+arod  : 2
+arni  : 2
+ariz  : 2
+ariq  : 2
+arim  : 2
+arif  : 2
+arha  : 2
+arez  : 2
+arch  : 2
+aral  : 2
+arad  : 2
+aqon  : 2
+aqii  : 2
+apte  : 2
+apsi  : 2
+appe  : 2
+apno  : 2
+apni  : 2
+apka  : 2
+apis  : 2
+aphy  : 2
+apee  : 2
+apal  : 2
+apad  : 2
+anyo  : 2
+anum  : 2
+antu  : 2
+antr  : 2
+anto  : 2
+anno  : 2
+anma  : 2
+ankh  : 2
+anje  : 2
+anja  : 2
+angh  : 2
+andr  : 2
+ando  : 2
+anao  : 2
+anaj  : 2
+anah  : 2
+anab  : 2
+amre  : 2
+amra  : 2
+ampe  : 2
+amol  : 2
+amna  : 2
+ammi  : 2
+amko  : 2
+amka  : 2
+amiz  : 2
+amha  : 2
+ames  : 2
+amee  : 2
+amai  : 2
+amah  : 2
+alwa  : 2
+alve  : 2
+alum  : 2
+alse  : 2
+ally  : 2
+alko  : 2
+alik  : 2
+aldi  : 2
+alar  : 2
+alaq  : 2
+alah  : 2
+akra  : 2
+akoo  : 2
+akir  : 2
+akht  : 2
+aket  : 2
+akdo  : 2
+akdi  : 2
+ajva  : 2
+ajuk  : 2
+ajte  : 2
+ajta  : 2
+ajor  : 2
+ajna  : 2
+ajke  : 2
+ajje  : 2
+ajja  : 2
+ajeh  : 2
+ajat  : 2
+ajag  : 2
+ajab  : 2
+aiti  : 2
+aiso  : 2
+airo  : 2
+aire  : 2
+aion  : 2
+aily  : 2
+aika  : 2
+aien  : 2
+aich  : 2
+ahvi  : 2
+ahum  : 2
+ahul  : 2
+ahra  : 2
+ahni  : 2
+ahki  : 2
+ahid  : 2
+ahey  : 2
+ahet  : 2
+ahad  : 2
+agna  : 2
+agla  : 2
+agge  : 2
+agdi  : 2
+agaz  : 2
+agam  : 2
+agai  : 2
+agah  : 2
+agad  : 2
+afta  : 2
+afiz  : 2
+afas  : 2
+afan  : 2
+afai  : 2
+aese  : 2
+adol  : 2
+adma  : 2
+adli  : 2
+adle  : 2
+adla  : 2
+adki  : 2
+adka  : 2
+adil  : 2
+adik  : 2
+adgi  : 2
+addi  : 2
+adad  : 2
+adab  : 2
+able  : 2
+abla  : 2
+abke  : 2
+abik  : 2
+abhu  : 2
+aben  : 2
+abat  : 2
+abab  : 2
+aazu  : 2
+aazo  : 2
+aaze  : 2
+aawo  : 2
+aawa  : 2
+aasu  : 2
+aaqi  : 2
+aamu  : 2
+aaju  : 2
+aail  : 2
+aadu  : 2
+aaan  : 2
+aaad  : 2
+aaaa  : 2
+ zyaa : 2
+ zurm : 2
+ ziya : 2
+ zing : 2
+ zimm : 2
+ zila : 2
+ zehr : 2
+ zeha : 2
+ zanz : 2
+ zang : 2
+ zale : 2
+ zahe : 2
+ zaam : 2
+ zaah : 2
+ yuwa : 2
+ yunh : 2
+ youn : 2
+ yojn : 2
+ yoja : 2
+ yoga : 2
+ yehi : 2
+ yaya : 2
+ yatr : 2
+ yate : 2
+ yara : 2
+ yaqi : 2
+ yamm : 2
+ yahe : 2
+ yaat : 2
+ yaan : 2
+ yaak : 2
+ wibh : 2
+ wekh : 2
+ wata : 2
+ wasa : 2
+ wars : 2
+ warn : 2
+ wana : 2
+ walo : 2
+ wala : 2
+ wadi : 2
+ waap : 2
+ waan : 2
+ vuun : 2
+ vrad : 2
+ vote : 2
+ vohi : 2
+ visw : 2
+ viro : 2
+ vino : 2
+ vind : 2
+ vikr : 2
+ vata : 2
+ vart : 2
+ vark : 2
+ vari : 2
+ varg : 2
+ vali : 2
+ vakt : 2
+ vaki : 2
+ vaka : 2
+ vaja : 2
+ vaig : 2
+ vahe : 2
+ vaat : 2
+ uupa : 2
+ utto : 2
+ utth : 2
+ utte : 2
+ utsu : 2
+ utsa : 2
+ utra : 2
+ uthu : 2
+ uthk : 2
+ usul : 2
+ ussk : 2
+ usse : 2
+ usoo : 2
+ usme : 2
+ uski : 2
+ uska : 2
+ usee : 2
+ upwa : 2
+ upha : 2
+ upan : 2
+ upal : 2
+ upaa : 2
+ unme : 2
+ unki : 2
+ unka : 2
+ unin : 2
+ umid : 2
+ ullu : 2
+ ugan : 2
+ ugal : 2
+ udya : 2
+ udta : 2
+ udda : 2
+ uchc : 2
+ ubhr : 2
+ tyya : 2
+ tyoh : 2
+ tyag : 2
+ tuun : 2
+ tunn : 2
+ tums : 2
+ tumr : 2
+ tumn : 2
+ tumm : 2
+ tuls : 2
+ tuku : 2
+ tujk : 2
+ tuje : 2
+ tuhj : 2
+ tori : 2
+ tore : 2
+ tora : 2
+ toma : 2
+ tohu : 2
+ tohr : 2
+ todt : 2
+ todk : 2
+ toba : 2
+ tish : 2
+ tirc : 2
+ tino : 2
+ till : 2
+ tila : 2
+ tija : 2
+ tiik : 2
+ thel : 2
+ that : 2
+ thad : 2
+ tenu : 2
+ teli : 2
+ tehr : 2
+ tedi : 2
+ team : 2
+ taza : 2
+ tath : 2
+ tata : 2
+ tasq : 2
+ taru : 2
+ taro : 2
+ tarh : 2
+ tarf : 2
+ tapp : 2
+ tapk : 2
+ tapi : 2
+ tape : 2
+ tant : 2
+ tank : 2
+ tami : 2
+ talw : 2
+ tall : 2
+ tale : 2
+ takd : 2
+ taja : 2
+ tagd : 2
+ taga : 2
+ tabl : 2
+ taaq : 2
+ taam : 2
+ sway : 2
+ svay : 2
+ svas : 2
+ svap : 2
+ suyi : 2
+ suvi : 2
+ suut : 2
+ suuj : 2
+ suta : 2
+ susa : 2
+ supa : 2
+ suns : 2
+ sunk : 2
+ suja : 2
+ stor : 2
+ stht : 2
+ stat : 2
+ stam : 2
+ srim : 2
+ srii : 2
+ sram : 2
+ spas : 2
+ spar : 2
+ soye : 2
+ soya : 2
+ soti : 2
+ sote : 2
+ sota : 2
+ soot : 2
+ sool : 2
+ sooc : 2
+ sone : 2
+ some : 2
+ soma : 2
+ soja : 2
+ soda : 2
+ smar : 2
+ siye : 2
+ siva : 2
+ sisk : 2
+ sirh : 2
+ sire : 2
+ sina : 2
+ silv : 2
+ sili : 2
+ siit : 2
+ siim : 2
+ sidd : 2
+ shun : 2
+ shub : 2
+ shru : 2
+ show : 2
+ shor : 2
+ shop : 2
+ shon : 2
+ shoh : 2
+ shob : 2
+ shil : 2
+ shen : 2
+ shau : 2
+ serv : 2
+ senk : 2
+ sehl : 2
+ seel : 2
+ seed : 2
+ secu : 2
+ sati : 2
+ satb : 2
+ sart : 2
+ sapo : 2
+ sape : 2
+ sanp : 2
+ sanm : 2
+ sanh : 2
+ samy : 2
+ samn : 2
+ sajd : 2
+ saik : 2
+ saih : 2
+ sahy : 2
+ sady : 2
+ sadv : 2
+ sads : 2
+ sadd : 2
+ sabn : 2
+ sabi : 2
+ saaf : 2
+ ruya : 2
+ ruup : 2
+ ruum : 2
+ ruuh : 2
+ rutt : 2
+ rusu : 2
+ rupy : 2
+ runj : 2
+ rund : 2
+ rukv : 2
+ ruku : 2
+ rukm : 2
+ ruhe : 2
+ rudr : 2
+ rrut : 2
+ roya : 2
+ roun : 2
+ rote : 2
+ rota : 2
+ rook : 2
+ rooh : 2
+ roog : 2
+ rone : 2
+ rona : 2
+ roku : 2
+ rokt : 2
+ roki : 2
+ rogi : 2
+ roen : 2
+ roeg : 2
+ riwa : 2
+ riva : 2
+ rite : 2
+ rind : 2
+ rimj : 2
+ rima : 2
+ riha : 2
+ rida : 2
+ rich : 2
+ reti : 2
+ rela : 2
+ rehm : 2
+ rehk : 2
+ regi : 2
+ reev : 2
+ reco : 2
+ real : 2
+ ravo : 2
+ rato : 2
+ rate : 2
+ rata : 2
+ rass : 2
+ raqe : 2
+ rann : 2
+ rank : 2
+ rani : 2
+ rakt : 2
+ raka : 2
+ rajm : 2
+ rajd : 2
+ rahm : 2
+ rago : 2
+ ragi : 2
+ ragd : 2
+ rafa : 2
+ rabb : 2
+ raaw : 2
+ qusu : 2
+ qubu : 2
+ qaum : 2
+ qatr : 2
+ qatl : 2
+ qati : 2
+ qasm : 2
+ qama : 2
+ qala : 2
+ qaas : 2
+ qaan : 2
+ pyal : 2
+ putr : 2
+ pust : 2
+ purw : 2
+ puru : 2
+ puri : 2
+ pure : 2
+ puny : 2
+ pudi : 2
+ prst : 2
+ prot : 2
+ prer : 2
+ prav : 2
+ prar : 2
+ prap : 2
+ pram : 2
+ pral : 2
+ prae : 2
+ pott : 2
+ pote : 2
+ post : 2
+ pori : 2
+ poll : 2
+ poli : 2
+ pola : 2
+ pite : 2
+ pist : 2
+ pise : 2
+ pina : 2
+ piiy : 2
+ piik : 2
+ piih : 2
+ piic : 2
+ piga : 2
+ pida : 2
+ pict : 2
+ phun : 2
+ phol : 2
+ phil : 2
+ phik : 2
+ phay : 2
+ phas : 2
+ phan : 2
+ phal : 2
+ peti : 2
+ peek : 2
+ pedo : 2
+ peac : 2
+ payo : 2
+ patn : 2
+ patl : 2
+ pars : 2
+ parh : 2
+ parb : 2
+ panv : 2
+ pant : 2
+ pang : 2
+ palt : 2
+ palo : 2
+ paln : 2
+ pali : 2
+ pakr : 2
+ paki : 2
+ pahn : 2
+ padn : 2
+ paaw : 2
+ paaj : 2
+ paad : 2
+ offi : 2
+ nyun : 2
+ nyau : 2
+ nupu : 2
+ noto : 2
+ noti : 2
+ niwa : 2
+ nivr : 2
+ nipa : 2
+ nini : 2
+ nima : 2
+ nigh : 2
+ niba : 2
+ netr : 2
+ neki : 2
+ neet : 2
+ neer : 2
+ nazz : 2
+ naye : 2
+ nauv : 2
+ nath : 2
+ nate : 2
+ nasl : 2
+ nare : 2
+ nana : 2
+ nala : 2
+ nako : 2
+ nahe : 2
+ nafr : 2
+ nade : 2
+ naap : 2
+ naai : 2
+ myaa : 2
+ muza : 2
+ muut : 2
+ muur : 2
+ muul : 2
+ muta : 2
+ muss : 2
+ musl : 2
+ murs : 2
+ munt : 2
+ mung : 2
+ mumt : 2
+ muly : 2
+ mult : 2
+ mulq : 2
+ muku : 2
+ mukk : 2
+ muja : 2
+ mufa : 2
+ mudk : 2
+ much : 2
+ mrid : 2
+ moul : 2
+ moto : 2
+ mote : 2
+ moro : 2
+ more : 2
+ moni : 2
+ mona : 2
+ mlec : 2
+ miza : 2
+ mitw : 2
+ mitk : 2
+ mish : 2
+ mirc : 2
+ mini : 2
+ minc : 2
+ milw : 2
+ miin : 2
+ meva : 2
+ mess : 2
+ mela : 2
+ meih : 2
+ mehs : 2
+ mehf : 2
+ meel : 2
+ mayu : 2
+ maut : 2
+ matt : 2
+ matr : 2
+ matl : 2
+ matc : 2
+ masu : 2
+ mask : 2
+ masj : 2
+ mase : 2
+ marj : 2
+ marg : 2
+ manu : 2
+ mani : 2
+ mane : 2
+ mamt : 2
+ maml : 2
+ malh : 2
+ maju : 2
+ majd : 2
+ maic : 2
+ mahs : 2
+ mahk : 2
+ mahj : 2
+ madu : 2
+ maao : 2
+ maak : 2
+ maag : 2
+ maaf : 2
+ lutt : 2
+ lukk : 2
+ luka : 2
+ luga : 2
+ love : 2
+ logo : 2
+ loga : 2
+ loch : 2
+ lobh : 2
+ liya : 2
+ livi : 2
+ line : 2
+ lill : 2
+ liji : 2
+ lije : 2
+ liin : 2
+ liij : 2
+ leta : 2
+ lena : 2
+ lelo : 2
+ lege : 2
+ lega : 2
+ leej : 2
+ laya : 2
+ latt : 2
+ lato : 2
+ latk : 2
+ lati : 2
+ lath : 2
+ late : 2
+ laqi : 2
+ lapp : 2
+ lali : 2
+ laiy : 2
+ lagn : 2
+ lagh : 2
+ lafz : 2
+ ladn : 2
+ laba : 2
+ kyuu : 2
+ kyun : 2
+ kyoo : 2
+ kwah : 2
+ kwab : 2
+ kuva : 2
+ kuud : 2
+ kuuc : 2
+ kuub : 2
+ kund : 2
+ kulf : 2
+ kshi : 2
+ kset : 2
+ koob : 2
+ kong : 2
+ kona : 2
+ koki : 2
+ kitt : 2
+ kith : 2
+ kirn : 2
+ kird : 2
+ kinn : 2
+ kilo : 2
+ khop : 2
+ khon : 2
+ khoe : 2
+ khod : 2
+ khiw : 2
+ khen : 2
+ khee : 2
+ khak : 2
+ khai : 2
+ khaf : 2
+ keka : 2
+ kehd : 2
+ keem : 2
+ keda : 2
+ kayi : 2
+ kawi : 2
+ kavy : 2
+ kavv : 2
+ kaus : 2
+ katt : 2
+ kast : 2
+ kasi : 2
+ kase : 2
+ karz : 2
+ karr : 2
+ kard : 2
+ kapu : 2
+ kann : 2
+ kanj : 2
+ kanc : 2
+ kana : 2
+ kamz : 2
+ kams : 2
+ kame : 2
+ kaly : 2
+ kalp : 2
+ kaka : 2
+ kaid : 2
+ kaga : 2
+ kafi : 2
+ kadm : 2
+ kadi : 2
+ kacc : 2
+ kabe : 2
+ kaaa : 2
+ jwaa : 2
+ juwa : 2
+ juva : 2
+ juul : 2
+ jumb : 2
+ juln : 2
+ julm : 2
+ julf : 2
+ josh : 2
+ joru : 2
+ jona : 2
+ jokh : 2
+ joge : 2
+ joga : 2
+ jodu : 2
+ jodo : 2
+ jodh : 2
+ jisp : 2
+ jise : 2
+ jioo : 2
+ jins : 2
+ jinp : 2
+ jine : 2
+ jija : 2
+ jiiw : 2
+ jiga : 2
+ jhur : 2
+ jhop : 2
+ jhen : 2
+ jeer : 2
+ jeel : 2
+ jeej : 2
+ jebe : 2
+ jaza : 2
+ jayu : 2
+ jayg : 2
+ jatt : 2
+ jate : 2
+ jasb : 2
+ jaru : 2
+ japt : 2
+ japo : 2
+ jaog : 2
+ jano : 2
+ janc : 2
+ jamu : 2
+ jamk : 2
+ jami : 2
+ jall : 2
+ jalk : 2
+ jaiy : 2
+ jagt : 2
+ jago : 2
+ jagi : 2
+ jagh : 2
+ jagd : 2
+ jaeg : 2
+ jado : 2
+ jadd : 2
+ jach : 2
+ jabi : 2
+ jabh : 2
+ jaac : 2
+ izza : 2
+ izha : 2
+ izah : 2
+ itya : 2
+ itna : 2
+ isme : 2
+ isko : 2
+ iski : 2
+ iska : 2
+ isan : 2
+ isal : 2
+ isaa : 2
+ iraq : 2
+ intj : 2
+ inme : 2
+ inga : 2
+ inda : 2
+ imte : 2
+ ilza : 2
+ ilte : 2
+ ilta : 2
+ ikra : 2
+ ikka : 2
+ ikai : 2
+ idul : 2
+ idha : 2
+ ichh : 2
+ ibti : 2
+ hyde : 2
+ huyi : 2
+ huye : 2
+ huuu : 2
+ huun : 2
+ huqu : 2
+ hung : 2
+ hund : 2
+ humk : 2
+ hull : 2
+ hukk : 2
+ huju : 2
+ hoye : 2
+ hoya : 2
+ hove : 2
+ hova : 2
+ hoth : 2
+ hoor : 2
+ hone : 2
+ home : 2
+ holl : 2
+ hoke : 2
+ hogi : 2
+ hoge : 2
+ hoga : 2
+ hita : 2
+ hirn : 2
+ hilt : 2
+ hijr : 2
+ hehe : 2
+ hear : 2
+ hazo : 2
+ have : 2
+ haul : 2
+ hato : 2
+ hasu : 2
+ hasn : 2
+ hask : 2
+ hash : 2
+ hary : 2
+ hars : 2
+ hard : 2
+ haqe : 2
+ hamm : 2
+ haml : 2
+ hamk : 2
+ hamj : 2
+ halw : 2
+ haiy : 2
+ haiv : 2
+ haft : 2
+ hado : 2
+ hadi : 2
+ hadh : 2
+ hada : 2
+ habi : 2
+ habe : 2
+ haav : 2
+ haam : 2
+ haai : 2
+ haah : 2
+ haaf : 2
+ haaa : 2
+ gyar : 2
+ gwal : 2
+ guri : 2
+ gurb : 2
+ gura : 2
+ gupt : 2
+ gums : 2
+ gull : 2
+ guli : 2
+ gufa : 2
+ gude : 2
+ gubu : 2
+ guba : 2
+ grih : 2
+ gram : 2
+ grah : 2
+ goya : 2
+ gowr : 2
+ gova : 2
+ gour : 2
+ gore : 2
+ gora : 2
+ goha : 2
+ goda : 2
+ gobi : 2
+ giro : 2
+ girn : 2
+ gini : 2
+ gine : 2
+ gile : 2
+ gidh : 2
+ ghur : 2
+ ghos : 2
+ gene : 2
+ gehu : 2
+ gehn : 2
+ gaon : 2
+ gane : 2
+ gamb : 2
+ gajr : 2
+ gaih : 2
+ gahr : 2
+ gahe : 2
+ gabr : 2
+ gaaw : 2
+ gaak : 2
+ frie : 2
+ fren : 2
+ foun : 2
+ fita : 2
+ fisa : 2
+ firo : 2
+ fire : 2
+ fina : 2
+ filh : 2
+ fikr : 2
+ ferr : 2
+ fere : 2
+ feel : 2
+ fede : 2
+ fasi : 2
+ farz : 2
+ farv : 2
+ farh : 2
+ faan : 2
+ faag : 2
+ ever : 2
+ esco : 2
+ enna : 2
+ engl : 2
+ ekai : 2
+ ekaa : 2
+ dvar : 2
+ dutc : 2
+ dusm : 2
+ durb : 2
+ dukk : 2
+ dujh : 2
+ duje : 2
+ duja : 2
+ dudd : 2
+ duch : 2
+ duay : 2
+ duae : 2
+ drus : 2
+ dour : 2
+ dope : 2
+ dolt : 2
+ doll : 2
+ dogi : 2
+ dodh : 2
+ doct : 2
+ diyo : 2
+ ding : 2
+ dilv : 2
+ diln : 2
+ dilm : 2
+ dilh : 2
+ dika : 2
+ dije : 2
+ diip : 2
+ diij : 2
+ diid : 2
+ digr : 2
+ dhuv : 2
+ dhuu : 2
+ dhum : 2
+ dhru : 2
+ dhri : 2
+ dhot : 2
+ dhob : 2
+ dhit : 2
+ dhen : 2
+ dhee : 2
+ dhai : 2
+ devt : 2
+ devr : 2
+ devo : 2
+ deta : 2
+ desi : 2
+ deri : 2
+ dere : 2
+ dera : 2
+ dena : 2
+ dekk : 2
+ dein : 2
+ degi : 2
+ dega : 2
+ dedi : 2
+ dede : 2
+ deat : 2
+ datt : 2
+ daso : 2
+ darz : 2
+ dana : 2
+ damo : 2
+ dami : 2
+ dala : 2
+ dakt : 2
+ daks : 2
+ daka : 2
+ daiy : 2
+ dadi : 2
+ dabi : 2
+ dabe : 2
+ cycl : 2
+ cror : 2
+ cong : 2
+ clas : 2
+ cine : 2
+ chuh : 2
+ chow : 2
+ chou : 2
+ chon : 2
+ chiz : 2
+ cher : 2
+ chel : 2
+ chav : 2
+ capt : 2
+ caar : 2
+ buzd : 2
+ buut : 2
+ burr : 2
+ buri : 2
+ buno : 2
+ bunk : 2
+ bune : 2
+ bumb : 2
+ bukh : 2
+ buil : 2
+ buha : 2
+ brit : 2
+ bram : 2
+ brah : 2
+ boya : 2
+ bota : 2
+ bori : 2
+ boor : 2
+ boom : 2
+ booj : 2
+ bomb : 2
+ boln : 2
+ boha : 2
+ biya : 2
+ bitt : 2
+ bism : 2
+ bipa : 2
+ biir : 2
+ biic : 2
+ bigh : 2
+ bhur : 2
+ bhum : 2
+ bhug : 2
+ bhud : 2
+ bhiy : 2
+ bhin : 2
+ bhid : 2
+ bhel : 2
+ beto : 2
+ beqr : 2
+ benu : 2
+ beni : 2
+ beng : 2
+ bemu : 2
+ bemi : 2
+ beli : 2
+ beku : 2
+ bekr : 2
+ beju : 2
+ beim : 2
+ beik : 2
+ behi : 2
+ befi : 2
+ beev : 2
+ bees : 2
+ beek : 2
+ beeg : 2
+ beed : 2
+ basn : 2
+ barr : 2
+ baro : 2
+ baqa : 2
+ banh : 2
+ bamo : 2
+ bama : 2
+ bale : 2
+ bakw : 2
+ baki : 2
+ bajt : 2
+ bajp : 2
+ bail : 2
+ bahr : 2
+ bahn : 2
+ bahl : 2
+ bage : 2
+ badm : 2
+ badi : 2
+ bade : 2
+ baac : 2
+ azad : 2
+ ayoj : 2
+ ayat : 2
+ avag : 2
+ aust : 2
+ aush : 2
+ aura : 2
+ atka : 2
+ atha : 2
+ asuv : 2
+ asta : 2
+ assa : 2
+ asra : 2
+ asir : 2
+ ashk : 2
+ asee : 2
+ asat : 2
+ asar : 2
+ asal : 2
+ asad : 2
+ arre : 2
+ arra : 2
+ arop : 2
+ arap : 2
+ arad : 2
+ araa : 2
+ apno : 2
+ apni : 2
+ apak : 2
+ anup : 2
+ anum : 2
+ anud : 2
+ anso : 2
+ anna : 2
+ angi : 2
+ anba : 2
+ amre : 2
+ amma : 2
+ amit : 2
+ aman : 2
+ amal : 2
+ amab : 2
+ alvi : 2
+ alko : 2
+ alaw : 2
+ alav : 2
+ alam : 2
+ alag : 2
+ akht : 2
+ akhe : 2
+ akhb : 2
+ akaa : 2
+ ajna : 2
+ ajii : 2
+ ajay : 2
+ aita : 2
+ aise : 2
+ aisa : 2
+ ahem : 2
+ ahas : 2
+ agas : 2
+ agal : 2
+ agaa : 2
+ afal : 2
+ aesi : 2
+ adhe : 2
+ adan : 2
+ absa : 2
+ abla : 2
+ abar : 2
+ abal : 2
+ abak : 2
+ abaa : 2
+ aave : 2
+ aatm : 2
+ aati : 2
+ aate : 2
+ aaro : 2
+ aarm : 2
+ aaki : 2
+ aake : 2
+ aajm : 2
+ aait : 2
+ aaho : 2
+ aahi : 2
+ aaft : 2
+zuul  : 1
+zurm  : 1
+zulm  : 1
+zulf  : 1
+zron  : 1
+zpur  : 1
+zoro  : 1
+zoon  : 1
+zool  : 1
+zook  : 1
+znin  : 1
+zman  : 1
+zmaa  : 1
+zist  : 1
+zism  : 1
+ziro  : 1
+ziqr  : 1
+zing  : 1
+zilo  : 1
+zile  : 1
+zila  : 1
+zikr  : 1
+zidd  : 1
+zhar  : 1
+zham  : 1
+zhab  : 1
+zgar  : 1
+zehr  : 1
+zeer  : 1
+zdil  : 1
+zdik  : 1
+zbon  : 1
+zbaa  : 1
+zate  : 1
+zark  : 1
+zard  : 1
+zaon  : 1
+zani  : 1
+zang  : 1
+zane  : 1
+zana  : 1
+zami  : 1
+zale  : 1
+zala  : 1
+zako  : 1
+zakm  : 1
+zada  : 1
+zabr  : 1
+zaaz  : 1
+zaat  : 1
+zaaq  : 1
+zaao  : 1
+zaal  : 1
+zaak  : 1
+zaaj  : 1
+zaab  : 1
+yyar  : 1
+yuwa  : 1
+yuus  : 1
+yuuh  : 1
+yuto  : 1
+yukt  : 1
+yuhi  : 1
+yuge  : 1
+yudh  : 1
+yton  : 1
+ytik  : 1
+ytha  : 1
+ytaa  : 1
+ypar  : 1
+yoti  : 1
+yota  : 1
+yoor  : 1
+yoni  : 1
+yome  : 1
+yoko  : 1
+yoke  : 1
+yoga  : 1
+ykti  : 1
+yion  : 1
+yiki  : 1
+yiin  : 1
+yien  : 1
+yhai  : 1
+ygii  : 1
+ygaa  : 1
+yeya  : 1
+yeti  : 1
+yeta  : 1
+yesi  : 1
+yera  : 1
+yeka  : 1
+yeji  : 1
+yehi  : 1
+yehe  : 1
+yeha  : 1
+yege  : 1
+yeen  : 1
+yedi  : 1
+yeah  : 1
+ydaa  : 1
+yayi  : 1
+yati  : 1
+yask  : 1
+yase  : 1
+yasa  : 1
+yaro  : 1
+yapt  : 1
+yapi  : 1
+yant  : 1
+yano  : 1
+yann  : 1
+yane  : 1
+yami  : 1
+yali  : 1
+yakt  : 1
+yako  : 1
+yaki  : 1
+yaik  : 1
+yahi  : 1
+yagi  : 1
+yage  : 1
+yadu  : 1
+yado  : 1
+yaao  : 1
+yaaj  : 1
+yaag  : 1
+yaae  : 1
+xkar  : 1
+xcot  : 1
+xali  : 1
+xaan  : 1
+wwat  : 1
+wsis  : 1
+wsar  : 1
+wrah  : 1
+work  : 1
+word  : 1
+wohi  : 1
+with  : 1
+will  : 1
+wich  : 1
+when  : 1
+wesh  : 1
+were  : 1
+wera  : 1
+well  : 1
+weer  : 1
+wazo  : 1
+waze  : 1
+waza  : 1
+wayi  : 1
+wati  : 1
+wast  : 1
+wasl  : 1
+wasi  : 1
+wash  : 1
+warx  : 1
+wart  : 1
+wars  : 1
+warn  : 1
+warg  : 1
+wapn  : 1
+waon  : 1
+wamy  : 1
+walo  : 1
+wall  : 1
+walk  : 1
+waje  : 1
+waiz  : 1
+wain  : 1
+wahi  : 1
+waha  : 1
+waen  : 1
+wade  : 1
+wabo  : 1
+wabi  : 1
+waat  : 1
+waad  : 1
+vyar  : 1
+vyan  : 1
+vvir  : 1
+vtaa  : 1
+vsay  : 1
+vsar  : 1
+vraj  : 1
+vraa  : 1
+voti  : 1
+vote  : 1
+vosh  : 1
+voon  : 1
+vone  : 1
+voli  : 1
+vohi  : 1
+voge  : 1
+viyo  : 1
+viya  : 1
+vitt  : 1
+vith  : 1
+vish  : 1
+vira  : 1
+vipa  : 1
+vinm  : 1
+vini  : 1
+viji  : 1
+vich  : 1
+vgun  : 1
+vgat  : 1
+veta  : 1
+vert  : 1
+vere  : 1
+vera  : 1
+vely  : 1
+vekh  : 1
+vein  : 1
+vega  : 1
+vazu  : 1
+vayo  : 1
+vayn  : 1
+vayi  : 1
+vave  : 1
+vath  : 1
+vasv  : 1
+vasl  : 1
+vasa  : 1
+vark  : 1
+vard  : 1
+vaqt  : 1
+vapn  : 1
+vant  : 1
+vang  : 1
+vaky  : 1
+vakt  : 1
+vaki  : 1
+vake  : 1
+vaju  : 1
+vajo  : 1
+vaji  : 1
+vaid  : 1
+vaen  : 1
+vaat  : 1
+vaam  : 1
+vaae  : 1
+uzur  : 1
+uzun  : 1
+uzri  : 1
+uzre  : 1
+uzra  : 1
+uzhe  : 1
+uzaa  : 1
+uyin  : 1
+uyen  : 1
+uyee  : 1
+uyan  : 1
+uwii  : 1
+uwar  : 1
+uwan  : 1
+uwad  : 1
+uvon  : 1
+uvoh  : 1
+uvin  : 1
+uven  : 1
+uvao  : 1
+uuum  : 1
+uuse  : 1
+uurr  : 1
+uupa  : 1
+uunj  : 1
+uunh  : 1
+uung  : 1
+uuna  : 1
+uumo  : 1
+uukh  : 1
+uuke  : 1
+uujo  : 1
+uuhe  : 1
+uuha  : 1
+uufi  : 1
+uudi  : 1
+uude  : 1
+uubo  : 1
+uube  : 1
+utub  : 1
+utto  : 1
+utti  : 1
+utro  : 1
+utre  : 1
+utni  : 1
+utna  : 1
+utle  : 1
+utki  : 1
+utin  : 1
+util  : 1
+utik  : 1
+utes  : 1
+uter  : 1
+utba  : 1
+utam  : 1
+utak  : 1
+uswa  : 1
+usul  : 1
+usuf  : 1
+usty  : 1
+usti  : 1
+ussy  : 1
+ussa  : 1
+usri  : 1
+usre  : 1
+usra  : 1
+uspe  : 1
+usno  : 1
+usna  : 1
+usla  : 1
+usko  : 1
+usii  : 1
+usic  : 1
+ushq  : 1
+ushk  : 1
+usey  : 1
+usee  : 1
+usbu  : 1
+usat  : 1
+usal  : 1
+usaa  : 1
+urzi  : 1
+urva  : 1
+urup  : 1
+urte  : 1
+ursi  : 1
+urse  : 1
+urrr  : 1
+urri  : 1
+urra  : 1
+urme  : 1
+urli  : 1
+urki  : 1
+urja  : 1
+urgi  : 1
+urge  : 1
+ures  : 1
+uren  : 1
+ureh  : 1
+urch  : 1
+urba  : 1
+uras  : 1
+uram  : 1
+ural  : 1
+urai  : 1
+uqir  : 1
+uqar  : 1
+uqam  : 1
+uqaa  : 1
+upye  : 1
+upti  : 1
+upte  : 1
+uppe  : 1
+uppa  : 1
+upor  : 1
+upna  : 1
+upja  : 1
+upid  : 1
+uphi  : 1
+upha  : 1
+upee  : 1
+upat  : 1
+upar  : 1
+upao  : 1
+unve  : 1
+unva  : 1
+unuu  : 1
+unus  : 1
+unty  : 1
+unte  : 1
+unri  : 1
+unpe  : 1
+unoo  : 1
+unni  : 1
+unme  : 1
+unlo  : 1
+unko  : 1
+unja  : 1
+unit  : 1
+unir  : 1
+unio  : 1
+unik  : 1
+unho  : 1
+unhe  : 1
+unge  : 1
+unen  : 1
+unds  : 1
+undh  : 1
+unch  : 1
+unav  : 1
+unai  : 1
+umuk  : 1
+umud  : 1
+umrr  : 1
+umra  : 1
+umna  : 1
+ummy  : 1
+umke  : 1
+umid  : 1
+umho  : 1
+umhi  : 1
+umey  : 1
+umei  : 1
+umbi  : 1
+umbh  : 1
+umba  : 1
+umay  : 1
+umas  : 1
+umal  : 1
+umad  : 1
+ulya  : 1
+ulwa  : 1
+ulun  : 1
+ulul  : 1
+uluk  : 1
+ulsi  : 1
+uloo  : 1
+ulna  : 1
+ulke  : 1
+ulka  : 1
+ulji  : 1
+ulja  : 1
+ulit  : 1
+ulis  : 1
+ulin  : 1
+ulie  : 1
+ulgi  : 1
+ulge  : 1
+ulfo  : 1
+ulfi  : 1
+ulfe  : 1
+uley  : 1
+ulej  : 1
+ulee  : 1
+uldi  : 1
+ulaz  : 1
+ulas  : 1
+ulao  : 1
+ulaj  : 1
+ulah  : 1
+ulag  : 1
+ulab  : 1
+ukva  : 1
+ukut  : 1
+ukur  : 1
+ukum  : 1
+ukth  : 1
+ukrr  : 1
+ukri  : 1
+ukki  : 1
+ukka  : 1
+ukja  : 1
+ukin  : 1
+ukhy  : 1
+ukhr  : 1
+ukee  : 1
+ukdo  : 1
+ukde  : 1
+ukat  : 1
+ukam  : 1
+ujur  : 1
+ujum  : 1
+ujse  : 1
+ujpe  : 1
+ujon  : 1
+ujli  : 1
+ujle  : 1
+ujla  : 1
+ujin  : 1
+ujen  : 1
+ujdi  : 1
+ujde  : 1
+ujad  : 1
+uhuu  : 1
+uhkh  : 1
+uhen  : 1
+uhan  : 1
+uhai  : 1
+uhaa  : 1
+ugti  : 1
+ugta  : 1
+ugon  : 1
+ugnu  : 1
+ugno  : 1
+ugni  : 1
+ugne  : 1
+ugna  : 1
+ugle  : 1
+uggi  : 1
+ugdh  : 1
+ugat  : 1
+ufti  : 1
+ufte  : 1
+ufar  : 1
+ufan  : 1
+uest  : 1
+ueki  : 1
+udte  : 1
+udna  : 1
+udko  : 1
+udka  : 1
+udik  : 1
+udhi  : 1
+udhh  : 1
+uden  : 1
+udee  : 1
+uddu  : 1
+uddo  : 1
+uddi  : 1
+udde  : 1
+udda  : 1
+uday  : 1
+udao  : 1
+udak  : 1
+ucha  : 1
+ucer  : 1
+ucch  : 1
+ubul  : 1
+ubuk  : 1
+ubud  : 1
+ubti  : 1
+ubte  : 1
+uboy  : 1
+ubon  : 1
+uboh  : 1
+uboe  : 1
+uble  : 1
+ubii  : 1
+ubhi  : 1
+ubhe  : 1
+ubey  : 1
+ubeh  : 1
+ubal  : 1
+ubai  : 1
+ubah  : 1
+uary  : 1
+uaon  : 1
+uain  : 1
+uafi  : 1
+uaen  : 1
+uaat  : 1
+uaaf  : 1
+tyek  : 1
+tyam  : 1
+twan  : 1
+twaa  : 1
+tuze  : 1
+tuut  : 1
+tuti  : 1
+tute  : 1
+tuta  : 1
+tusi  : 1
+turu  : 1
+turn  : 1
+tunu  : 1
+tune  : 1
+tumi  : 1
+tumb  : 1
+tuma  : 1
+tule  : 1
+tuke  : 1
+tuju  : 1
+tujh  : 1
+tuje  : 1
+tuhi  : 1
+tudh  : 1
+ttva  : 1
+ttra  : 1
+ttle  : 1
+ttke  : 1
+ttii  : 1
+ttho  : 1
+tthe  : 1
+ttey  : 1
+tter  : 1
+ttal  : 1
+tsuk  : 1
+tsan  : 1
+tsak  : 1
+trut  : 1
+tron  : 1
+trol  : 1
+trit  : 1
+trip  : 1
+trek  : 1
+trar  : 1
+tran  : 1
+trah  : 1
+toye  : 1
+town  : 1
+toul  : 1
+tote  : 1
+tota  : 1
+tosh  : 1
+tose  : 1
+tore  : 1
+topi  : 1
+tope  : 1
+toot  : 1
+toor  : 1
+toop  : 1
+toom  : 1
+tool  : 1
+tonn  : 1
+tone  : 1
+tona  : 1
+tolo  : 1
+toll  : 1
+toli  : 1
+tola  : 1
+toko  : 1
+toke  : 1
+toka  : 1
+tohu  : 1
+tohe  : 1
+togi  : 1
+todo  : 1
+todi  : 1
+todh  : 1
+tode  : 1
+todd  : 1
+toda  : 1
+tock  : 1
+tobe  : 1
+toba  : 1
+tnon  : 1
+tmik  : 1
+tmas  : 1
+tman  : 1
+tmaa  : 1
+tlab  : 1
+tkam  : 1
+tjar  : 1
+tiza  : 1
+tito  : 1
+titi  : 1
+tisi  : 1
+tise  : 1
+tipu  : 1
+tino  : 1
+tinn  : 1
+tine  : 1
+tina  : 1
+time  : 1
+tile  : 1
+tiku  : 1
+tike  : 1
+tika  : 1
+tiir  : 1
+tiha  : 1
+tien  : 1
+tida  : 1
+tiaz  : 1
+thwa  : 1
+thum  : 1
+thro  : 1
+thop  : 1
+thod  : 1
+thni  : 1
+thli  : 1
+thiv  : 1
+this  : 1
+thhi  : 1
+thha  : 1
+thea  : 1
+thav  : 1
+that  : 1
+thao  : 1
+thai  : 1
+thae  : 1
+thab  : 1
+tezi  : 1
+teve  : 1
+teti  : 1
+test  : 1
+tero  : 1
+tepi  : 1
+tenu  : 1
+tene  : 1
+tels  : 1
+tell  : 1
+teli  : 1
+tela  : 1
+teji  : 1
+teja  : 1
+tehi  : 1
+tees  : 1
+teer  : 1
+teem  : 1
+teel  : 1
+tedi  : 1
+tede  : 1
+team  : 1
+tcho  : 1
+tazu  : 1
+tayo  : 1
+taxi  : 1
+tawl  : 1
+tavo  : 1
+taul  : 1
+tato  : 1
+tash  : 1
+tasa  : 1
+taru  : 1
+tars  : 1
+tarq  : 1
+tapi  : 1
+tape  : 1
+taoo  : 1
+tand  : 1
+tamh  : 1
+tamb  : 1
+taly  : 1
+tair  : 1
+tahe  : 1
+taha  : 1
+tagu  : 1
+tagi  : 1
+tado  : 1
+tadi  : 1
+tabh  : 1
+tabe  : 1
+taaw  : 1
+taad  : 1
+szid  : 1
+syao  : 1
+syan  : 1
+syam  : 1
+syak  : 1
+syaa  : 1
+swar  : 1
+swai  : 1
+svon  : 1
+svir  : 1
+sven  : 1
+svar  : 1
+svaa  : 1
+suze  : 1
+suyi  : 1
+suus  : 1
+suud  : 1
+suta  : 1
+sust  : 1
+suro  : 1
+sura  : 1
+sunu  : 1
+suno  : 1
+sung  : 1
+summ  : 1
+suma  : 1
+sula  : 1
+suku  : 1
+sukh  : 1
+suje  : 1
+suhm  : 1
+suhi  : 1
+sudh  : 1
+such  : 1
+subh  : 1
+stur  : 1
+stry  : 1
+stri  : 1
+stop  : 1
+stly  : 1
+stit  : 1
+stin  : 1
+stik  : 1
+sthi  : 1
+sthe  : 1
+stey  : 1
+stam  : 1
+stal  : 1
+stab  : 1
+ssum  : 1
+ssrs  : 1
+ssko  : 1
+sski  : 1
+sska  : 1
+ssin  : 1
+ssim  : 1
+ssey  : 1
+sses  : 1
+ssar  : 1
+ssam  : 1
+ssab  : 1
+sron  : 1
+sqon  : 1
+sqin  : 1
+spot  : 1
+sphy  : 1
+spar  : 1
+soyi  : 1
+soye  : 1
+soya  : 1
+soun  : 1
+soti  : 1
+sote  : 1
+sota  : 1
+soot  : 1
+sonu  : 1
+sono  : 1
+soni  : 1
+sone  : 1
+sond  : 1
+sona  : 1
+sola  : 1
+soja  : 1
+soin  : 1
+soho  : 1
+sohe  : 1
+sogi  : 1
+sofe  : 1
+soda  : 1
+soch  : 1
+snik  : 1
+smis  : 1
+smil  : 1
+smai  : 1
+smaa  : 1
+slim  : 1
+slan  : 1
+skut  : 1
+skil  : 1
+skao  : 1
+skan  : 1
+sjid  : 1
+sjaa  : 1
+size  : 1
+siwa  : 1
+siva  : 1
+sity  : 1
+siti  : 1
+sisa  : 1
+sirf  : 1
+sira  : 1
+sipi  : 1
+sipe  : 1
+sino  : 1
+sinh  : 1
+sing  : 1
+simt  : 1
+sima  : 1
+siko  : 1
+sikh  : 1
+sije  : 1
+siip  : 1
+siib  : 1
+siha  : 1
+sign  : 1
+sidi  : 1
+side  : 1
+sibo  : 1
+siba  : 1
+sias  : 1
+shwa  : 1
+shva  : 1
+shur  : 1
+shum  : 1
+shuk  : 1
+shru  : 1
+shra  : 1
+shqt  : 1
+shqa  : 1
+shps  : 1
+show  : 1
+shop  : 1
+shnu  : 1
+shka  : 1
+shiv  : 1
+shis  : 1
+shhy  : 1
+shhp  : 1
+shes  : 1
+sher  : 1
+shek  : 1
+shej  : 1
+shau  : 1
+shat  : 1
+shao  : 1
+sfal  : 1
+sewa  : 1
+seva  : 1
+seti  : 1
+sesh  : 1
+senk  : 1
+sema  : 1
+sela  : 1
+sehi  : 1
+seet  : 1
+sees  : 1
+seep  : 1
+seek  : 1
+scar  : 1
+sbhu  : 1
+sbat  : 1
+saza  : 1
+sawo  : 1
+sawa  : 1
+saun  : 1
+saty  : 1
+sath  : 1
+sasa  : 1
+sarz  : 1
+sarv  : 1
+saru  : 1
+sarr  : 1
+sarf  : 1
+sard  : 1
+saqi  : 1
+sapt  : 1
+sanu  : 1
+sans  : 1
+sanj  : 1
+sami  : 1
+saku  : 1
+saji  : 1
+saje  : 1
+saja  : 1
+sair  : 1
+sail  : 1
+saif  : 1
+said  : 1
+sahu  : 1
+sahi  : 1
+sahe  : 1
+saha  : 1
+sadi  : 1
+sade  : 1
+sada  : 1
+sach  : 1
+sabu  : 1
+sabr  : 1
+sabi  : 1
+sabh  : 1
+saba  : 1
+saay  : 1
+saav  : 1
+saap  : 1
+saam  : 1
+saaj  : 1
+rzuu  : 1
+rzai  : 1
+ryon  : 1
+ryaa  : 1
+rxne  : 1
+rwas  : 1
+rwan  : 1
+rwaj  : 1
+rwai  : 1
+rwad  : 1
+rwaa  : 1
+rvar  : 1
+rvam  : 1
+rvak  : 1
+rvah  : 1
+ruus  : 1
+ruuk  : 1
+rutt  : 1
+ruth  : 1
+ruta  : 1
+russ  : 1
+rusi  : 1
+rush  : 1
+ruri  : 1
+rupp  : 1
+rupa  : 1
+runu  : 1
+runo  : 1
+runk  : 1
+runa  : 1
+rula  : 1
+ruku  : 1
+ruko  : 1
+rukk  : 1
+ruki  : 1
+ruke  : 1
+ruka  : 1
+ruhu  : 1
+ruhi  : 1
+ruhe  : 1
+rudh  : 1
+ruck  : 1
+rtiy  : 1
+rter  : 1
+rtar  : 1
+rtao  : 1
+rtaj  : 1
+rsoh  : 1
+rsii  : 1
+rsen  : 1
+rsan  : 1
+rrut  : 1
+rruf  : 1
+rrti  : 1
+rrte  : 1
+rrta  : 1
+rrat  : 1
+rqat  : 1
+rpur  : 1
+rpon  : 1
+rpit  : 1
+rpat  : 1
+rpal  : 1
+rpak  : 1
+royi  : 1
+rove  : 1
+roup  : 1
+roun  : 1
+rote  : 1
+rose  : 1
+rorx  : 1
+rore  : 1
+ropo  : 1
+rook  : 1
+roof  : 1
+ronu  : 1
+ronn  : 1
+roni  : 1
+rone  : 1
+rond  : 1
+romi  : 1
+roli  : 1
+role  : 1
+roku  : 1
+roki  : 1
+rokh  : 1
+roka  : 1
+roin  : 1
+rohi  : 1
+roha  : 1
+roen  : 1
+rodi  : 1
+rode  : 1
+roda  : 1
+robs  : 1
+road  : 1
+rnyo  : 1
+rntu  : 1
+rney  : 1
+rner  : 1
+rnay  : 1
+rnan  : 1
+rnal  : 1
+rmko  : 1
+rmik  : 1
+rmii  : 1
+rmee  : 1
+rmai  : 1
+rmaa  : 1
+rlon  : 1
+rlaj  : 1
+rkta  : 1
+rkon  : 1
+rkii  : 1
+rkha  : 1
+rker  : 1
+rjya  : 1
+rjun  : 1
+rjon  : 1
+rjha  : 1
+rjaa  : 1
+rizi  : 1
+rity  : 1
+ritu  : 1
+rito  : 1
+rith  : 1
+rist  : 1
+risi  : 1
+rine  : 1
+rind  : 1
+rima  : 1
+rili  : 1
+rikh  : 1
+rike  : 1
+riir  : 1
+riim  : 1
+riik  : 1
+riif  : 1
+riid  : 1
+rige  : 1
+riga  : 1
+ridi  : 1
+rici  : 1
+rich  : 1
+ribi  : 1
+rhxe  : 1
+rhun  : 1
+rhke  : 1
+rhim  : 1
+rhal  : 1
+rhah  : 1
+rgun  : 1
+rgiz  : 1
+rgis  : 1
+rgat  : 1
+rgam  : 1
+rgaa  : 1
+rfon  : 1
+rfaa  : 1
+rezi  : 1
+rewa  : 1
+reva  : 1
+reti  : 1
+resh  : 1
+rery  : 1
+rere  : 1
+reni  : 1
+remi  : 1
+rekt  : 1
+reji  : 1
+rehe  : 1
+reha  : 1
+rege  : 1
+rees  : 1
+reeq  : 1
+reem  : 1
+reed  : 1
+rebi  : 1
+reau  : 1
+reas  : 1
+real  : 1
+rdva  : 1
+rdum  : 1
+rdta  : 1
+rdey  : 1
+rden  : 1
+rdee  : 1
+rdar  : 1
+rdam  : 1
+rdaa  : 1
+rbas  : 1
+rbal  : 1
+rbad  : 1
+rbaa  : 1
+rayo  : 1
+ravo  : 1
+ravi  : 1
+rave  : 1
+raun  : 1
+ratv  : 1
+ratu  : 1
+ratt  : 1
+rasu  : 1
+raso  : 1
+rasn  : 1
+rasm  : 1
+rash  : 1
+rary  : 1
+rare  : 1
+raqs  : 1
+rapt  : 1
+raph  : 1
+rami  : 1
+ramb  : 1
+rala  : 1
+rakt  : 1
+rajy  : 1
+rain  : 1
+rail  : 1
+rahe  : 1
+rago  : 1
+raft  : 1
+rafi  : 1
+raet  : 1
+raem  : 1
+raee  : 1
+rado  : 1
+race  : 1
+rabh  : 1
+rabb  : 1
+raaq  : 1
+raak  : 1
+qvaa  : 1
+quun  : 1
+quiz  : 1
+qpan  : 1
+qoon  : 1
+qiya  : 1
+qile  : 1
+qiin  : 1
+qeeb  : 1
+qaza  : 1
+qave  : 1
+qava  : 1
+qaum  : 1
+qaul  : 1
+qatl  : 1
+qata  : 1
+qasi  : 1
+qana  : 1
+qade  : 1
+qabu  : 1
+qaan  : 1
+pyon  : 1
+pyog  : 1
+pyas  : 1
+pyar  : 1
+pyaa  : 1
+pvan  : 1
+puye  : 1
+puur  : 1
+puun  : 1
+putr  : 1
+puti  : 1
+purv  : 1
+purt  : 1
+pura  : 1
+pune  : 1
+pump  : 1
+puje  : 1
+puja  : 1
+puhl  : 1
+puch  : 1
+ptor  : 1
+pten  : 1
+ptar  : 1
+ptan  : 1
+ptah  : 1
+priy  : 1
+prit  : 1
+prem  : 1
+prel  : 1
+pran  : 1
+ppun  : 1
+ppoo  : 1
+ppni  : 1
+ppne  : 1
+ppna  : 1
+ppko  : 1
+ppki  : 1
+ppke  : 1
+pper  : 1
+ppan  : 1
+ppal  : 1
+poye  : 1
+pote  : 1
+pota  : 1
+post  : 1
+posh  : 1
+port  : 1
+pori  : 1
+pora  : 1
+poot  : 1
+pona  : 1
+poll  : 1
+pole  : 1
+pola  : 1
+pode  : 1
+pnoo  : 1
+pnii  : 1
+pney  : 1
+plan  : 1
+pkee  : 1
+pkaa  : 1
+piyu  : 1
+piyo  : 1
+pitu  : 1
+pitr  : 1
+piti  : 1
+pite  : 1
+pisi  : 1
+pish  : 1
+pise  : 1
+piro  : 1
+pini  : 1
+pine  : 1
+pind  : 1
+pina  : 1
+pili  : 1
+pile  : 1
+pila  : 1
+pike  : 1
+pika  : 1
+piir  : 1
+pihu  : 1
+piha  : 1
+pida  : 1
+phul  : 1
+phir  : 1
+pher  : 1
+phen  : 1
+phak  : 1
+pful  : 1
+peti  : 1
+pete  : 1
+peta  : 1
+pesh  : 1
+pera  : 1
+peng  : 1
+pein  : 1
+pehn  : 1
+peet  : 1
+pees  : 1
+peed  : 1
+pedo  : 1
+pede  : 1
+pech  : 1
+pdon  : 1
+pava  : 1
+paun  : 1
+patr  : 1
+pass  : 1
+pasi  : 1
+pase  : 1
+pasa  : 1
+parv  : 1
+part  : 1
+paro  : 1
+pany  : 1
+panv  : 1
+panj  : 1
+pama  : 1
+palo  : 1
+paji  : 1
+pair  : 1
+pain  : 1
+paig  : 1
+pahu  : 1
+pahe  : 1
+pagh  : 1
+paga  : 1
+pado  : 1
+paaz  : 1
+paay  : 1
+paaw  : 1
+paav  : 1
+paau  : 1
+paaq  : 1
+paap  : 1
+paak  : 1
+paag  : 1
+ozak  : 1
+oyta  : 1
+oyii  : 1
+oyen  : 1
+oyee  : 1
+oyal  : 1
+owti  : 1
+owri  : 1
+owki  : 1
+ovie  : 1
+oven  : 1
+oved  : 1
+ovai  : 1
+ouvi  : 1
+oute  : 1
+ouri  : 1
+oune  : 1
+ound  : 1
+ouli  : 1
+oule  : 1
+ouke  : 1
+ouka  : 1
+ouch  : 1
+otti  : 1
+otte  : 1
+otor  : 1
+otne  : 1
+otna  : 1
+otli  : 1
+otin  : 1
+othe  : 1
+otey  : 1
+otel  : 1
+otav  : 1
+otar  : 1
+otan  : 1
+otak  : 1
+osto  : 1
+osri  : 1
+osre  : 1
+osra  : 1
+osla  : 1
+osii  : 1
+osht  : 1
+osee  : 1
+osan  : 1
+osam  : 1
+orvi  : 1
+orva  : 1
+oruu  : 1
+orus  : 1
+orts  : 1
+orti  : 1
+orra  : 1
+orog  : 1
+orna  : 1
+orli  : 1
+orks  : 1
+orja  : 1
+orgi  : 1
+oren  : 1
+orea  : 1
+ordo  : 1
+oras  : 1
+oran  : 1
+oram  : 1
+oraj  : 1
+orab  : 1
+opon  : 1
+ophy  : 1
+opdi  : 1
+opan  : 1
+opaa  : 1
+ooyi  : 1
+ooye  : 1
+ooun  : 1
+ooth  : 1
+oost  : 1
+ooso  : 1
+oosi  : 1
+oosh  : 1
+oosa  : 1
+oory  : 1
+oorv  : 1
+oopa  : 1
+ooon  : 1
+ooob  : 1
+oonk  : 1
+oonh  : 1
+oong  : 1
+oomo  : 1
+oolo  : 1
+ookh  : 1
+ooin  : 1
+oohe  : 1
+ooha  : 1
+oogi  : 1
+oofi  : 1
+ooen  : 1
+oode  : 1
+ooch  : 1
+oobi  : 1
+oobh  : 1
+onus  : 1
+onto  : 1
+onti  : 1
+onth  : 1
+onsh  : 1
+onoi  : 1
+onoh  : 1
+onme  : 1
+onki  : 1
+onji  : 1
+onja  : 1
+oniy  : 1
+onhi  : 1
+ongo  : 1
+onge  : 1
+onen  : 1
+ondu  : 1
+onds  : 1
+ondo  : 1
+onam  : 1
+onal  : 1
+omun  : 1
+omke  : 1
+omka  : 1
+omin  : 1
+omen  : 1
+omba  : 1
+omal  : 1
+omaa  : 1
+olte  : 1
+oloo  : 1
+oloe  : 1
+olki  : 1
+olie  : 1
+olic  : 1
+olhe  : 1
+olha  : 1
+olah  : 1
+okul  : 1
+okte  : 1
+okri  : 1
+okon  : 1
+okle  : 1
+okil  : 1
+okie  : 1
+okey  : 1
+oker  : 1
+okee  : 1
+okat  : 1
+okan  : 1
+okam  : 1
+okad  : 1
+ojud  : 1
+ojii  : 1
+ojha  : 1
+oinh  : 1
+oine  : 1
+oice  : 1
+oibe  : 1
+ohya  : 1
+ohut  : 1
+ohta  : 1
+ohri  : 1
+ohot  : 1
+ohne  : 1
+ohin  : 1
+ohik  : 1
+ohge  : 1
+ohfe  : 1
+ohfa  : 1
+ohee  : 1
+ohak  : 1
+ohai  : 1
+oggo  : 1
+ogar  : 1
+ofan  : 1
+oegi  : 1
+oega  : 1
+odte  : 1
+odit  : 1
+odin  : 1
+odie  : 1
+odhe  : 1
+odey  : 1
+oden  : 1
+odel  : 1
+odde  : 1
+odav  : 1
+ochu  : 1
+ocal  : 1
+obti  : 1
+obte  : 1
+obta  : 1
+obon  : 1
+obne  : 1
+obna  : 1
+obil  : 1
+ober  : 1
+oban  : 1
+oard  : 1
+nzur  : 1
+nzir  : 1
+nzil  : 1
+nyya  : 1
+nyum  : 1
+nyay  : 1
+nyas  : 1
+nwri  : 1
+nwra  : 1
+nwal  : 1
+nvri  : 1
+nvra  : 1
+nvit  : 1
+nuus  : 1
+nuri  : 1
+nure  : 1
+nuno  : 1
+nuel  : 1
+ntre  : 1
+ntim  : 1
+ntii  : 1
+ntic  : 1
+nthu  : 1
+ntho  : 1
+nthi  : 1
+ntee  : 1
+ntat  : 1
+ntan  : 1
+nsuu  : 1
+nsuo  : 1
+nsun  : 1
+nsti  : 1
+nste  : 1
+nsta  : 1
+nsse  : 1
+nsor  : 1
+nsni  : 1
+nsne  : 1
+nsna  : 1
+nske  : 1
+nsin  : 1
+nsik  : 1
+nsia  : 1
+nshu  : 1
+nshi  : 1
+nsar  : 1
+nsam  : 1
+nsai  : 1
+nsaa  : 1
+npur  : 1
+npon  : 1
+npne  : 1
+npar  : 1
+nova  : 1
+noto  : 1
+note  : 1
+noos  : 1
+noop  : 1
+noch  : 1
+nobi  : 1
+nnuu  : 1
+nnti  : 1
+nnse  : 1
+nnis  : 1
+nney  : 1
+nnel  : 1
+nnai  : 1
+nmun  : 1
+nmor  : 1
+nmon  : 1
+nmol  : 1
+nmna  : 1
+nmen  : 1
+nman  : 1
+nlon  : 1
+nkya  : 1
+nkur  : 1
+nkun  : 1
+nkum  : 1
+nkro  : 1
+nkla  : 1
+nkha  : 1
+nkee  : 1
+nkdo  : 1
+nkat  : 1
+nkad  : 1
+njum  : 1
+njul  : 1
+njte  : 1
+njri  : 1
+njre  : 1
+njra  : 1
+njon  : 1
+njog  : 1
+njir  : 1
+njil  : 1
+njat  : 1
+njam  : 1
+njal  : 1
+njab  : 1
+njaa  : 1
+nium  : 1
+nite  : 1
+nist  : 1
+niri  : 1
+nira  : 1
+nipa  : 1
+nina  : 1
+nima  : 1
+nili  : 1
+nile  : 1
+nila  : 1
+niki  : 1
+niit  : 1
+niir  : 1
+niil  : 1
+niha  : 1
+niga  : 1
+nich  : 1
+nibu  : 1
+nibh  : 1
+nhey  : 1
+nhda  : 1
+nguu  : 1
+ngur  : 1
+ngto  : 1
+ngti  : 1
+ngte  : 1
+ngre  : 1
+ngra  : 1
+ngoo  : 1
+ngni  : 1
+ngla  : 1
+nghi  : 1
+ngel  : 1
+ngdi  : 1
+ngam  : 1
+ngai  : 1
+ness  : 1
+nesh  : 1
+nese  : 1
+nema  : 1
+neko  : 1
+neke  : 1
+neka  : 1
+nehi  : 1
+nege  : 1
+nefa  : 1
+neey  : 1
+neel  : 1
+near  : 1
+nduu  : 1
+nduk  : 1
+ndti  : 1
+ndry  : 1
+ndri  : 1
+ndor  : 1
+ndol  : 1
+ndlo  : 1
+ndli  : 1
+ndir  : 1
+ndil  : 1
+ndhy  : 1
+ndga  : 1
+ndex  : 1
+ndes  : 1
+ndaz  : 1
+nday  : 1
+ndap  : 1
+ndak  : 1
+ncil  : 1
+nchh  : 1
+ncer  : 1
+nbar  : 1
+nban  : 1
+nbal  : 1
+nbaa  : 1
+nayo  : 1
+navo  : 1
+nato  : 1
+nasl  : 1
+nasi  : 1
+nasa  : 1
+narm  : 1
+nark  : 1
+nare  : 1
+nara  : 1
+nant  : 1
+namo  : 1
+name  : 1
+nalo  : 1
+nakk  : 1
+naho  : 1
+nahi  : 1
+naaz  : 1
+naav  : 1
+naau  : 1
+naas  : 1
+naal  : 1
+naaj  : 1
+naag  : 1
+naad  : 1
+mzor  : 1
+myke  : 1
+myik  : 1
+mvir  : 1
+mvad  : 1
+muze  : 1
+muyi  : 1
+muya  : 1
+muul  : 1
+muui  : 1
+musu  : 1
+must  : 1
+musa  : 1
+munu  : 1
+muni  : 1
+munh  : 1
+mulq  : 1
+mulk  : 1
+muli  : 1
+muka  : 1
+mujh  : 1
+muii  : 1
+muhj  : 1
+muhe  : 1
+muft  : 1
+mudr  : 1
+mudi  : 1
+mudh  : 1
+mude  : 1
+muda  : 1
+muaa  : 1
+mtum  : 1
+mtaz  : 1
+mtaa  : 1
+msin  : 1
+msaa  : 1
+mron  : 1
+mrit  : 1
+mrat  : 1
+mran  : 1
+mpti  : 1
+mpan  : 1
+mpal  : 1
+moyi  : 1
+moya  : 1
+move  : 1
+mout  : 1
+mouj  : 1
+moti  : 1
+mota  : 1
+mose  : 1
+moro  : 1
+mori  : 1
+more  : 1
+mora  : 1
+mope  : 1
+moor  : 1
+mood  : 1
+moni  : 1
+mone  : 1
+mona  : 1
+moli  : 1
+moko  : 1
+moji  : 1
+mohe  : 1
+modo  : 1
+modh  : 1
+mode  : 1
+moda  : 1
+moch  : 1
+mnee  : 1
+mnag  : 1
+mmla  : 1
+mmko  : 1
+mmid  : 1
+mmer  : 1
+mmed  : 1
+mmar  : 1
+mman  : 1
+mlon  : 1
+mlaa  : 1
+mkum  : 1
+mkan  : 1
+mjuk  : 1
+mjim  : 1
+mjho  : 1
+mjhi  : 1
+mjhe  : 1
+mjha  : 1
+miye  : 1
+mitt  : 1
+mite  : 1
+mira  : 1
+mine  : 1
+milo  : 1
+mill  : 1
+milk  : 1
+miji  : 1
+miit  : 1
+miid  : 1
+midi  : 1
+mhri  : 1
+mhre  : 1
+mhon  : 1
+mhin  : 1
+mhii  : 1
+mhey  : 1
+mhar  : 1
+mhaa  : 1
+mgar  : 1
+meto  : 1
+mete  : 1
+meta  : 1
+mess  : 1
+mesh  : 1
+mero  : 1
+mere  : 1
+menu  : 1
+meni  : 1
+mene  : 1
+mend  : 1
+melo  : 1
+meli  : 1
+mekh  : 1
+meih  : 1
+meha  : 1
+meez  : 1
+meel  : 1
+medo  : 1
+medi  : 1
+mdum  : 1
+mdog  : 1
+mdev  : 1
+mdar  : 1
+mbva  : 1
+mbuu  : 1
+mbua  : 1
+mbro  : 1
+mboo  : 1
+mbii  : 1
+mbhi  : 1
+mbee  : 1
+mbak  : 1
+mbai  : 1
+mbad  : 1
+maza  : 1
+maun  : 1
+mauj  : 1
+matt  : 1
+math  : 1
+mask  : 1
+marz  : 1
+maru  : 1
+marr  : 1
+marm  : 1
+marg  : 1
+mard  : 1
+mapi  : 1
+manu  : 1
+mami  : 1
+malo  : 1
+mall  : 1
+maki  : 1
+maji  : 1
+maja  : 1
+mail  : 1
+mahe  : 1
+mael  : 1
+mado  : 1
+madi  : 1
+made  : 1
+mada  : 1
+mach  : 1
+maaz  : 1
+maaj  : 1
+maag  : 1
+maaf  : 1
+lzim  : 1
+lzat  : 1
+lzar  : 1
+lyut  : 1
+lyon  : 1
+lyan  : 1
+lyai  : 1
+lyaa  : 1
+lwon  : 1
+lwen  : 1
+lway  : 1
+lwat  : 1
+lwan  : 1
+lwaa  : 1
+lvon  : 1
+lven  : 1
+lvaa  : 1
+luut  : 1
+luus  : 1
+luum  : 1
+lutt  : 1
+luti  : 1
+lutf  : 1
+lute  : 1
+luta  : 1
+luru  : 1
+lung  : 1
+luke  : 1
+luka  : 1
+lton  : 1
+ltii  : 1
+lthe  : 1
+ltha  : 1
+ltey  : 1
+ltee  : 1
+ltah  : 1
+lsii  : 1
+lqon  : 1
+lpar  : 1
+lpan  : 1
+love  : 1
+lout  : 1
+loti  : 1
+lorh  : 1
+loog  : 1
+lony  : 1
+loma  : 1
+loki  : 1
+loke  : 1
+loji  : 1
+lohe  : 1
+logo  : 1
+lock  : 1
+loch  : 1
+lobh  : 1
+lnge  : 1
+lnar  : 1
+lmil  : 1
+lmat  : 1
+lman  : 1
+lmal  : 1
+lmaa  : 1
+lluu  : 1
+lluk  : 1
+lloo  : 1
+llol  : 1
+llis  : 1
+llhe  : 1
+llen  : 1
+llej  : 1
+llat  : 1
+llar  : 1
+llao  : 1
+llan  : 1
+lkya  : 1
+lkul  : 1
+lkka  : 1
+lkii  : 1
+lkha  : 1
+lkee  : 1
+lkan  : 1
+ljul  : 1
+ljhi  : 1
+ljhe  : 1
+ljha  : 1
+ljan  : 1
+ljaa  : 1
+lizo  : 1
+lits  : 1
+lite  : 1
+list  : 1
+lism  : 1
+lisi  : 1
+lisa  : 1
+lior  : 1
+lins  : 1
+lino  : 1
+lind  : 1
+lima  : 1
+lily  : 1
+lilo  : 1
+lila  : 1
+likh  : 1
+lijo  : 1
+lije  : 1
+liip  : 1
+liin  : 1
+liim  : 1
+liif  : 1
+liib  : 1
+life  : 1
+lice  : 1
+lhne  : 1
+lhar  : 1
+lhan  : 1
+lhal  : 1
+lhad  : 1
+lgir  : 1
+lgeh  : 1
+lgan  : 1
+lfii  : 1
+lfen  : 1
+lfat  : 1
+lewe  : 1
+lewa  : 1
+leve  : 1
+leva  : 1
+lets  : 1
+lete  : 1
+leta  : 1
+less  : 1
+lesh  : 1
+lese  : 1
+leni  : 1
+lene  : 1
+lena  : 1
+lelo  : 1
+leli  : 1
+lela  : 1
+leki  : 1
+leke  : 1
+lejo  : 1
+leje  : 1
+lehu  : 1
+leho  : 1
+lege  : 1
+left  : 1
+leee  : 1
+leeb  : 1
+leak  : 1
+ldii  : 1
+ldar  : 1
+ldal  : 1
+ldai  : 1
+lbul  : 1
+lbar  : 1
+layo  : 1
+laut  : 1
+lato  : 1
+lath  : 1
+lass  : 1
+lase  : 1
+lari  : 1
+lare  : 1
+lara  : 1
+laqt  : 1
+laon  : 1
+lano  : 1
+lank  : 1
+lakh  : 1
+laji  : 1
+laht  : 1
+lagu  : 1
+lago  : 1
+lagn  : 1
+lagh  : 1
+lafz  : 1
+lafe  : 1
+lado  : 1
+lada  : 1
+lace  : 1
+labe  : 1
+laaz  : 1
+laav  : 1
+laar  : 1
+laaf  : 1
+laaa  : 1
+kyun  : 1
+kyoo  : 1
+kyaa  : 1
+kwaa  : 1
+kuwa  : 1
+kuva  : 1
+kuut  : 1
+kuul  : 1
+kuud  : 1
+kuru  : 1
+kurr  : 1
+kurb  : 1
+kura  : 1
+kuon  : 1
+kunj  : 1
+kuli  : 1
+kula  : 1
+kuku  : 1
+kuke  : 1
+kujh  : 1
+kuhu  : 1
+kufr  : 1
+kuen  : 1
+kuan  : 1
+ktik  : 1
+kthi  : 1
+ktey  : 1
+kshk  : 1
+kshi  : 1
+ksat  : 1
+ksak  : 1
+krxe  : 1
+krti  : 1
+krmo  : 1
+krey  : 1
+krar  : 1
+krao  : 1
+kpur  : 1
+koye  : 1
+koya  : 1
+koun  : 1
+koti  : 1
+kosi  : 1
+kose  : 1
+koru  : 1
+koro  : 1
+koor  : 1
+kool  : 1
+koof  : 1
+koob  : 1
+komi  : 1
+kome  : 1
+kokh  : 1
+koke  : 1
+koii  : 1
+kohu  : 1
+kogi  : 1
+koee  : 1
+knon  : 1
+knaa  : 1
+kmon  : 1
+klon  : 1
+klaa  : 1
+kkuu  : 1
+kkis  : 1
+kkii  : 1
+kkal  : 1
+kkad  : 1
+kiza  : 1
+kiti  : 1
+kith  : 1
+kite  : 1
+kiss  : 1
+kise  : 1
+kisa  : 1
+kiro  : 1
+kiri  : 1
+kira  : 1
+kins  : 1
+kime  : 1
+kili  : 1
+kijo  : 1
+kije  : 1
+kiir  : 1
+kiin  : 1
+kien  : 1
+kidi  : 1
+kich  : 1
+khyo  : 1
+khut  : 1
+khus  : 1
+khul  : 1
+khub  : 1
+khre  : 1
+khoy  : 1
+khou  : 1
+khot  : 1
+khoo  : 1
+khol  : 1
+khoj  : 1
+khoi  : 1
+khoe  : 1
+khmo  : 1
+khmi  : 1
+khla  : 1
+khko  : 1
+khka  : 1
+khin  : 1
+khim  : 1
+khii  : 1
+khie  : 1
+khha  : 1
+khet  : 1
+kher  : 1
+khel  : 1
+khee  : 1
+khed  : 1
+khdo  : 1
+khde  : 1
+khas  : 1
+khao  : 1
+khad  : 1
+khab  : 1
+ketu  : 1
+kete  : 1
+keta  : 1
+kesh  : 1
+kese  : 1
+kemp  : 1
+kele  : 1
+kege  : 1
+keet  : 1
+keer  : 1
+kedi  : 1
+kede  : 1
+keda  : 1
+kdoh  : 1
+kdir  : 1
+kdas  : 1
+kdaa  : 1
+kbuk  : 1
+kaza  : 1
+kayt  : 1
+kawe  : 1
+kawa  : 1
+kavi  : 1
+kave  : 1
+kaun  : 1
+kaul  : 1
+katl  : 1
+kast  : 1
+kaso  : 1
+karz  : 1
+karx  : 1
+karu  : 1
+karr  : 1
+karm  : 1
+kant  : 1
+kamp  : 1
+kama  : 1
+kalo  : 1
+kake  : 1
+kaka  : 1
+kaji  : 1
+kain  : 1
+kail  : 1
+kaii  : 1
+kaho  : 1
+kahe  : 1
+kaha  : 1
+kaga  : 1
+kafi  : 1
+kafa  : 1
+kaee  : 1
+kach  : 1
+kabu  : 1
+kabo  : 1
+kabh  : 1
+kaba  : 1
+kaau  : 1
+kaaq  : 1
+kaap  : 1
+kaak  : 1
+kaag  : 1
+jyot  : 1
+juwa  : 1
+juum  : 1
+jute  : 1
+juta  : 1
+just  : 1
+jurm  : 1
+jure  : 1
+juon  : 1
+junu  : 1
+juno  : 1
+jung  : 1
+june  : 1
+jumr  : 1
+july  : 1
+julo  : 1
+julm  : 1
+jule  : 1
+jula  : 1
+juhi  : 1
+juga  : 1
+judi  : 1
+jude  : 1
+juda  : 1
+jubh  : 1
+jtey  : 1
+jtar  : 1
+jtaa  : 1
+jswa  : 1
+jsvo  : 1
+jsva  : 1
+jrim  : 1
+jpar  : 1
+joyi  : 1
+joye  : 1
+joti  : 1
+jota  : 1
+josh  : 1
+joru  : 1
+joro  : 1
+jore  : 1
+jora  : 1
+joot  : 1
+joor  : 1
+jona  : 1
+jogi  : 1
+jodo  : 1
+jodi  : 1
+jode  : 1
+joda  : 1
+joba  : 1
+jnun  : 1
+jnao  : 1
+jlii  : 1
+jlee  : 1
+jkhe  : 1
+jjde  : 1
+jjan  : 1
+jjaa  : 1
+jivi  : 1
+jito  : 1
+jiti  : 1
+jith  : 1
+jite  : 1
+jita  : 1
+jism  : 1
+jise  : 1
+jisa  : 1
+jire  : 1
+jira  : 1
+jins  : 1
+jine  : 1
+jind  : 1
+jika  : 1
+jiji  : 1
+jije  : 1
+jija  : 1
+jiiw  : 1
+jiit  : 1
+jiir  : 1
+jiib  : 1
+jien  : 1
+jhut  : 1
+jhul  : 1
+jhuk  : 1
+jhta  : 1
+jhsi  : 1
+jhor  : 1
+jhke  : 1
+jhir  : 1
+jhin  : 1
+jhik  : 1
+jhhe  : 1
+jhel  : 1
+jhea  : 1
+jhas  : 1
+jhao  : 1
+jhal  : 1
+jhad  : 1
+jhab  : 1
+jeza  : 1
+jeta  : 1
+jesh  : 1
+jeri  : 1
+jeke  : 1
+jehi  : 1
+jeha  : 1
+jeez  : 1
+jeev  : 1
+jees  : 1
+jeep  : 1
+jeee  : 1
+jeed  : 1
+jeeb  : 1
+jeck  : 1
+jebe  : 1
+jdaa  : 1
+jbur  : 1
+jazb  : 1
+jayi  : 1
+jasv  : 1
+jasr  : 1
+jaso  : 1
+jaru  : 1
+japo  : 1
+japi  : 1
+jape  : 1
+jant  : 1
+janm  : 1
+jank  : 1
+jang  : 1
+jami  : 1
+jame  : 1
+jalo  : 1
+jall  : 1
+jald  : 1
+jaji  : 1
+jain  : 1
+jail  : 1
+jahe  : 1
+jago  : 1
+jagi  : 1
+jagh  : 1
+jaga  : 1
+jadu  : 1
+jadh  : 1
+jach  : 1
+jabi  : 1
+jaba  : 1
+jaau  : 1
+jaat  : 1
+jaas  : 1
+jaap  : 1
+jaak  : 1
+jaaj  : 1
+jaah  : 1
+jaag  : 1
+jaaa  : 1
+izao  : 1
+iyyo  : 1
+iyve  : 1
+iyuu  : 1
+iyra  : 1
+iyog  : 1
+iyin  : 1
+iyak  : 1
+iyai  : 1
+iyah  : 1
+iwda  : 1
+iwam  : 1
+iwal  : 1
+iwaa  : 1
+ivit  : 1
+ivin  : 1
+ivil  : 1
+ivii  : 1
+iver  : 1
+iven  : 1
+ivam  : 1
+ityu  : 1
+itva  : 1
+itum  : 1
+itth  : 1
+itsa  : 1
+itro  : 1
+itor  : 1
+itno  : 1
+itli  : 1
+itke  : 1
+itij  : 1
+itho  : 1
+itey  : 1
+itda  : 1
+itab  : 1
+isvi  : 1
+isti  : 1
+isso  : 1
+isre  : 1
+ismo  : 1
+isma  : 1
+isla  : 1
+isik  : 1
+isie  : 1
+ishv  : 1
+ishu  : 1
+ishn  : 1
+ishk  : 1
+isfy  : 1
+isen  : 1
+isel  : 1
+isda  : 1
+isca  : 1
+isau  : 1
+isat  : 1
+isas  : 1
+isan  : 1
+isam  : 1
+isak  : 1
+irno  : 1
+irni  : 1
+irla  : 1
+irke  : 1
+iris  : 1
+irik  : 1
+irhi  : 1
+irha  : 1
+irgi  : 1
+irgh  : 1
+irch  : 1
+irak  : 1
+irag  : 1
+irad  : 1
+iqra  : 1
+iqko  : 1
+iqar  : 1
+ipti  : 1
+ipte  : 1
+ipta  : 1
+ipsi  : 1
+ippa  : 1
+ipda  : 1
+ipaa  : 1
+ioon  : 1
+inve  : 1
+intu  : 1
+into  : 1
+inoh  : 1
+inod  : 1
+inni  : 1
+inme  : 1
+injh  : 1
+inio  : 1
+inik  : 1
+inij  : 1
+ingi  : 1
+infi  : 1
+iney  : 1
+inen  : 1
+indr  : 1
+indh  : 1
+inct  : 1
+inar  : 1
+inan  : 1
+inam  : 1
+inal  : 1
+inah  : 1
+imti  : 1
+imna  : 1
+immi  : 1
+imli  : 1
+imla  : 1
+imir  : 1
+imha  : 1
+imbu  : 1
+imbo  : 1
+imar  : 1
+imak  : 1
+imag  : 1
+imad  : 1
+ilya  : 1
+ilva  : 1
+ilun  : 1
+ilpa  : 1
+ilmo  : 1
+ilmi  : 1
+ilme  : 1
+ills  : 1
+iliy  : 1
+ilip  : 1
+ilie  : 1
+ilha  : 1
+ilay  : 1
+ilar  : 1
+ilao  : 1
+ilaj  : 1
+ilah  : 1
+ilae  : 1
+ilab  : 1
+ikwe  : 1
+ikwa  : 1
+ikva  : 1
+ikti  : 1
+ikte  : 1
+ikso  : 1
+ikri  : 1
+ikre  : 1
+ikni  : 1
+iklo  : 1
+ikle  : 1
+ikla  : 1
+ikki  : 1
+ikke  : 1
+ikin  : 1
+iket  : 1
+iker  : 1
+ikas  : 1
+ikan  : 1
+ikam  : 1
+ijwa  : 1
+ijon  : 1
+ijli  : 1
+ijda  : 1
+ijai  : 1
+ijab  : 1
+iiye  : 1
+iist  : 1
+iise  : 1
+iiro  : 1
+iira  : 1
+iind  : 1
+iina  : 1
+iila  : 1
+iiko  : 1
+iikh  : 1
+iije  : 1
+iihu  : 1
+iiha  : 1
+iigo  : 1
+iigi  : 1
+iige  : 1
+iido  : 1
+ihti  : 1
+ihri  : 1
+ihre  : 1
+ihne  : 1
+ihmi  : 1
+ihki  : 1
+ihaz  : 1
+ihad  : 1
+igul  : 1
+igoi  : 1
+igna  : 1
+igla  : 1
+igit  : 1
+igho  : 1
+iger  : 1
+igde  : 1
+igda  : 1
+igat  : 1
+igah  : 1
+igad  : 1
+ifty  : 1
+ifen  : 1
+iese  : 1
+ient  : 1
+iend  : 1
+iega  : 1
+ieez  : 1
+idya  : 1
+idul  : 1
+idli  : 1
+idle  : 1
+idki  : 1
+idir  : 1
+idhu  : 1
+ider  : 1
+iddi  : 1
+idde  : 1
+idas  : 1
+idan  : 1
+idal  : 1
+icks  : 1
+icis  : 1
+icho  : 1
+icer  : 1
+iced  : 1
+icci  : 1
+icar  : 1
+ican  : 1
+ible  : 1
+ibhi  : 1
+ibhe  : 1
+ibee  : 1
+ibar  : 1
+iban  : 1
+iami  : 1
+iafe  : 1
+iada  : 1
+hzor  : 1
+hyek  : 1
+hyap  : 1
+hwet  : 1
+hwat  : 1
+hwas  : 1
+hwan  : 1
+hwak  : 1
+hwag  : 1
+hwab  : 1
+hwaa  : 1
+hvya  : 1
+hvat  : 1
+hval  : 1
+hvaj  : 1
+hvab  : 1
+huyi  : 1
+huya  : 1
+huwi  : 1
+huwe  : 1
+huvi  : 1
+huuu  : 1
+huuk  : 1
+huui  : 1
+huub  : 1
+husn  : 1
+hush  : 1
+huse  : 1
+huru  : 1
+huqr  : 1
+huqm  : 1
+hupp  : 1
+hupo  : 1
+hunu  : 1
+hunt  : 1
+huno  : 1
+hunk  : 1
+hunh  : 1
+hund  : 1
+humm  : 1
+huma  : 1
+hulo  : 1
+hulk  : 1
+huku  : 1
+hukr  : 1
+huko  : 1
+hukm  : 1
+hukh  : 1
+huje  : 1
+huja  : 1
+huin  : 1
+huii  : 1
+huha  : 1
+huey  : 1
+huen  : 1
+huee  : 1
+hude  : 1
+hudd  : 1
+huch  : 1
+hubi  : 1
+hubh  : 1
+huba  : 1
+huay  : 1
+huan  : 1
+huae  : 1
+htul  : 1
+htri  : 1
+hthe  : 1
+htaq  : 1
+hshi  : 1
+hsha  : 1
+hsey  : 1
+hsat  : 1
+hsaa  : 1
+hruv  : 1
+hrhe  : 1
+hrav  : 1
+hrao  : 1
+hqon  : 1
+hqil  : 1
+hpur  : 1
+hpar  : 1
+hoxa  : 1
+hove  : 1
+hott  : 1
+hoto  : 1
+hoos  : 1
+hooo  : 1
+hook  : 1
+hoob  : 1
+hont  : 1
+honn  : 1
+honk  : 1
+hong  : 1
+hold  : 1
+hoko  : 1
+hoji  : 1
+hoga  : 1
+hoen  : 1
+hodu  : 1
+hnoo  : 1
+hnon  : 1
+hnga  : 1
+hnat  : 1
+hnan  : 1
+hmui  : 1
+hmir  : 1
+hmey  : 1
+hmen  : 1
+hmal  : 1
+hlee  : 1
+hlat  : 1
+hlao  : 1
+hlam  : 1
+hlab  : 1
+hkta  : 1
+hkri  : 1
+hkon  : 1
+hkol  : 1
+hkna  : 1
+hkil  : 1
+hjse  : 1
+hjpe  : 1
+hjhe  : 1
+hizr  : 1
+hizo  : 1
+hiza  : 1
+hiwa  : 1
+hium  : 1
+hity  : 1
+hitu  : 1
+hitt  : 1
+hito  : 1
+hist  : 1
+hisa  : 1
+hirs  : 1
+hirq  : 1
+hiqi  : 1
+hipe  : 1
+hint  : 1
+hind  : 1
+hilo  : 1
+hill  : 1
+hiku  : 1
+hikr  : 1
+hiko  : 1
+hike  : 1
+hijr  : 1
+hiji  : 1
+hija  : 1
+hiit  : 1
+hiir  : 1
+hiil  : 1
+higo  : 1
+higi  : 1
+high  : 1
+higa  : 1
+hien  : 1
+hide  : 1
+hick  : 1
+hich  : 1
+hhwa  : 1
+hhut  : 1
+hhup  : 1
+hhuo  : 1
+hhum  : 1
+hhul  : 1
+hhuk  : 1
+hhue  : 1
+hhud  : 1
+hhte  : 1
+hhot  : 1
+hhor  : 1
+hhop  : 1
+hhod  : 1
+hhna  : 1
+hhmh  : 1
+hhli  : 1
+hhle  : 1
+hhit  : 1
+hhip  : 1
+hhil  : 1
+hhii  : 1
+hhek  : 1
+hhee  : 1
+hhed  : 1
+hhde  : 1
+hhda  : 1
+hhar  : 1
+hham  : 1
+hhal  : 1
+hhah  : 1
+hhae  : 1
+hhad  : 1
+hfal  : 1
+hfaa  : 1
+heva  : 1
+hetu  : 1
+hetr  : 1
+hese  : 1
+hepi  : 1
+hent  : 1
+hens  : 1
+henp  : 1
+heme  : 1
+hell  : 1
+heko  : 1
+hekh  : 1
+hejo  : 1
+heji  : 1
+heje  : 1
+heja  : 1
+heet  : 1
+hees  : 1
+heem  : 1
+heej  : 1
+heck  : 1
+heap  : 1
+heal  : 1
+hdon  : 1
+hdaa  : 1
+hchu  : 1
+hbud  : 1
+hbub  : 1
+hboo  : 1
+hbal  : 1
+hayo  : 1
+haym  : 1
+hayd  : 1
+hawk  : 1
+hawe  : 1
+haut  : 1
+haur  : 1
+haul  : 1
+hauk  : 1
+hatv  : 1
+hatm  : 1
+hath  : 1
+hasu  : 1
+hasr  : 1
+haso  : 1
+harv  : 1
+harr  : 1
+harq  : 1
+harn  : 1
+harj  : 1
+harf  : 1
+hany  : 1
+hanv  : 1
+hanu  : 1
+hans  : 1
+hank  : 1
+hang  : 1
+hamo  : 1
+hamm  : 1
+hamk  : 1
+hall  : 1
+halk  : 1
+haks  : 1
+hakr  : 1
+hakh  : 1
+haji  : 1
+haja  : 1
+haiy  : 1
+hair  : 1
+hahu  : 1
+hahn  : 1
+haha  : 1
+hagh  : 1
+hage  : 1
+hafe  : 1
+haen  : 1
+haee  : 1
+hadr  : 1
+hado  : 1
+hadh  : 1
+hadd  : 1
+habe  : 1
+habd  : 1
+haaw  : 1
+haau  : 1
+haaj  : 1
+haaa  : 1
+gyon  : 1
+gyan  : 1
+gyam  : 1
+gxaa  : 1
+gwat  : 1
+gwan  : 1
+gwal  : 1
+guwa  : 1
+guur  : 1
+gust  : 1
+gusa  : 1
+gupt  : 1
+gunj  : 1
+gumn  : 1
+gumm  : 1
+guma  : 1
+guly  : 1
+gulu  : 1
+guli  : 1
+guha  : 1
+gufa  : 1
+guda  : 1
+gubu  : 1
+gual  : 1
+gthi  : 1
+gtey  : 1
+gtaa  : 1
+gron  : 1
+grii  : 1
+grez  : 1
+grej  : 1
+gram  : 1
+goyi  : 1
+goye  : 1
+gowr  : 1
+gova  : 1
+gour  : 1
+goti  : 1
+goro  : 1
+gori  : 1
+gore  : 1
+gora  : 1
+gopi  : 1
+goor  : 1
+goom  : 1
+gool  : 1
+gona  : 1
+gold  : 1
+gola  : 1
+gogi  : 1
+goga  : 1
+godh  : 1
+gode  : 1
+gobi  : 1
+gnun  : 1
+gnal  : 1
+gmon  : 1
+gmey  : 1
+gmen  : 1
+gmaa  : 1
+glii  : 1
+gley  : 1
+glaa  : 1
+giye  : 1
+give  : 1
+giro  : 1
+girl  : 1
+gire  : 1
+gird  : 1
+gira  : 1
+gino  : 1
+gidh  : 1
+gida  : 1
+ghut  : 1
+ghus  : 1
+ghup  : 1
+ghun  : 1
+ghum  : 1
+ghul  : 1
+ghts  : 1
+ghta  : 1
+ghor  : 1
+ghol  : 1
+ghme  : 1
+ghma  : 1
+ghla  : 1
+ghir  : 1
+gher  : 1
+ghdi  : 1
+ghas  : 1
+ggat  : 1
+ggar  : 1
+ggan  : 1
+gesu  : 1
+geon  : 1
+gene  : 1
+gelo  : 1
+gehu  : 1
+gege  : 1
+geer  : 1
+geek  : 1
+gede  : 1
+gdil  : 1
+gdai  : 1
+gazo  : 1
+gazi  : 1
+gato  : 1
+gast  : 1
+garu  : 1
+garo  : 1
+garm  : 1
+garj  : 1
+gard  : 1
+garb  : 1
+ganu  : 1
+gant  : 1
+gann  : 1
+ganj  : 1
+gamr  : 1
+gamo  : 1
+game  : 1
+galo  : 1
+gair  : 1
+gaho  : 1
+gahe  : 1
+gagi  : 1
+gaer  : 1
+gado  : 1
+gaau  : 1
+fzon  : 1
+full  : 1
+ftar  : 1
+ftab  : 1
+fsos  : 1
+fsar  : 1
+frat  : 1
+foto  : 1
+foor  : 1
+foon  : 1
+fool  : 1
+firo  : 1
+fire  : 1
+fira  : 1
+fiqr  : 1
+fina  : 1
+film  : 1
+fili  : 1
+fikr  : 1
+fida  : 1
+fice  : 1
+fhir  : 1
+ffic  : 1
+ffee  : 1
+fere  : 1
+fenk  : 1
+feel  : 1
+fedi  : 1
+fdon  : 1
+fayi  : 1
+faye  : 1
+fasl  : 1
+fasi  : 1
+fasa  : 1
+farz  : 1
+farq  : 1
+fark  : 1
+farj  : 1
+fari  : 1
+faon  : 1
+fans  : 1
+fano  : 1
+fani  : 1
+fall  : 1
+fale  : 1
+fala  : 1
+fakt  : 1
+fair  : 1
+fail  : 1
+faid  : 1
+faee  : 1
+fade  : 1
+fada  : 1
+faaq  : 1
+faag  : 1
+ezon  : 1
+ezen  : 1
+ezar  : 1
+ezab  : 1
+eyes  : 1
+eyen  : 1
+eyat  : 1
+eyan  : 1
+eyak  : 1
+exia  : 1
+ewee  : 1
+ewan  : 1
+ewam  : 1
+ewal  : 1
+evta  : 1
+evon  : 1
+evit  : 1
+evis  : 1
+evii  : 1
+even  : 1
+eval  : 1
+evak  : 1
+etum  : 1
+ette  : 1
+etri  : 1
+etne  : 1
+etao  : 1
+etan  : 1
+etak  : 1
+etab  : 1
+esvi  : 1
+esuu  : 1
+esur  : 1
+esto  : 1
+este  : 1
+esse  : 1
+esro  : 1
+esri  : 1
+esre  : 1
+esra  : 1
+esor  : 1
+esoo  : 1
+eskh  : 1
+eska  : 1
+eshy  : 1
+esho  : 1
+esco  : 1
+esar  : 1
+erto  : 1
+erti  : 1
+erta  : 1
+ersh  : 1
+erre  : 1
+erni  : 1
+erna  : 1
+erin  : 1
+erik  : 1
+eria  : 1
+erer  : 1
+eray  : 1
+erao  : 1
+erak  : 1
+erah  : 1
+equm  : 1
+eqas  : 1
+eqal  : 1
+epun  : 1
+epta  : 1
+epon  : 1
+epin  : 1
+epii  : 1
+epee  : 1
+epak  : 1
+enur  : 1
+ents  : 1
+enti  : 1
+enth  : 1
+enoo  : 1
+enoh  : 1
+enna  : 1
+enko  : 1
+enka  : 1
+enis  : 1
+ends  : 1
+ende  : 1
+enda  : 1
+ence  : 1
+enar  : 1
+enam  : 1
+emun  : 1
+emon  : 1
+emol  : 1
+emii  : 1
+emee  : 1
+embu  : 1
+emar  : 1
+elun  : 1
+elti  : 1
+elte  : 1
+elta  : 1
+elne  : 1
+elhi  : 1
+elgi  : 1
+elam  : 1
+ekun  : 1
+ekum  : 1
+ekte  : 1
+eksa  : 1
+ekri  : 1
+ekla  : 1
+ekko  : 1
+ekke  : 1
+ekin  : 1
+ekii  : 1
+ekhu  : 1
+eker  : 1
+eken  : 1
+ekde  : 1
+ekas  : 1
+ekap  : 1
+ekam  : 1
+ekaa  : 1
+ejwa  : 1
+ejod  : 1
+ejne  : 1
+ejii  : 1
+ejie  : 1
+ejen  : 1
+ejam  : 1
+eine  : 1
+eind  : 1
+eikh  : 1
+eigi  : 1
+ehza  : 1
+ehun  : 1
+ehru  : 1
+ehoo  : 1
+ehno  : 1
+ehmi  : 1
+ehme  : 1
+ehlu  : 1
+ehli  : 1
+ehis  : 1
+ehii  : 1
+ehga  : 1
+ehed  : 1
+ehdo  : 1
+ehde  : 1
+ehat  : 1
+egya  : 1
+egum  : 1
+egta  : 1
+egon  : 1
+egoi  : 1
+egho  : 1
+egen  : 1
+egde  : 1
+egam  : 1
+eful  : 1
+eflu  : 1
+efil  : 1
+efaq  : 1
+eezo  : 1
+eezi  : 1
+eevi  : 1
+eety  : 1
+eeto  : 1
+eerh  : 1
+eeqa  : 1
+eepu  : 1
+eepi  : 1
+eend  : 1
+eeme  : 1
+eekh  : 1
+eeji  : 1
+eehu  : 1
+eehe  : 1
+eego  : 1
+eegi  : 1
+eege  : 1
+eedo  : 1
+eedh  : 1
+eede  : 1
+eeba  : 1
+edti  : 1
+edro  : 1
+edra  : 1
+edom  : 1
+edna  : 1
+edit  : 1
+edil  : 1
+edho  : 1
+edhi  : 1
+edat  : 1
+edan  : 1
+ebva  : 1
+ebus  : 1
+ebsi  : 1
+ebhi  : 1
+eben  : 1
+ebee  : 1
+ebaz  : 1
+ebat  : 1
+ebas  : 1
+ebam  : 1
+ebal  : 1
+ebaa  : 1
+eave  : 1
+eato  : 1
+eath  : 1
+east  : 1
+eart  : 1
+eare  : 1
+eady  : 1
+each  : 1
+eace  : 1
+dyay  : 1
+dyat  : 1
+dwar  : 1
+dvan  : 1
+duwa  : 1
+duva  : 1
+duuk  : 1
+duub  : 1
+durr  : 1
+duon  : 1
+duna  : 1
+duki  : 1
+dukh  : 1
+duji  : 1
+duje  : 1
+duja  : 1
+duii  : 1
+dubo  : 1
+dubi  : 1
+dube  : 1
+duba  : 1
+duaa  : 1
+dthe  : 1
+dtaa  : 1
+dsyo  : 1
+dsya  : 1
+drum  : 1
+drug  : 1
+drow  : 1
+drop  : 1
+dron  : 1
+drig  : 1
+drew  : 1
+draw  : 1
+dram  : 1
+draj  : 1
+drah  : 1
+draa  : 1
+dper  : 1
+dpat  : 1
+dpar  : 1
+dpaa  : 1
+dour  : 1
+doti  : 1
+dost  : 1
+doso  : 1
+dosi  : 1
+doru  : 1
+doro  : 1
+dori  : 1
+doot  : 1
+dook  : 1
+dont  : 1
+dono  : 1
+dolo  : 1
+doli  : 1
+doke  : 1
+dohi  : 1
+dohe  : 1
+doha  : 1
+doba  : 1
+dnam  : 1
+dmat  : 1
+dlon  : 1
+dley  : 1
+dlav  : 1
+dlal  : 1
+dlaa  : 1
+dkta  : 1
+dkna  : 1
+diva  : 1
+dium  : 1
+dith  : 1
+dist  : 1
+disi  : 1
+dino  : 1
+dine  : 1
+dilo  : 1
+dill  : 1
+dile  : 1
+dika  : 1
+dijo  : 1
+dije  : 1
+diip  : 1
+diik  : 1
+diga  : 1
+didi  : 1
+diba  : 1
+dian  : 1
+dhyo  : 1
+dhut  : 1
+dhur  : 1
+dhul  : 1
+dhuk  : 1
+dhub  : 1
+dhte  : 1
+dhra  : 1
+dhor  : 1
+dhoo  : 1
+dhni  : 1
+dhli  : 1
+dhir  : 1
+dhim  : 1
+dhil  : 1
+dhhi  : 1
+dhey  : 1
+dhee  : 1
+dhay  : 1
+dhat  : 1
+dhas  : 1
+dhal  : 1
+dhak  : 1
+dhae  : 1
+dget  : 1
+dgai  : 1
+deya  : 1
+devo  : 1
+deve  : 1
+deva  : 1
+deti  : 1
+dete  : 1
+deta  : 1
+dese  : 1
+dero  : 1
+dern  : 1
+depe  : 1
+deon  : 1
+deni  : 1
+dene  : 1
+dena  : 1
+deko  : 1
+dekh  : 1
+deke  : 1
+dejo  : 1
+deji  : 1
+dehu  : 1
+deha  : 1
+dege  : 1
+deem  : 1
+deed  : 1
+dedo  : 1
+dedi  : 1
+dedh  : 1
+dede  : 1
+dear  : 1
+ddua  : 1
+ddon  : 1
+ddli  : 1
+ddii  : 1
+ddam  : 1
+ddai  : 1
+dbad  : 1
+dawa  : 1
+davi  : 1
+dave  : 1
+daud  : 1
+daso  : 1
+dase  : 1
+daru  : 1
+dart  : 1
+darr  : 1
+darj  : 1
+dapi  : 1
+dape  : 1
+dapa  : 1
+daon  : 1
+daoh  : 1
+damo  : 1
+dami  : 1
+dame  : 1
+damb  : 1
+dako  : 1
+dahi  : 1
+dage  : 1
+daga  : 1
+dafa  : 1
+daen  : 1
+dach  : 1
+dabo  : 1
+dabi  : 1
+dabe  : 1
+daba  : 1
+daaz  : 1
+daav  : 1
+daaj  : 1
+daab  : 1
+daaa  : 1
+cyle  : 1
+cute  : 1
+cuba  : 1
+ctus  : 1
+cted  : 1
+ctar  : 1
+cord  : 1
+cnic  : 1
+ckey  : 1
+ciyo  : 1
+city  : 1
+cist  : 1
+cing  : 1
+cial  : 1
+chuu  : 1
+chus  : 1
+chur  : 1
+chum  : 1
+chul  : 1
+chug  : 1
+chub  : 1
+chot  : 1
+choo  : 1
+choe  : 1
+chli  : 1
+chka  : 1
+chiz  : 1
+chiw  : 1
+chiv  : 1
+chir  : 1
+chik  : 1
+chij  : 1
+chie  : 1
+chhu  : 1
+chey  : 1
+chet  : 1
+cher  : 1
+chek  : 1
+ched  : 1
+chdi  : 1
+chde  : 1
+chda  : 1
+chav  : 1
+chao  : 1
+chah  : 1
+chab  : 1
+cate  : 1
+carb  : 1
+call  : 1
+buze  : 1
+buye  : 1
+buut  : 1
+buur  : 1
+buum  : 1
+buub  : 1
+busy  : 1
+bure  : 1
+buno  : 1
+bunk  : 1
+bune  : 1
+bund  : 1
+buna  : 1
+bull  : 1
+buje  : 1
+buhe  : 1
+bugu  : 1
+budi  : 1
+buba  : 1
+btor  : 1
+btao  : 1
+bsay  : 1
+bsar  : 1
+bron  : 1
+brij  : 1
+bret  : 1
+braj  : 1
+brai  : 1
+boyi  : 1
+boya  : 1
+bout  : 1
+bota  : 1
+bose  : 1
+bosa  : 1
+bore  : 1
+bord  : 1
+bora  : 1
+boot  : 1
+boon  : 1
+boom  : 1
+book  : 1
+bonn  : 1
+boni  : 1
+bone  : 1
+bona  : 1
+bomb  : 1
+bolu  : 1
+bolo  : 1
+boli  : 1
+bole  : 1
+boko  : 1
+boke  : 1
+bogi  : 1
+blic  : 1
+blaa  : 1
+bjon  : 1
+biya  : 1
+biwi  : 1
+bivi  : 1
+bitt  : 1
+biti  : 1
+bith  : 1
+bite  : 1
+bita  : 1
+biso  : 1
+bird  : 1
+bira  : 1
+bind  : 1
+bima  : 1
+bill  : 1
+biki  : 1
+biit  : 1
+biha  : 1
+bidi  : 1
+bidh  : 1
+bich  : 1
+biba  : 1
+bian  : 1
+bhuu  : 1
+bhun  : 1
+bhul  : 1
+bhuj  : 1
+bhud  : 1
+bhua  : 1
+bhti  : 1
+bhta  : 1
+bhre  : 1
+bhor  : 1
+bhoj  : 1
+bhoi  : 1
+bhog  : 1
+bhko  : 1
+bhki  : 1
+bhke  : 1
+bhir  : 1
+bhim  : 1
+bhik  : 1
+bhig  : 1
+bhet  : 1
+bhes  : 1
+bhel  : 1
+bhej  : 1
+bhed  : 1
+bhat  : 1
+bhas  : 1
+bhan  : 1
+bhad  : 1
+bgar  : 1
+bewa  : 1
+beva  : 1
+beto  : 1
+bete  : 1
+beta  : 1
+beri  : 1
+bera  : 1
+bell  : 1
+beja  : 1
+bein  : 1
+bege  : 1
+bega  : 1
+beet  : 1
+bees  : 1
+beel  : 1
+beej  : 1
+beeg  : 1
+beeb  : 1
+bedi  : 1
+bede  : 1
+beda  : 1
+bech  : 1
+bdul  : 1
+bdha  : 1
+bdal  : 1
+bbly  : 1
+bazm  : 1
+baye  : 1
+baya  : 1
+bava  : 1
+bass  : 1
+baso  : 1
+basa  : 1
+bart  : 1
+bars  : 1
+barr  : 1
+barq  : 1
+barl  : 1
+bark  : 1
+barf  : 1
+bare  : 1
+baqa  : 1
+banu  : 1
+bant  : 1
+bano  : 1
+bank  : 1
+balu  : 1
+balo  : 1
+ball  : 1
+bako  : 1
+baji  : 1
+baje  : 1
+baja  : 1
+bait  : 1
+bair  : 1
+bain  : 1
+bail  : 1
+bahe  : 1
+bagh  : 1
+bado  : 1
+badh  : 1
+bade  : 1
+badd  : 1
+bada  : 1
+back  : 1
+bach  : 1
+baaw  : 1
+baaq  : 1
+baal  : 1
+baak  : 1
+baag  : 1
+baae  : 1
+azza  : 1
+azro  : 1
+azre  : 1
+azmi  : 1
+azma  : 1
+azin  : 1
+azim  : 1
+azil  : 1
+azii  : 1
+azid  : 1
+azgi  : 1
+azer  : 1
+azda  : 1
+azbe  : 1
+azba  : 1
+azab  : 1
+ayyo  : 1
+ayus  : 1
+ayur  : 1
+ayug  : 1
+ayub  : 1
+aysi  : 1
+ayre  : 1
+ayne  : 1
+ayko  : 1
+ayke  : 1
+ayiz  : 1
+ayio  : 1
+aygi  : 1
+ayer  : 1
+ayel  : 1
+ayed  : 1
+ayde  : 1
+ayay  : 1
+ayas  : 1
+ayae  : 1
+awao  : 1
+awaj  : 1
+avya  : 1
+avvi  : 1
+avua  : 1
+avti  : 1
+avre  : 1
+avra  : 1
+avor  : 1
+avoh  : 1
+avni  : 1
+avna  : 1
+avli  : 1
+avit  : 1
+avir  : 1
+avik  : 1
+aver  : 1
+avem  : 1
+aveg  : 1
+aved  : 1
+avay  : 1
+avam  : 1
+avaj  : 1
+auvi  : 1
+auty  : 1
+auti  : 1
+aute  : 1
+ausi  : 1
+ause  : 1
+auqe  : 1
+auqa  : 1
+aung  : 1
+aumi  : 1
+aulu  : 1
+auki  : 1
+aujo  : 1
+augh  : 1
+audo  : 1
+aude  : 1
+auda  : 1
+atwa  : 1
+atuu  : 1
+atum  : 1
+attu  : 1
+ator  : 1
+atni  : 1
+atli  : 1
+atiy  : 1
+atik  : 1
+ated  : 1
+atat  : 1
+atal  : 1
+atai  : 1
+atab  : 1
+asyo  : 1
+asvo  : 1
+asuu  : 1
+asus  : 1
+asto  : 1
+assa  : 1
+asre  : 1
+asos  : 1
+asoo  : 1
+asom  : 1
+asoi  : 1
+asma  : 1
+aska  : 1
+asit  : 1
+asid  : 1
+ashv  : 1
+ashu  : 1
+ashr  : 1
+asho  : 1
+aseh  : 1
+asav  : 1
+asas  : 1
+asai  : 1
+arzu  : 1
+arzo  : 1
+arza  : 1
+arxo  : 1
+arut  : 1
+arue  : 1
+arty  : 1
+artu  : 1
+arts  : 1
+arry  : 1
+arrt  : 1
+arro  : 1
+arri  : 1
+aros  : 1
+aror  : 1
+arop  : 1
+arno  : 1
+armo  : 1
+arlo  : 1
+arko  : 1
+arka  : 1
+arje  : 1
+ario  : 1
+arie  : 1
+arid  : 1
+aria  : 1
+arhx  : 1
+arhi  : 1
+arfa  : 1
+aret  : 1
+arem  : 1
+arel  : 1
+arek  : 1
+areb  : 1
+ardo  : 1
+ardn  : 1
+arbh  : 1
+arbe  : 1
+arba  : 1
+araq  : 1
+arao  : 1
+arag  : 1
+aqub  : 1
+aqta  : 1
+aqqo  : 1
+aqin  : 1
+aqim  : 1
+aqil  : 1
+aqia  : 1
+aqam  : 1
+apuu  : 1
+apth  : 1
+aptc  : 1
+apse  : 1
+appi  : 1
+apor  : 1
+apoo  : 1
+apon  : 1
+apoh  : 1
+apko  : 1
+apin  : 1
+apii  : 1
+aphu  : 1
+apet  : 1
+aper  : 1
+apen  : 1
+apde  : 1
+apda  : 1
+aoni  : 1
+anze  : 1
+anyu  : 1
+anyi  : 1
+anvo  : 1
+anve  : 1
+anus  : 1
+anur  : 1
+anup  : 1
+anuk  : 1
+anpi  : 1
+anpe  : 1
+anom  : 1
+anoj  : 1
+anoi  : 1
+anoh  : 1
+annt  : 1
+anng  : 1
+anmi  : 1
+anme  : 1
+anju  : 1
+anjo  : 1
+anji  : 1
+aniz  : 1
+anit  : 1
+anin  : 1
+anil  : 1
+anij  : 1
+anie  : 1
+anic  : 1
+anib  : 1
+ania  : 1
+anho  : 1
+anhe  : 1
+angu  : 1
+anek  : 1
+andy  : 1
+anbi  : 1
+amwa  : 1
+amva  : 1
+amut  : 1
+amun  : 1
+amul  : 1
+amuh  : 1
+amse  : 1
+amri  : 1
+amps  : 1
+ampi  : 1
+amph  : 1
+ampa  : 1
+amnk  : 1
+amni  : 1
+ammu  : 1
+amme  : 1
+amlo  : 1
+amle  : 1
+amki  : 1
+amji  : 1
+amjh  : 1
+amje  : 1
+amja  : 1
+amiy  : 1
+amit  : 1
+amik  : 1
+amhe  : 1
+amge  : 1
+amey  : 1
+amev  : 1
+amet  : 1
+amer  : 1
+ambu  : 1
+ambi  : 1
+amao  : 1
+amaj  : 1
+alye  : 1
+alwe  : 1
+alty  : 1
+alsi  : 1
+alok  : 1
+alni  : 1
+alit  : 1
+alij  : 1
+alif  : 1
+alia  : 1
+alho  : 1
+algi  : 1
+alde  : 1
+alda  : 1
+alco  : 1
+alav  : 1
+alap  : 1
+alao  : 1
+alal  : 1
+alag  : 1
+alae  : 1
+akyo  : 1
+akya  : 1
+akuu  : 1
+akum  : 1
+akth  : 1
+aksa  : 1
+akri  : 1
+akre  : 1
+akor  : 1
+akoi  : 1
+akoe  : 1
+akmi  : 1
+akli  : 1
+akhm  : 1
+akel  : 1
+akde  : 1
+akda  : 1
+akas  : 1
+akao  : 1
+ajuo  : 1
+ajul  : 1
+ajug  : 1
+ajsv  : 1
+ajri  : 1
+ajoo  : 1
+ajol  : 1
+ajnu  : 1
+ajme  : 1
+ajle  : 1
+ajki  : 1
+ajji  : 1
+ajiv  : 1
+ajit  : 1
+ajir  : 1
+ajin  : 1
+ajil  : 1
+ajid  : 1
+ajib  : 1
+ajho  : 1
+ajet  : 1
+ajeb  : 1
+ajde  : 1
+ajda  : 1
+ajay  : 1
+ajao  : 1
+ajam  : 1
+ajai  : 1
+ajad  : 1
+aiyi  : 1
+aith  : 1
+aite  : 1
+aita  : 1
+airt  : 1
+airn  : 1
+airi  : 1
+aira  : 1
+ainu  : 1
+ainn  : 1
+aink  : 1
+aind  : 1
+aiki  : 1
+aidu  : 1
+aidi  : 1
+aide  : 1
+ahya  : 1
+ahut  : 1
+ahue  : 1
+ahua  : 1
+ahre  : 1
+ahot  : 1
+ahor  : 1
+ahol  : 1
+ahmi  : 1
+ahmd  : 1
+ahli  : 1
+ahle  : 1
+ahla  : 1
+ahke  : 1
+ahim  : 1
+ahib  : 1
+ahez  : 1
+ahes  : 1
+ahem  : 1
+ahas  : 1
+ahaj  : 1
+agyo  : 1
+aguu  : 1
+agoo  : 1
+agni  : 1
+agme  : 1
+agma  : 1
+agiz  : 1
+agis  : 1
+agij  : 1
+agho  : 1
+aghi  : 1
+aghe  : 1
+aggi  : 1
+agel  : 1
+ageh  : 1
+agde  : 1
+agay  : 1
+agao  : 1
+agaj  : 1
+afte  : 1
+afon  : 1
+afii  : 1
+affa  : 1
+afen  : 1
+afed  : 1
+afde  : 1
+afda  : 1
+afal  : 1
+aesi  : 1
+aeri  : 1
+aere  : 1
+aene  : 1
+aeho  : 1
+aedh  : 1
+adwe  : 1
+adva  : 1
+adul  : 1
+adui  : 1
+adro  : 1
+adre  : 1
+adra  : 1
+adqe  : 1
+adpi  : 1
+adpe  : 1
+adpa  : 1
+ados  : 1
+admo  : 1
+admi  : 1
+adlo  : 1
+adko  : 1
+adio  : 1
+adim  : 1
+adey  : 1
+ades  : 1
+addu  : 1
+aday  : 1
+adap  : 1
+adah  : 1
+acup  : 1
+acre  : 1
+acob  : 1
+acko  : 1
+abza  : 1
+abur  : 1
+abun  : 1
+abuk  : 1
+abuj  : 1
+abub  : 1
+abto  : 1
+aboh  : 1
+abnu  : 1
+abne  : 1
+ablu  : 1
+abko  : 1
+abki  : 1
+abka  : 1
+abja  : 1
+abib  : 1
+abia  : 1
+abhy  : 1
+abdi  : 1
+abdh  : 1
+abba  : 1
+abas  : 1
+abaq  : 1
+abam  : 1
+abak  : 1
+abag  : 1
+aayu  : 1
+aavn  : 1
+aauu  : 1
+aaus  : 1
+aaur  : 1
+aaub  : 1
+aarg  : 1
+aapu  : 1
+aaph  : 1
+aaos  : 1
+aanz  : 1
+aanj  : 1
+aanf  : 1
+aamp  : 1
+aamo  : 1
+aakj  : 1
+aajy  : 1
+aahr  : 1
+aagy  : 1
+aagh  : 1
+aafa  : 1
+aaey  : 1
+aaee  : 1
+aadd  : 1
+aabh  : 1
+aaat  : 1
+aaar  : 1
+aaao  : 1
+aaah  : 1
+ zyad : 1
+ zuro : 1
+ zulp : 1
+ zule : 1
+ zoro : 1
+ zori : 1
+ zoom : 1
+ zohr : 1
+ zoha : 1
+ zist : 1
+ zism : 1
+ zisa : 1
+ ziro : 1
+ ziqr : 1
+ zill : 1
+ zikr : 1
+ zika : 1
+ ziis : 1
+ zida : 1
+ ziad : 1
+ zhak : 1
+ zhaa : 1
+ zeva : 1
+ zehe : 1
+ zark : 1
+ zana : 1
+ zamb : 1
+ zalz : 1
+ zahr : 1
+ zahi : 1
+ zaga : 1
+ zabr : 1
+ zabi : 1
+ zabe : 1
+ zaay : 1
+ zaau : 1
+ zaat : 1
+ zaar : 1
+ zaak : 1
+ yuuh : 1
+ yuro : 1
+ yuhi : 1
+ yugo : 1
+ yuge : 1
+ yudh : 1
+ yudd : 1
+ yraa : 1
+ youv : 1
+ yous : 1
+ yora : 1
+ yoon : 1
+ yooh : 1
+ yogi : 1
+ yodu : 1
+ yhai : 1
+ yeva : 1
+ yesi : 1
+ yekc : 1
+ yehe : 1
+ yedi : 1
+ yeah : 1
+ yava : 1
+ yati : 1
+ yath : 1
+ yata : 1
+ yash : 1
+ yarr : 1
+ yari : 1
+ yaqe : 1
+ yant : 1
+ yani : 1
+ yanh : 1
+ yane : 1
+ yamu : 1
+ yamr : 1
+ yake : 1
+ yaho : 1
+ yagy : 1
+ yaga : 1
+ yady : 1
+ yadi : 1
+ yadh : 1
+ yade : 1
+ yada : 1
+ yaay : 1
+ yaas : 1
+ yaaq : 1
+ yaam : 1
+ yaac : 1
+ yaaa : 1
+ wsis : 1
+ writ : 1
+ wrid : 1
+ worl : 1
+ word : 1
+ with : 1
+ wist : 1
+ wish : 1
+ wise : 1
+ wiro : 1
+ wing : 1
+ wind : 1
+ wima : 1
+ will : 1
+ wika : 1
+ wija : 1
+ wigh : 1
+ widh : 1
+ wick : 1
+ when : 1
+ weta : 1
+ wehs : 1
+ weer : 1
+ webs : 1
+ weat : 1
+ waug : 1
+ wate : 1
+ wasu : 1
+ wast : 1
+ wass : 1
+ wasl : 1
+ wasi : 1
+ waro : 1
+ wari : 1
+ waqt : 1
+ waps : 1
+ wapa : 1
+ wans : 1
+ wano : 1
+ wann : 1
+ wand : 1
+ walk : 1
+ wali : 1
+ walh : 1
+ waka : 1
+ wajo : 1
+ wajj : 1
+ waje : 1
+ waja : 1
+ waiz : 1
+ wahu : 1
+ wahe : 1
+ waff : 1
+ waes : 1
+ wado : 1
+ wade : 1
+ wach : 1
+ waay : 1
+ waaj : 1
+ vyop : 1
+ vyas : 1
+ vyar : 1
+ vutt : 1
+ vusm : 1
+ vusk : 1
+ vunk : 1
+ vunh : 1
+ vull : 1
+ vudh : 1
+ vudd : 1
+ vuda : 1
+ vuch : 1
+ vruk : 1
+ vrtm : 1
+ vrks : 1
+ vris : 1
+ vrin : 1
+ vrih : 1
+ vrak : 1
+ voto : 1
+ voti : 1
+ voli : 1
+ voic : 1
+ viya : 1
+ vivy : 1
+ vivi : 1
+ vivh : 1
+ vity : 1
+ viti : 1
+ vith : 1
+ visv : 1
+ visp : 1
+ vise : 1
+ virj : 1
+ vimo : 1
+ vill : 1
+ vikk : 1
+ vije : 1
+ vihi : 1
+ vigy : 1
+ vidv : 1
+ vidi : 1
+ vett : 1
+ veta : 1
+ vesh : 1
+ very : 1
+ vers : 1
+ veen : 1
+ veej : 1
+ vedn : 1
+ vech : 1
+ vazu : 1
+ vayp : 1
+ vayk : 1
+ vaye : 1
+ vatt : 1
+ vaso : 1
+ vasi : 1
+ vash : 1
+ vase : 1
+ vary : 1
+ varo : 1
+ varm : 1
+ vaqt : 1
+ vaqe : 1
+ vaqa : 1
+ vaps : 1
+ vapa : 1
+ vanr : 1
+ vano : 1
+ vani : 1
+ vanh : 1
+ valo : 1
+ vale : 1
+ vala : 1
+ vaky : 1
+ vakr : 1
+ vakh : 1
+ vaju : 1
+ vajp : 1
+ vajo : 1
+ vaji : 1
+ vaid : 1
+ vaht : 1
+ vahn : 1
+ vagl : 1
+ vade : 1
+ vadd : 1
+ vach : 1
+ vaam : 1
+ vaak : 1
+ vaaj : 1
+ vaac : 1
+ uuse : 1
+ uunt : 1
+ uttr : 1
+ utri : 1
+ utni : 1
+ utne : 1
+ utna : 1
+ utka : 1
+ uthn : 1
+ utak : 1
+ utah : 1
+ usuu : 1
+ ustu : 1
+ usta : 1
+ ussi : 1
+ uspe : 1
+ usne : 1
+ usko : 1
+ uske : 1
+ usis : 1
+ usii : 1
+ ushi : 1
+ usey : 1
+ usat : 1
+ usas : 1
+ usan : 1
+ urxa : 1
+ uruu : 1
+ urja : 1
+ uriy : 1
+ urdt : 1
+ uray : 1
+ urak : 1
+ uraa : 1
+ upyo : 1
+ upvi : 1
+ upva : 1
+ upsa : 1
+ upru : 1
+ uppe : 1
+ upor : 1
+ upny : 1
+ upna : 1
+ upke : 1
+ upja : 1
+ upbh : 1
+ upay : 1
+ upaw : 1
+ upav : 1
+ upas : 1
+ upad : 1
+ upac : 1
+ upab : 1
+ unva : 1
+ unsu : 1
+ unse : 1
+ unpe : 1
+ unnt : 1
+ unns : 1
+ unmu : 1
+ unko : 1
+ unke : 1
+ univ : 1
+ unes : 1
+ unaw : 1
+ unas : 1
+ unap : 1
+ unan : 1
+ unam : 1
+ umrr : 1
+ umro : 1
+ umre : 1
+ umrd : 1
+ umra : 1
+ umna : 1
+ umma : 1
+ umes : 1
+ umas : 1
+ ulti : 1
+ ulte : 1
+ ulta : 1
+ ullk : 1
+ ulli : 1
+ ulla : 1
+ ulji : 1
+ ulfa : 1
+ ulek : 1
+ ulaf : 1
+ ukhd : 1
+ ujri : 1
+ ujli : 1
+ ujle : 1
+ ujla : 1
+ ujha : 1
+ ujer : 1
+ ujdi : 1
+ ujde : 1
+ ujda : 1
+ uhte : 1
+ uhap : 1
+ ugti : 1
+ ugta : 1
+ ugne : 1
+ ugen : 1
+ udyo : 1
+ uduu : 1
+ udun : 1
+ udti : 1
+ udte : 1
+ udoo : 1
+ udne : 1
+ udna : 1
+ udke : 1
+ udik : 1
+ udhy : 1
+ udht : 1
+ udhd : 1
+ udgh : 1
+ udga : 1
+ udes : 1
+ uden : 1
+ uddi : 1
+ udas : 1
+ udar : 1
+ udah : 1
+ udag : 1
+ uchi : 1
+ ucha : 1
+ ucch : 1
+ tyon : 1
+ tyau : 1
+ twam : 1
+ tvin : 1
+ tvam : 1
+ tvaa : 1
+ tuze : 1
+ tuza : 1
+ tuur : 1
+ tuuh : 1
+ tutu : 1
+ tutt : 1
+ tutn : 1
+ tuti : 1
+ tuss : 1
+ tush : 1
+ turu : 1
+ turn : 1
+ turi : 1
+ turb : 1
+ tupu : 1
+ tunu : 1
+ tune : 1
+ tund : 1
+ tuna : 1
+ tump : 1
+ tumk : 1
+ tumi : 1
+ tult : 1
+ tule : 1
+ tujs : 1
+ tujp : 1
+ tujg : 1
+ tuht : 1
+ tuhi : 1
+ tudh : 1
+ tsun : 1
+ truc : 1
+ trop : 1
+ trip : 1
+ trib : 1
+ trek : 1
+ trai : 1
+ traf : 1
+ trab : 1
+ traa : 1
+ toye : 1
+ town : 1
+ towe : 1
+ tour : 1
+ toun : 1
+ toul : 1
+ touc : 1
+ tote : 1
+ tose : 1
+ torx : 1
+ topi : 1
+ tope : 1
+ toor : 1
+ toon : 1
+ toom : 1
+ tool : 1
+ tone : 1
+ tona : 1
+ tolu : 1
+ tolo : 1
+ toll : 1
+ tole : 1
+ toko : 1
+ tokn : 1
+ toke : 1
+ tohk : 1
+ tohe : 1
+ tofa : 1
+ todh : 1
+ todd : 1
+ tobe : 1
+ tiza : 1
+ tiwa : 1
+ tito : 1
+ titi : 1
+ tith : 1
+ tise : 1
+ tiro : 1
+ tiri : 1
+ tipu : 1
+ tips : 1
+ tipa : 1
+ tinn : 1
+ timt : 1
+ timi : 1
+ time : 1
+ timb : 1
+ tilo : 1
+ tili : 1
+ tiku : 1
+ tiko : 1
+ tikn : 1
+ tikl : 1
+ tikk : 1
+ tije : 1
+ tiit : 1
+ tiin : 1
+ tiil : 1
+ tiij : 1
+ tihi : 1
+ tidi : 1
+ tidh : 1
+ tick : 1
+ tiba : 1
+ thri : 1
+ thou : 1
+ thot : 1
+ thop : 1
+ thoh : 1
+ thiy : 1
+ thit : 1
+ this : 1
+ thin : 1
+ thii : 1
+ thig : 1
+ thhu : 1
+ thho : 1
+ thhe : 1
+ they : 1
+ then : 1
+ thea : 1
+ thap : 1
+ thal : 1
+ thac : 1
+ tezp : 1
+ tezi : 1
+ teza : 1
+ teva : 1
+ test : 1
+ tesa : 1
+ terr : 1
+ tero : 1
+ tent : 1
+ tenn : 1
+ teni : 1
+ tene : 1
+ tena : 1
+ tell : 1
+ telg : 1
+ teji : 1
+ teja : 1
+ teih : 1
+ tehi : 1
+ teet : 1
+ teek : 1
+ teej : 1
+ tede : 1
+ teda : 1
+ teca : 1
+ teac : 1
+ tazk : 1
+ tayy : 1
+ taxi : 1
+ tawl : 1
+ tawi : 1
+ tawa : 1
+ tava : 1
+ taur : 1
+ tauq : 1
+ tauh : 1
+ tatv : 1
+ tatt : 1
+ tatp : 1
+ tatk : 1
+ tasw : 1
+ tasl : 1
+ task : 1
+ tasb : 1
+ tarr : 1
+ tarq : 1
+ tard : 1
+ tapo : 1
+ tann : 1
+ tanm : 1
+ tane : 1
+ tamm : 1
+ tamg : 1
+ tamb : 1
+ talk : 1
+ takl : 1
+ takh : 1
+ take : 1
+ taju : 1
+ tajm : 1
+ tair : 1
+ tahs : 1
+ tahi : 1
+ tahe : 1
+ tadi : 1
+ taat : 1
+ taai : 1
+ taag : 1
+ taad : 1
+ swin : 1
+ swik : 1
+ swii : 1
+ swag : 1
+ swad : 1
+ swac : 1
+ svik : 1
+ svii : 1
+ svat : 1
+ suze : 1
+ suya : 1
+ suvh : 1
+ suva : 1
+ sutu : 1
+ susm : 1
+ sury : 1
+ surv : 1
+ surg : 1
+ suqu : 1
+ suqo : 1
+ supu : 1
+ supr : 1
+ sunl : 1
+ sung : 1
+ sumt : 1
+ sumi : 1
+ sulu : 1
+ suli : 1
+ sulh : 1
+ sule : 1
+ sukr : 1
+ suko : 1
+ suju : 1
+ suje : 1
+ suhm : 1
+ suhi : 1
+ sugh : 1
+ sufa : 1
+ suda : 1
+ subu : 1
+ subo : 1
+ sube : 1
+ stup : 1
+ stri : 1
+ stre : 1
+ stop : 1
+ stoo : 1
+ stol : 1
+ stoc : 1
+ stil : 1
+ sthe : 1
+ stev : 1
+ stet : 1
+ steb : 1
+ star : 1
+ stad : 1
+ srot : 1
+ sril : 1
+ spri : 1
+ spot : 1
+ spok : 1
+ spec : 1
+ soza : 1
+ soyi : 1
+ sove : 1
+ souu : 1
+ soun : 1
+ soth : 1
+ sooy : 1
+ soou : 1
+ sooj : 1
+ soof : 1
+ sonu : 1
+ sont : 1
+ sono : 1
+ sond : 1
+ somw : 1
+ somv : 1
+ solh : 1
+ sokh : 1
+ sohr : 1
+ soho : 1
+ sohi : 1
+ sohe : 1
+ sogv : 1
+ soft : 1
+ sofe : 1
+ sneh : 1
+ snat : 1
+ snaa : 1
+ smri : 1
+ smaa : 1
+ slog : 1
+ slmd : 1
+ slee : 1
+ skan : 1
+ sjaa : 1
+ siyu : 1
+ situ : 1
+ siti : 1
+ sith : 1
+ sist : 1
+ sirf : 1
+ sird : 1
+ sipo : 1
+ sipi : 1
+ sino : 1
+ simr : 1
+ simo : 1
+ simi : 1
+ simh : 1
+ silw : 1
+ sile : 1
+ sikv : 1
+ siji : 1
+ sijd : 1
+ siir : 1
+ siip : 1
+ siic : 1
+ sign : 1
+ sigh : 1
+ sidi : 1
+ side : 1
+ sich : 1
+ shwe : 1
+ shuq : 1
+ shum : 1
+ shug : 1
+ shtr : 1
+ shrr : 1
+ shps : 1
+ shod : 1
+ shiw : 1
+ shit : 1
+ shim : 1
+ shid : 1
+ shet : 1
+ shes : 1
+ shek : 1
+ shej : 1
+ shei : 1
+ shee : 1
+ shap : 1
+ seti : 1
+ sest : 1
+ sera : 1
+ sept : 1
+ sens : 1
+ sema : 1
+ seji : 1
+ seje : 1
+ seja : 1
+ sehw : 1
+ sehi : 1
+ sehe : 1
+ seev : 1
+ sees : 1
+ seer : 1
+ sedh : 1
+ sebo : 1
+ seba : 1
+ scor : 1
+ schi : 1
+ sche : 1
+ sazd : 1
+ saye : 1
+ saww : 1
+ savy : 1
+ saun : 1
+ sauk : 1
+ satv : 1
+ satu : 1
+ sato : 1
+ satg : 1
+ sasr : 1
+ sash : 1
+ sase : 1
+ sarz : 1
+ sarw : 1
+ saru : 1
+ sarr : 1
+ sarp : 1
+ saqt : 1
+ saql : 1
+ saqi : 1
+ sanr : 1
+ samd : 1
+ salm : 1
+ saks : 1
+ sakr : 1
+ sajh : 1
+ sait : 1
+ sair : 1
+ saif : 1
+ said : 1
+ saht : 1
+ sahn : 1
+ sahm : 1
+ sagt : 1
+ safi : 1
+ saeh : 1
+ sadt : 1
+ sadq : 1
+ sadm : 1
+ sade : 1
+ sabz : 1
+ sabs : 1
+ sabe : 1
+ saag : 1
+ saae : 1
+ ruus : 1
+ ruud : 1
+ ruub : 1
+ ruto : 1
+ rutb : 1
+ rust : 1
+ russ : 1
+ rusi : 1
+ ruqa : 1
+ rupp : 1
+ rupi : 1
+ ruph : 1
+ rupe : 1
+ runu : 1
+ runt : 1
+ runk : 1
+ runa : 1
+ ruks : 1
+ rukk : 1
+ rukj : 1
+ rukd : 1
+ ruja : 1
+ ruhu : 1
+ ruho : 1
+ ruhi : 1
+ rudh : 1
+ rudd : 1
+ ruch : 1
+ rpri : 1
+ rozg : 1
+ roza : 1
+ royi : 1
+ rowo : 1
+ rove : 1
+ rova : 1
+ rouu : 1
+ rout : 1
+ roto : 1
+ roth : 1
+ rope : 1
+ rooy : 1
+ roos : 1
+ rooo : 1
+ roon : 1
+ room : 1
+ rooj : 1
+ rood : 1
+ roob : 1
+ ronu : 1
+ roni : 1
+ romb : 1
+ roli : 1
+ role : 1
+ rokn : 1
+ rokl : 1
+ roja : 1
+ rohi : 1
+ roha : 1
+ rogo : 1
+ roge : 1
+ roga : 1
+ rodh : 1
+ road : 1
+ rjya : 1
+ rive : 1
+ ritu : 1
+ riti : 1
+ rita : 1
+ riss : 1
+ risn : 1
+ risi : 1
+ risa : 1
+ ripu : 1
+ ripa : 1
+ ring : 1
+ riki : 1
+ riit : 1
+ riis : 1
+ righ : 1
+ ridd : 1
+ rick : 1
+ riba : 1
+ rhun : 1
+ rhim : 1
+ rhas : 1
+ retu : 1
+ resp : 1
+ resi : 1
+ rese : 1
+ resa : 1
+ rere : 1
+ repo : 1
+ remo : 1
+ rema : 1
+ reli : 1
+ rele : 1
+ rejm : 1
+ rehj : 1
+ rehi : 1
+ rehb : 1
+ refe : 1
+ rede : 1
+ rece : 1
+ reba : 1
+ read : 1
+ razi : 1
+ rayw : 1
+ rawi : 1
+ ratt : 1
+ ratj : 1
+ rath : 1
+ rasv : 1
+ raqs : 1
+ rapt : 1
+ rapa : 1
+ rane : 1
+ ramt : 1
+ ramj : 1
+ rame : 1
+ ramd : 1
+ ramc : 1
+ rall : 1
+ rakn : 1
+ rakk : 1
+ raju : 1
+ raji : 1
+ rajg : 1
+ raie : 1
+ rahk : 1
+ rahh : 1
+ rage : 1
+ rafi : 1
+ raet : 1
+ radi : 1
+ raci : 1
+ race : 1
+ rabi : 1
+ rabh : 1
+ raay : 1
+ raal : 1
+ raai : 1
+ raab : 1
+ quzu : 1
+ qutu : 1
+ quso : 1
+ quiz : 1
+ qudr : 1
+ quda : 1
+ qubo : 1
+ quba : 1
+ quar : 1
+ qish : 1
+ qisa : 1
+ qima : 1
+ qile : 1
+ qiim : 1
+ qeem : 1
+ qaza : 1
+ qaye : 1
+ qavv : 1
+ qaul : 1
+ qate : 1
+ qasu : 1
+ qasr : 1
+ qaso : 1
+ qare : 1
+ qarb : 1
+ qaid : 1
+ qadm : 1
+ qabu : 1
+ qabo : 1
+ qabi : 1
+ qaaz : 1
+ qaam : 1
+ pyae : 1
+ puye : 1
+ puut : 1
+ putt : 1
+ putl : 1
+ pusa : 1
+ purt : 1
+ purj : 1
+ puni : 1
+ pump : 1
+ pulv : 1
+ pult : 1
+ pula : 1
+ pujo : 1
+ puje : 1
+ puhl : 1
+ pudc : 1
+ pucc : 1
+ publ : 1
+ puaa : 1
+ ptaa : 1
+ psan : 1
+ prya : 1
+ prty : 1
+ prsh : 1
+ prsa : 1
+ prof : 1
+ prob : 1
+ prna : 1
+ prka : 1
+ prha : 1
+ pret : 1
+ pres : 1
+ prep : 1
+ prdo : 1
+ prdh : 1
+ praj : 1
+ pova : 1
+ pour : 1
+ potl : 1
+ pota : 1
+ posi : 1
+ posc : 1
+ porg : 1
+ pore : 1
+ popu : 1
+ pont : 1
+ pong : 1
+ pole : 1
+ pokh : 1
+ pohu : 1
+ pode : 1
+ pock : 1
+ plea : 1
+ plan : 1
+ pitt : 1
+ piti : 1
+ pisi : 1
+ pisa : 1
+ piry : 1
+ piri : 1
+ pira : 1
+ pini : 1
+ pinh : 1
+ ping : 1
+ pine : 1
+ pilw : 1
+ pili : 1
+ pile : 1
+ pikn : 1
+ pike : 1
+ pikc : 1
+ pika : 1
+ piji : 1
+ piir : 1
+ piip : 1
+ piil : 1
+ piid : 1
+ pihu : 1
+ piho : 1
+ pihe : 1
+ piha : 1
+ pigl : 1
+ pien : 1
+ pidh : 1
+ picn : 1
+ pica : 1
+ phut : 1
+ phus : 1
+ phur : 1
+ phua : 1
+ phoo : 1
+ phit : 1
+ petr : 1
+ pers : 1
+ pere : 1
+ pepa : 1
+ peng : 1
+ pend : 1
+ penc : 1
+ peir : 1
+ pein : 1
+ peey : 1
+ pees : 1
+ peep : 1
+ pedr : 1
+ pedh : 1
+ pede : 1
+ paym : 1
+ payi : 1
+ pavi : 1
+ pauu : 1
+ paus : 1
+ paul : 1
+ paud : 1
+ patw : 1
+ patv : 1
+ pats : 1
+ patj : 1
+ past : 1
+ pass : 1
+ pasl : 1
+ pasc : 1
+ parx : 1
+ parn : 1
+ park : 1
+ parj : 1
+ paoo : 1
+ paon : 1
+ paog : 1
+ pane : 1
+ panb : 1
+ pamp : 1
+ pals : 1
+ pald : 1
+ palc : 1
+ pake : 1
+ pajr : 1
+ paji : 1
+ pait : 1
+ paik : 1
+ paho : 1
+ pagh : 1
+ page : 1
+ pagd : 1
+ pady : 1
+ padd : 1
+ padb : 1
+ pacc : 1
+ paba : 1
+ paaz : 1
+ paaq : 1
+ paab : 1
+ osho : 1
+ osca : 1
+ orwe : 1
+ oris : 1
+ orde : 1
+ oper : 1
+ oonc : 1
+ ondi : 1
+ olle : 1
+ oksi : 1
+ ojha : 1
+ ohoh : 1
+ odho : 1
+ odhi : 1
+ odhe : 1
+ octo : 1
+ nyuu : 1
+ nyou : 1
+ nyon : 1
+ nyar : 1
+ nuur : 1
+ nuun : 1
+ nuta : 1
+ nusk : 1
+ nurv : 1
+ nure : 1
+ nuqa : 1
+ nukt : 1
+ nuks : 1
+ nuki : 1
+ nuka : 1
+ nrit : 1
+ nove : 1
+ nouw : 1
+ nouv : 1
+ note : 1
+ norm : 1
+ noon : 1
+ noch : 1
+ nobo : 1
+ nobi : 1
+ niza : 1
+ niyu : 1
+ niwe : 1
+ nive : 1
+ nite : 1
+ nita : 1
+ niss : 1
+ nisp : 1
+ nisf : 1
+ nisc : 1
+ nisb : 1
+ nirp : 1
+ nirl : 1
+ nirg : 1
+ nimm : 1
+ nili : 1
+ nile : 1
+ nikk : 1
+ nike : 1
+ niji : 1
+ niiy : 1
+ niit : 1
+ niir : 1
+ niim : 1
+ niho : 1
+ nift : 1
+ nibu : 1
+ nibl : 1
+ nhii : 1
+ nhai : 1
+ newa : 1
+ neve : 1
+ netw : 1
+ nepa : 1
+ nema : 1
+ nekh : 1
+ nein : 1
+ nehr : 1
+ nefa : 1
+ neem : 1
+ need : 1
+ neec : 1
+ nech : 1
+ neau : 1
+ near : 1
+ nazu : 1
+ naze : 1
+ nayy : 1
+ nayo : 1
+ naxa : 1
+ nawi : 1
+ navv : 1
+ navo : 1
+ navi : 1
+ naun : 1
+ nauh : 1
+ naty : 1
+ nass : 1
+ nart : 1
+ nars : 1
+ naro : 1
+ nark : 1
+ narg : 1
+ napa : 1
+ nani : 1
+ nanh : 1
+ namr : 1
+ namo : 1
+ namk : 1
+ nami : 1
+ nall : 1
+ nale : 1
+ naku : 1
+ naks : 1
+ nakl : 1
+ nakk : 1
+ naju : 1
+ nait : 1
+ naid : 1
+ naht : 1
+ nagp : 1
+ nage : 1
+ nabi : 1
+ nabe : 1
+ naay : 1
+ naav : 1
+ naaf : 1
+ naae : 1
+ naab : 1
+ muzz : 1
+ muzh : 1
+ muze : 1
+ muyi : 1
+ muya : 1
+ muus : 1
+ muui : 1
+ muti : 1
+ muth : 1
+ musu : 1
+ muso : 1
+ murt : 1
+ murl : 1
+ muri : 1
+ murh : 1
+ mure : 1
+ murc : 1
+ muqt : 1
+ munu : 1
+ muna : 1
+ mumm : 1
+ mumk : 1
+ mumb : 1
+ mulz : 1
+ mull : 1
+ mulk : 1
+ muky : 1
+ muks : 1
+ mujt : 1
+ mujr : 1
+ mujp : 1
+ mujj : 1
+ muje : 1
+ muii : 1
+ muho : 1
+ muhh : 1
+ muhe : 1
+ mugl : 1
+ muga : 1
+ mufl : 1
+ mudt : 1
+ mudr : 1
+ mudi : 1
+ mudh : 1
+ mude : 1
+ mubt : 1
+ muam : 1
+ muaf : 1
+ mrit : 1
+ moya : 1
+ movi : 1
+ move : 1
+ mout : 1
+ mous : 1
+ mouk : 1
+ mouj : 1
+ most : 1
+ mosh : 1
+ mose : 1
+ mosa : 1
+ morn : 1
+ mope : 1
+ moot : 1
+ moos : 1
+ moom : 1
+ mool : 1
+ mooh : 1
+ mood : 1
+ mono : 1
+ mong : 1
+ mond : 1
+ momi : 1
+ momb : 1
+ mola : 1
+ moko : 1
+ moju : 1
+ moje : 1
+ mohr : 1
+ moho : 1
+ mohn : 1
+ mohl : 1
+ mohe : 1
+ mohb : 1
+ moga : 1
+ modt : 1
+ modk : 1
+ modi : 1
+ modh : 1
+ modd : 1
+ moch : 1
+ moba : 1
+ miti : 1
+ misk : 1
+ mirg : 1
+ minu : 1
+ mine : 1
+ mind : 1
+ mima : 1
+ milj : 1
+ mikk : 1
+ mika : 1
+ mija : 1
+ miit : 1
+ miir : 1
+ miil : 1
+ midi : 1
+ miam : 1
+ mhar : 1
+ mewa : 1
+ mete : 1
+ mero : 1
+ menu : 1
+ ment : 1
+ meni : 1
+ mene : 1
+ mema : 1
+ melo : 1
+ mele : 1
+ meka : 1
+ mehu : 1
+ mehl : 1
+ mehj : 1
+ meei : 1
+ meec : 1
+ meas : 1
+ mazz : 1
+ mazh : 1
+ maze : 1
+ mazd : 1
+ mays : 1
+ maye : 1
+ maun : 1
+ matu : 1
+ mato : 1
+ matk : 1
+ mati : 1
+ mate : 1
+ matd : 1
+ masz : 1
+ masr : 1
+ mark : 1
+ manw : 1
+ manh : 1
+ manb : 1
+ mami : 1
+ mame : 1
+ mamb : 1
+ malu : 1
+ maln : 1
+ malm : 1
+ malk : 1
+ male : 1
+ maku : 1
+ mako : 1
+ makk : 1
+ make : 1
+ majr : 1
+ maje : 1
+ mait : 1
+ maht : 1
+ maho : 1
+ mahl : 1
+ mahf : 1
+ mahb : 1
+ magi : 1
+ maen : 1
+ mael : 1
+ maei : 1
+ mado : 1
+ madd : 1
+ maaw : 1
+ maap : 1
+ luvi : 1
+ lutn : 1
+ luti : 1
+ lutf : 1
+ lust : 1
+ lumb : 1
+ luke : 1
+ lowe : 1
+ lovi : 1
+ lout : 1
+ loun : 1
+ loti : 1
+ lota : 1
+ lorh : 1
+ lore : 1
+ loog : 1
+ lona : 1
+ lokt : 1
+ lokn : 1
+ loki : 1
+ lokh : 1
+ lohe : 1
+ logi : 1
+ logg : 1
+ loge : 1
+ loco : 1
+ loca : 1
+ llik : 1
+ lkya : 1
+ liyo : 1
+ liye : 1
+ liva : 1
+ litt : 1
+ lith : 1
+ lita : 1
+ list : 1
+ lipi : 1
+ lino : 1
+ linh : 1
+ ling : 1
+ lina : 1
+ lily : 1
+ lilo : 1
+ lile : 1
+ lila : 1
+ likn : 1
+ likk : 1
+ liki : 1
+ like : 1
+ lijo : 1
+ lija : 1
+ liil : 1
+ life : 1
+ lidi : 1
+ lice : 1
+ lgat : 1
+ lgaa : 1
+ leyk : 1
+ lewe : 1
+ lewa : 1
+ leve : 1
+ leva : 1
+ lets : 1
+ lepu : 1
+ leni : 1
+ lene : 1
+ leli : 1
+ lele : 1
+ leka : 1
+ leja : 1
+ lein : 1
+ leik : 1
+ lehz : 1
+ lehu : 1
+ lehk : 1
+ legi : 1
+ left : 1
+ leel : 1
+ leek : 1
+ leav : 1
+ leas : 1
+ leak : 1
+ ldai : 1
+ lazz : 1
+ layi : 1
+ lawr : 1
+ lawa : 1
+ lava : 1
+ last : 1
+ lass : 1
+ larn : 1
+ lare : 1
+ laqt : 1
+ lapu : 1
+ lapt : 1
+ lapk : 1
+ laoo : 1
+ laog : 1
+ lane : 1
+ land : 1
+ lanc : 1
+ lanb : 1
+ lana : 1
+ laku : 1
+ lakd : 1
+ laka : 1
+ lajj : 1
+ laji : 1
+ lahl : 1
+ lahi : 1
+ lagz : 1
+ lagg : 1
+ lagd : 1
+ lagb : 1
+ ladu : 1
+ lado : 1
+ ladl : 1
+ ladd : 1
+ labj : 1
+ laas : 1
+ laap : 1
+ laam : 1
+ laah : 1
+ laaa : 1
+ kyou : 1
+ kyar : 1
+ kuwa : 1
+ kuve : 1
+ kuun : 1
+ kuuk : 1
+ kuta : 1
+ kurv : 1
+ kuru : 1
+ kurr : 1
+ kurl : 1
+ kupr : 1
+ kupp : 1
+ kupo : 1
+ kuny : 1
+ kunt : 1
+ kunk : 1
+ kunc : 1
+ kumu : 1
+ kumk : 1
+ kuli : 1
+ kulh : 1
+ kule : 1
+ kuke : 1
+ kuka : 1
+ kujh : 1
+ kufr : 1
+ kufa : 1
+ kuen : 1
+ kudu : 1
+ kudr : 1
+ kudm : 1
+ kudd : 1
+ kucc : 1
+ kuba : 1
+ kuan : 1
+ ktak : 1
+ krti : 1
+ krod : 1
+ krma : 1
+ kriy : 1
+ krik : 1
+ krii : 1
+ kran : 1
+ kraa : 1
+ koyl : 1
+ koyi : 1
+ koye : 1
+ koun : 1
+ koti : 1
+ kosi : 1
+ kose : 1
+ koru : 1
+ kori : 1
+ kora : 1
+ kopa : 1
+ koot : 1
+ koon : 1
+ kooc : 1
+ konp : 1
+ konk : 1
+ kone : 1
+ konb : 1
+ komi : 1
+ kolo : 1
+ koll : 1
+ kolk : 1
+ kolh : 1
+ kokh : 1
+ koke : 1
+ koka : 1
+ kohu : 1
+ kohr : 1
+ koee : 1
+ kodi : 1
+ kode : 1
+ koda : 1
+ koch : 1
+ kles : 1
+ kjaa : 1
+ kiye : 1
+ kiwa : 1
+ kiti : 1
+ kite : 1
+ kisn : 1
+ kisl : 1
+ kisd : 1
+ kire : 1
+ kinv : 1
+ kint : 1
+ kins : 1
+ kinh : 1
+ kill : 1
+ kilk : 1
+ kile : 1
+ kijo : 1
+ kidi : 1
+ kich : 1
+ kiar : 1
+ khxa : 1
+ khut : 1
+ khun : 1
+ khuj : 1
+ khre : 1
+ khou : 1
+ khor : 1
+ khoi : 1
+ khit : 1
+ khis : 1
+ khey : 1
+ khes : 1
+ khed : 1
+ khav : 1
+ khau : 1
+ khao : 1
+ khaj : 1
+ khah : 1
+ kewa : 1
+ keva : 1
+ ketu : 1
+ kete : 1
+ keta : 1
+ kert : 1
+ kera : 1
+ kemu : 1
+ kemp : 1
+ keli : 1
+ kela : 1
+ kehr : 1
+ keet : 1
+ keej : 1
+ kedr : 1
+ kedi : 1
+ kede : 1
+ keba : 1
+ kayo : 1
+ kaur : 1
+ kaud : 1
+ katp : 1
+ katl : 1
+ kasu : 1
+ kasr : 1
+ kaso : 1
+ kasn : 1
+ karx : 1
+ kark : 1
+ karh : 1
+ karg : 1
+ kapt : 1
+ kapo : 1
+ kanz : 1
+ kanp : 1
+ kamy : 1
+ kalt : 1
+ kals : 1
+ kalo : 1
+ kalm : 1
+ kalg : 1
+ kajl : 1
+ kain : 1
+ kail : 1
+ kaii : 1
+ kaie : 1
+ kahl : 1
+ kaee : 1
+ kadw : 1
+ kadv : 1
+ kadu : 1
+ kade : 1
+ kabz : 1
+ kabs : 1
+ kabj : 1
+ kaaz : 1
+ kaaq : 1
+ kaap : 1
+ kaad : 1
+ kaac : 1
+ jyuu : 1
+ jyun : 1
+ jyon : 1
+ jyad : 1
+ jwal : 1
+ jval : 1
+ juun : 1
+ juum : 1
+ juuh : 1
+ juud : 1
+ jutt : 1
+ jute : 1
+ jusa : 1
+ jure : 1
+ jura : 1
+ juno : 1
+ juni : 1
+ june : 1
+ jund : 1
+ jumr : 1
+ juml : 1
+ jumh : 1
+ juma : 1
+ july : 1
+ julu : 1
+ julo : 1
+ jule : 1
+ juld : 1
+ jukn : 1
+ juhi : 1
+ juek : 1
+ judw : 1
+ judn : 1
+ judi : 1
+ judh : 1
+ jubh : 1
+ juaa : 1
+ joto : 1
+ joti : 1
+ jota : 1
+ jori : 1
+ jore : 1
+ joon : 1
+ joog : 1
+ jong : 1
+ joka : 1
+ jodn : 1
+ joba : 1
+ jiwi : 1
+ jiwa : 1
+ jivi : 1
+ jive : 1
+ jito : 1
+ jiti : 1
+ jith : 1
+ jisn : 1
+ jinn : 1
+ jinm : 1
+ jing : 1
+ jilm : 1
+ jill : 1
+ jile : 1
+ jikr : 1
+ jiji : 1
+ jije : 1
+ jiiy : 1
+ jiil : 1
+ jihu : 1
+ jige : 1
+ jien : 1
+ jidh : 1
+ jida : 1
+ jibh : 1
+ jiba : 1
+ jhug : 1
+ jhud : 1
+ jhir : 1
+ jhim : 1
+ jhik : 1
+ jhij : 1
+ jhii : 1
+ jhav : 1
+ jhat : 1
+ jhad : 1
+ jewy : 1
+ jehi : 1
+ jeew : 1
+ jees : 1
+ jeep : 1
+ jeei : 1
+ jeee : 1
+ jeeb : 1
+ jeck : 1
+ jebo : 1
+ jayw : 1
+ jayv : 1
+ jayk : 1
+ jayi : 1
+ jave : 1
+ jatk : 1
+ jasr : 1
+ jash : 1
+ jarr : 1
+ jarm : 1
+ jari : 1
+ jare : 1
+ japu : 1
+ japi : 1
+ jape : 1
+ jaon : 1
+ janz : 1
+ janv : 1
+ jans : 1
+ jand : 1
+ jamo : 1
+ jamn : 1
+ jamm : 1
+ jamb : 1
+ jalu : 1
+ jals : 1
+ jakh : 1
+ jake : 1
+ jaka : 1
+ jain : 1
+ jail : 1
+ jahh : 1
+ jagw : 1
+ jagn : 1
+ jaes : 1
+ jadt : 1
+ jadi : 1
+ jade : 1
+ jaco : 1
+ jabs : 1
+ jabo : 1
+ jabe : 1
+ jaas : 1
+ jaaa : 1
+ itwa : 1
+ itva : 1
+ itti : 1
+ itni : 1
+ itne : 1
+ itla : 1
+ ithn : 1
+ ithi : 1
+ itaw : 1
+ itav : 1
+ ital : 1
+ itah : 1
+ iste : 1
+ issk : 1
+ issi : 1
+ isse : 1
+ ispe : 1
+ ispa : 1
+ isne : 1
+ isma : 1
+ isli : 1
+ isla : 1
+ iske : 1
+ isil : 1
+ ishv : 1
+ ishk : 1
+ isee : 1
+ isas : 1
+ isap : 1
+ iruk : 1
+ irsh : 1
+ iras : 1
+ irak : 1
+ iraf : 1
+ iqra : 1
+ iqar : 1
+ intz : 1
+ intr : 1
+ into : 1
+ intk : 1
+ inst : 1
+ inss : 1
+ insh : 1
+ inse : 1
+ inqa : 1
+ inpe : 1
+ inko : 1
+ inki : 1
+ inke : 1
+ injh : 1
+ inja : 1
+ inho : 1
+ ingl : 1
+ infi : 1
+ infe : 1
+ indu : 1
+ inde : 1
+ inay : 1
+ inap : 1
+ inan : 1
+ imta : 1
+ impr : 1
+ imli : 1
+ imka : 1
+ imal : 1
+ ilya : 1
+ illa : 1
+ ilja : 1
+ ilaz : 1
+ ilak : 1
+ ilaj : 1
+ ilah : 1
+ ikti : 1
+ ikta : 1
+ ikko : 1
+ ikki : 1
+ ikha : 1
+ ikda : 1
+ ikat : 1
+ ikar : 1
+ ikal : 1
+ iidu : 1
+ idvu : 1
+ idli : 1
+ idle : 1
+ idiy : 1
+ idhu : 1
+ idhe : 1
+ ichc : 1
+ ibte : 1
+ ibad : 1
+ hyaa : 1
+ huzo : 1
+ huya : 1
+ huwo : 1
+ huwi : 1
+ huwe : 1
+ huwa : 1
+ huvi : 1
+ huve : 1
+ huva : 1
+ huuk : 1
+ huss : 1
+ husr : 1
+ husk : 1
+ hush : 1
+ hure : 1
+ huqm : 1
+ huqa : 1
+ hupp : 1
+ huon : 1
+ hunk : 1
+ hunh : 1
+ huna : 1
+ humt : 1
+ hump : 1
+ humj : 1
+ humi : 1
+ humh : 1
+ humb : 1
+ huli : 1
+ hula : 1
+ hukm : 1
+ huke : 1
+ huin : 1
+ huii : 1
+ huey : 1
+ huen : 1
+ huee : 1
+ hudd : 1
+ huay : 1
+ huae : 1
+ huaa : 1
+ hoyt : 1
+ hoyl : 1
+ hoyi : 1
+ hoxa : 1
+ howr : 1
+ hoto : 1
+ hosp : 1
+ hosl : 1
+ hori : 1
+ hopk : 1
+ hooo : 1
+ hoom : 1
+ hool : 1
+ hook : 1
+ hooi : 1
+ hooe : 1
+ hoob : 1
+ hooa : 1
+ hons : 1
+ honi : 1
+ honh : 1
+ homo : 1
+ holo : 1
+ hole : 1
+ hold : 1
+ hoka : 1
+ hoib : 1
+ hoho : 1
+ hock : 1
+ hmei : 1
+ hmed : 1
+ hizr : 1
+ hiza : 1
+ hiwd : 1
+ hith : 1
+ hisa : 1
+ hiry : 1
+ hirs : 1
+ hiri : 1
+ hire : 1
+ hird : 1
+ hins : 1
+ hinn : 1
+ hink : 1
+ hing : 1
+ hilo : 1
+ hiln : 1
+ hili : 1
+ hikk : 1
+ high : 1
+ hida : 1
+ hhmh : 1
+ hetu : 1
+ here : 1
+ hema : 1
+ help : 1
+ helo : 1
+ hell : 1
+ hein : 1
+ hegd : 1
+ hega : 1
+ heen : 1
+ hect : 1
+ heav : 1
+ hazu : 1
+ hazi : 1
+ haye : 1
+ haun : 1
+ hatu : 1
+ hatn : 1
+ hatk : 1
+ hati : 1
+ harz : 1
+ hart : 1
+ harq : 1
+ harp : 1
+ haro : 1
+ harm : 1
+ harg : 1
+ harf : 1
+ haqu : 1
+ haqd : 1
+ haqa : 1
+ hanu : 1
+ hano : 1
+ hanj : 1
+ hand : 1
+ hamp : 1
+ hamb : 1
+ halz : 1
+ halv : 1
+ halo : 1
+ hali : 1
+ hale : 1
+ hald : 1
+ halc : 1
+ hakk : 1
+ hake : 1
+ haka : 1
+ hajo : 1
+ hain : 1
+ hail : 1
+ haid : 1
+ hahn : 1
+ hafi : 1
+ hads : 1
+ hadd : 1
+ haaz : 1
+ haau : 1
+ haaq : 1
+ haak : 1
+ haae : 1
+ haab : 1
+ gyap : 1
+ gwaa : 1
+ guta : 1
+ gurz : 1
+ gurr : 1
+ guro : 1
+ gurg : 1
+ gupc : 1
+ gupa : 1
+ gunz : 1
+ guno : 1
+ gunh : 1
+ gune : 1
+ gund : 1
+ gumt : 1
+ gumn : 1
+ gumm : 1
+ gumb : 1
+ gulu : 1
+ gulo : 1
+ guln : 1
+ gulm : 1
+ gulg : 1
+ gulf : 1
+ guld : 1
+ guev : 1
+ gues : 1
+ gubb : 1
+ guaa : 1
+ gruj : 1
+ gren : 1
+ gree : 1
+ grad : 1
+ gote : 1
+ gosa : 1
+ gooz : 1
+ goor : 1
+ gool : 1
+ gooj : 1
+ gont : 1
+ gona : 1
+ golt : 1
+ gold : 1
+ goku : 1
+ goga : 1
+ godi : 1
+ godh : 1
+ gobh : 1
+ glit : 1
+ giza : 1
+ give : 1
+ gitw : 1
+ gito : 1
+ giss : 1
+ giru : 1
+ girl : 1
+ girj : 1
+ girf : 1
+ gind : 1
+ gimm : 1
+ gilo : 1
+ gill : 1
+ gili : 1
+ giil : 1
+ gidd : 1
+ ghup : 1
+ ghub : 1
+ ghor : 1
+ ghob : 1
+ ghee : 1
+ ghaz : 1
+ ghay : 1
+ ghas : 1
+ ghal : 1
+ ghai : 1
+ geso : 1
+ gein : 1
+ geho : 1
+ gede : 1
+ gavo : 1
+ gaut : 1
+ gato : 1
+ gati : 1
+ gate : 1
+ gatb : 1
+ garo : 1
+ garh : 1
+ gapa : 1
+ gaoo : 1
+ gant : 1
+ ganp : 1
+ gani : 1
+ gamr : 1
+ gamo : 1
+ gamm : 1
+ gamg : 1
+ game : 1
+ galo : 1
+ galn : 1
+ gaju : 1
+ gaht : 1
+ gaho : 1
+ gaey : 1
+ gaer : 1
+ gadh : 1
+ gadb : 1
+ gabh : 1
+ gaaz : 1
+ gaaj : 1
+ gaah : 1
+ gaaf : 1
+ fuzu : 1
+ futa : 1
+ furq : 1
+ fulo : 1
+ full : 1
+ fula : 1
+ fuha : 1
+ fuda : 1
+ fuaa : 1
+ frid : 1
+ free : 1
+ fram : 1
+ frac : 1
+ foto : 1
+ form : 1
+ fore : 1
+ foot : 1
+ foon : 1
+ foka : 1
+ flor : 1
+ floo : 1
+ flaa : 1
+ fizo : 1
+ fitr : 1
+ fith : 1
+ firn : 1
+ fird : 1
+ fiqa : 1
+ fika : 1
+ fidh : 1
+ ficc : 1
+ fhir : 1
+ ferh : 1
+ fera : 1
+ fenk : 1
+ fekt : 1
+ fayd : 1
+ faya : 1
+ fash : 1
+ fary : 1
+ farq : 1
+ faro : 1
+ fark : 1
+ farj : 1
+ fans : 1
+ fand : 1
+ fals : 1
+ falo : 1
+ fall : 1
+ fale : 1
+ fair : 1
+ faat : 1
+ faaq : 1
+ faak : 1
+ eyes : 1
+ exco : 1
+ ewam : 1
+ evan : 1
+ evam : 1
+ etba : 1
+ esse : 1
+ esro : 1
+ esko : 1
+ erse : 1
+ erne : 1
+ erak : 1
+ erad : 1
+ epta : 1
+ ente : 1
+ engi : 1
+ enda : 1
+ eman : 1
+ elan : 1
+ elaa : 1
+ ekut : 1
+ eksa : 1
+ ekla : 1
+ ekjo : 1
+ ekdi : 1
+ ekda : 1
+ ekch : 1
+ ekba : 1
+ ekat : 1
+ ekas : 1
+ ekal : 1
+ ekah : 1
+ ekae : 1
+ eink : 1
+ eidu : 1
+ ehed : 1
+ ehad : 1
+ effo : 1
+ eesk : 1
+ eeqa : 1
+ edit : 1
+ echi : 1
+ eban : 1
+ dysl : 1
+ dyod : 1
+ dwit : 1
+ dviv : 1
+ duya : 1
+ duvi : 1
+ duuk : 1
+ duud : 1
+ dutk : 1
+ durv : 1
+ durr : 1
+ durl : 1
+ durj : 1
+ durf : 1
+ dura : 1
+ duny : 1
+ dunk : 1
+ dund : 1
+ duji : 1
+ duii : 1
+ dugu : 1
+ dugn : 1
+ dugd : 1
+ duga : 1
+ dudh : 1
+ dubt : 1
+ dubk : 1
+ dubi : 1
+ dubh : 1
+ duar : 1
+ duao : 1
+ duan : 1
+ drum : 1
+ drug : 1
+ drsh : 1
+ drow : 1
+ drop : 1
+ drig : 1
+ draw : 1
+ dras : 1
+ dram : 1
+ drag : 1
+ doza : 1
+ doun : 1
+ doub : 1
+ doso : 1
+ doru : 1
+ dore : 1
+ doog : 1
+ dont : 1
+ done : 1
+ dond : 1
+ doma : 1
+ dolo : 1
+ doln : 1
+ dokh : 1
+ doho : 1
+ dohi : 1
+ dohg : 1
+ dohe : 1
+ dogh : 1
+ doge : 1
+ diye : 1
+ divy : 1
+ ditt : 1
+ dita : 1
+ disk : 1
+ disi : 1
+ disa : 1
+ diri : 1
+ dirg : 1
+ dipo : 1
+ dipl : 1
+ dins : 1
+ dinn : 1
+ dink : 1
+ dinh : 1
+ dine : 1
+ dimp : 1
+ dily : 1
+ dilp : 1
+ dilg : 1
+ dile : 1
+ dilc : 1
+ dijo : 1
+ diiw : 1
+ diin : 1
+ dihk : 1
+ diha : 1
+ digv : 1
+ digd : 1
+ dien : 1
+ didi : 1
+ dhwa : 1
+ dhva : 1
+ dhuw : 1
+ dhuk : 1
+ dhud : 1
+ dhra : 1
+ dhoy : 1
+ dhog : 1
+ dhod : 1
+ dhis : 1
+ dhay : 1
+ dhaw : 1
+ dhab : 1
+ dewg : 1
+ dewe : 1
+ deve : 1
+ desk : 1
+ deni : 1
+ dene : 1
+ delh : 1
+ deku : 1
+ deko : 1
+ dekd : 1
+ deka : 1
+ dejo : 1
+ deja : 1
+ dehu : 1
+ dehr : 1
+ dehb : 1
+ degr : 1
+ dege : 1
+ deem : 1
+ deek : 1
+ deeg : 1
+ dedo : 1
+ dedh : 1
+ deci : 1
+ dece : 1
+ dear : 1
+ dayi : 1
+ daye : 1
+ dauh : 1
+ data : 1
+ dasy : 1
+ dasn : 1
+ dasi : 1
+ dash : 1
+ dase : 1
+ dary : 1
+ darp : 1
+ darl : 1
+ dark : 1
+ dany : 1
+ danv : 1
+ dann : 1
+ dand : 1
+ damk : 1
+ dalu : 1
+ dalo : 1
+ daln : 1
+ dalh : 1
+ dald : 1
+ daku : 1
+ dakh : 1
+ dahi : 1
+ dahe : 1
+ daft : 1
+ dada : 1
+ dach : 1
+ dabo : 1
+ daai : 1
+ daah : 1
+ daab : 1
+ daaa : 1
+ cyli : 1
+ cylc : 1
+ cute : 1
+ cult : 1
+ cuba : 1
+ cric : 1
+ crar : 1
+ craf : 1
+ cour : 1
+ coun : 1
+ cott : 1
+ corp : 1
+ cont : 1
+ comm : 1
+ coma : 1
+ colo : 1
+ coff : 1
+ clij : 1
+ civi : 1
+ city : 1
+ citr : 1
+ chyu : 1
+ chya : 1
+ chuw : 1
+ chri : 1
+ choh : 1
+ choe : 1
+ chnd : 1
+ chka : 1
+ chis : 1
+ chij : 1
+ chia : 1
+ chec : 1
+ chea : 1
+ chaw : 1
+ chao : 1
+ cert : 1
+ cent : 1
+ cens : 1
+ cell : 1
+ cehr : 1
+ catc : 1
+ carb : 1
+ capa : 1
+ canc : 1
+ cana : 1
+ call : 1
+ calc : 1
+ caht : 1
+ byop : 1
+ byat : 1
+ byab : 1
+ buzu : 1
+ buze : 1
+ buum : 1
+ buuj : 1
+ buto : 1
+ busy : 1
+ busi : 1
+ burz : 1
+ buro : 1
+ burm : 1
+ bulo : 1
+ buli : 1
+ buju : 1
+ buji : 1
+ buhe : 1
+ budt : 1
+ budi : 1
+ budg : 1
+ bubb : 1
+ buba : 1
+ btor : 1
+ btay : 1
+ btao : 1
+ btaa : 1
+ brij : 1
+ brig : 1
+ brid : 1
+ bret : 1
+ bras : 1
+ brad : 1
+ boyi : 1
+ boye : 1
+ bott : 1
+ boti : 1
+ bote : 1
+ bose : 1
+ bosa : 1
+ bore : 1
+ bord : 1
+ bora : 1
+ bool : 1
+ book : 1
+ bonu : 1
+ bons : 1
+ boni : 1
+ bone : 1
+ bona : 1
+ boll : 1
+ boka : 1
+ bohu : 1
+ boho : 1
+ bogi : 1
+ boar : 1
+ blas : 1
+ blad : 1
+ bjpa : 1
+ bizu : 1
+ biyo : 1
+ biwi : 1
+ bivi : 1
+ bisv : 1
+ bist : 1
+ biso : 1
+ bisk : 1
+ bise : 1
+ biry : 1
+ birl : 1
+ birj : 1
+ bird : 1
+ bipd : 1
+ bint : 1
+ biml : 1
+ bilk : 1
+ bili : 1
+ bild : 1
+ biku : 1
+ bikr : 1
+ bikn : 1
+ biki : 1
+ bike : 1
+ biiv : 1
+ biin : 1
+ biim : 1
+ bihk : 1
+ bigu : 1
+ bidi : 1
+ bica : 1
+ bibi : 1
+ biba : 1
+ bhuv : 1
+ bhut : 1
+ bhou : 1
+ bhor : 1
+ bhon : 1
+ bhok : 1
+ bhoh : 1
+ bhis : 1
+ bhim : 1
+ bhil : 1
+ bhij : 1
+ bhib : 1
+ bhhu : 1
+ bhet : 1
+ bhes : 1
+ bhen : 1
+ bhek : 1
+ bhaw : 1
+ bhak : 1
+ betu : 1
+ bett : 1
+ beth : 1
+ bete : 1
+ beru : 1
+ bero : 1
+ berh : 1
+ bere : 1
+ berc : 1
+ bepe : 1
+ bend : 1
+ bemo : 1
+ belo : 1
+ bejo : 1
+ bejj : 1
+ behr : 1
+ behg : 1
+ begh : 1
+ bege : 1
+ beej : 1
+ beei : 1
+ beec : 1
+ bedh : 1
+ bede : 1
+ bebu : 1
+ bebh : 1
+ beau : 1
+ beat : 1
+ beac : 1
+ bdal : 1
+ bazm : 1
+ bayk : 1
+ baye : 1
+ baww : 1
+ bawr : 1
+ bawj : 1
+ bavr : 1
+ bavl : 1
+ batk : 1
+ bath : 1
+ batb : 1
+ basw : 1
+ bass : 1
+ bask : 1
+ barx : 1
+ baru : 1
+ barq : 1
+ barn : 1
+ barl : 1
+ barj : 1
+ bard : 1
+ barc : 1
+ bapa : 1
+ banv : 1
+ banm : 1
+ bami : 1
+ balw : 1
+ balv : 1
+ balu : 1
+ balo : 1
+ balc : 1
+ baku : 1
+ bakr : 1
+ bajw : 1
+ baju : 1
+ bajo : 1
+ bajn : 1
+ baik : 1
+ baig : 1
+ baic : 1
+ bagl : 1
+ bads : 1
+ badk : 1
+ back : 1
+ babo : 1
+ babl : 1
+ babb : 1
+ baam : 1
+ baae : 1
+ azha : 1
+ ayyo : 1
+ ayya : 1
+ ayuk : 1
+ ayub : 1
+ ayog : 1
+ ayod : 1
+ ayka : 1
+ ayes : 1
+ ayen : 1
+ ayee : 1
+ awwa : 1
+ awsh : 1
+ awaz : 1
+ awat : 1
+ awar : 1
+ awag : 1
+ awae : 1
+ avta : 1
+ avos : 1
+ avin : 1
+ avil : 1
+ avhe : 1
+ avgu : 1
+ avga : 1
+ avem : 1
+ aveg : 1
+ avaz : 1
+ avat : 1
+ avar : 1
+ avan : 1
+ avam : 1
+ avad : 1
+ avaa : 1
+ aung : 1
+ augu : 1
+ audi : 1
+ atul : 1
+ atmi : 1
+ atma : 1
+ atke : 1
+ atit : 1
+ athw : 1
+ athi : 1
+ atap : 1
+ atan : 1
+ atal : 1
+ asur : 1
+ asua : 1
+ asso : 1
+ assi : 1
+ asqo : 1
+ asli : 1
+ asiy : 1
+ asia : 1
+ ashv : 1
+ ashr : 1
+ asho : 1
+ ashl : 1
+ ashe : 1
+ ashc : 1
+ asan : 1
+ asah : 1
+ arzo : 1
+ arzi : 1
+ arvi : 1
+ arun : 1
+ arri : 1
+ arpa : 1
+ arov : 1
+ arms : 1
+ arle : 1
+ arju : 1
+ arii : 1
+ arey : 1
+ area : 1
+ arbo : 1
+ apun : 1
+ apsa : 1
+ appu : 1
+ appr : 1
+ appa : 1
+ apke : 1
+ apit : 1
+ apas : 1
+ apam : 1
+ apal : 1
+ apab : 1
+ apaa : 1
+ aoni : 1
+ aoge : 1
+ anza : 1
+ anwa : 1
+ anva : 1
+ ants : 1
+ antr : 1
+ antp : 1
+ anti : 1
+ ansh : 1
+ anpa : 1
+ annk : 1
+ anmo : 1
+ anku : 1
+ anil : 1
+ anho : 1
+ angn : 1
+ anek : 1
+ andy : 1
+ andr : 1
+ ando : 1
+ andi : 1
+ anbu : 1
+ anaw : 1
+ anav : 1
+ anau : 1
+ anat : 1
+ anar : 1
+ anah : 1
+ anag : 1
+ anad : 1
+ anab : 1
+ amuv : 1
+ amul : 1
+ amra : 1
+ amol : 1
+ ammi : 1
+ amiy : 1
+ amii : 1
+ ambv : 1
+ ambi : 1
+ amaj : 1
+ amad : 1
+ alwi : 1
+ alun : 1
+ alsa : 1
+ allh : 1
+ alle : 1
+ alka : 1
+ alig : 1
+ alha : 1
+ alek : 1
+ aleb : 1
+ alba : 1
+ alas : 1
+ alan : 1
+ alak : 1
+ akul : 1
+ aksh : 1
+ aksa : 1
+ akra : 1
+ akka : 1
+ akju : 1
+ akho : 1
+ akhd : 1
+ akba : 1
+ akas : 1
+ akar : 1
+ akal : 1
+ akab : 1
+ ajka : 1
+ ajib : 1
+ ajal : 1
+ ajah : 1
+ ajab : 1
+ aiye : 1
+ aiwa : 1
+ aiti : 1
+ aitb : 1
+ aisi : 1
+ airl : 1
+ aina : 1
+ aihs : 1
+ ahwa : 1
+ ahti : 1
+ ahta : 1
+ ahmd : 1
+ ahin : 1
+ ahil : 1
+ ahel : 1
+ ahei : 1
+ ahan : 1
+ ahal : 1
+ ahai : 1
+ ahad : 1
+ ahaa : 1
+ agya : 1
+ agva : 1
+ agra : 1
+ agos : 1
+ agni : 1
+ agne : 1
+ agle : 1
+ agla : 1
+ agis : 1
+ aghy : 1
+ agha : 1
+ agge : 1
+ agen : 1
+ agad : 1
+ afte : 1
+ afso : 1
+ afri : 1
+ afat : 1
+ aesa : 1
+ aeho : 1
+ aegi : 1
+ aega : 1
+ adya : 1
+ adth : 1
+ admi : 1
+ adla : 1
+ adiy : 1
+ adiw : 1
+ adik : 1
+ adhm : 1
+ adhk : 1
+ adhh : 1
+ adhd : 1
+ adeg : 1
+ addh : 1
+ adda : 1
+ aday : 1
+ adav : 1
+ adat : 1
+ adao : 1
+ adam : 1
+ adal : 1
+ adae : 1
+ adab : 1
+ acto : 1
+ acre : 1
+ achy : 1
+ achi : 1
+ ache : 1
+ acce : 1
+ abuj : 1
+ abto : 1
+ abse : 1
+ abou : 1
+ abke : 1
+ abit : 1
+ abhu : 1
+ abhe : 1
+ abba : 1
+ abai : 1
+ aays : 1
+ aayn : 1
+ aawe : 1
+ aavu : 1
+ aavo : 1
+ aaur : 1
+ aasy : 1
+ aasp : 1
+ aaso : 1
+ aare : 1
+ aard : 1
+ aaps : 1
+ aapp : 1
+ aaph : 1
+ aape : 1
+ aamt : 1
+ aamn : 1
+ aami : 1
+ aamb : 1
+ aalu : 1
+ aaku : 1
+ aakj : 1
+ aakd : 1
+ aajo : 1
+ aaji : 1
+ aaik : 1
+ aaid : 1
+ aagx : 1
+ aagr : 1
+ aago : 1
+ aagl : 1
+ aage : 1
+ aadm : 1
+ aade : 1
+ aabo : 1
+ aabh : 1
+ aaaa : 1
