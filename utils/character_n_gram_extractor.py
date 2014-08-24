@@ -33,8 +33,7 @@ def character_ngram_extractor(n, file_='words.txt'):
             if temp != ' ':
                 ngram_list.append((temp, freq))
         elif n == 2:
-            if ngram != ' ':
-                ngram_list.append((temp, freq))
+            ngram_list.append((temp, freq))
         else:
             if (' ' not in temp[1:-1]) and (temp.count(' ') <= 1):
                 ngram_list.append((temp, freq))
