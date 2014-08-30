@@ -17,7 +17,7 @@ def character_ngram_extractor(n, file_='words.txt'):
     words = ' '.join(content)
     n_gram = ngrams(words, n)  # the value of 'n' in n-gram
     fdist = FreqDist(n_gram)   # create frquency distribution
-    freqd = sorted(fdist.iteritems(),
+    freqd = sorted(iter(fdist.items()),
                    key=operator.itemgetter(1))  # sort on frequency
     for ngram, freq in freqd[::-1]:  # descending order
         """
@@ -42,10 +42,10 @@ def character_ngram_extractor(n, file_='words.txt'):
 if __name__ == '__main__':
     import sys
     if len(sys.argv) != 3:
-        print 'Format: python ngram_extractor.py <input-file> n'
+        print('Format: python ngram_extractor.py <input-file> n')
         sys.exit(0)
     else:
         file_ = sys.argv[1]
         n = int(sys.argv[2])
         for ngram, freq in character_ngram_extractor(n, file_):
-            print ''.join(ngram), ":", freq
+            print(''.join(ngram), ":", freq)
