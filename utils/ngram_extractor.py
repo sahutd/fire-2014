@@ -10,7 +10,8 @@ from nltk import FreqDist
 
 
 def character_ngram_extractor(n, file_='words.txt'):
-    words = []
+    if n < 1 or not isinstance(n, int):
+        raise ValueError("'n' should be a positive integer")
     ngram_list = []
     with open(file_) as f:  # words.txt in preprocessed_data folder
         content = f.read().lower().split('\n')

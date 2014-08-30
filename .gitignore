@@ -3,3 +3,6 @@ include/*
 lib/*
 man/*
 build/*
+cover/*
+.coverage
+run_tests.sh
