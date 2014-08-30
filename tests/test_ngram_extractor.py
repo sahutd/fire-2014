@@ -36,7 +36,8 @@ class TestNGramExtractor(unittest.TestCase):
 
     def test_one_gram(self):
         result = cne(1, file_=self.file_)
-        self.assertListEqual([('a', 4), ('b', 2), ('c', 2), ('e', 1)], result)
+        expected = [('a', 4), ('b', 2), ('c', 2), ('e', 1)]
+        self.assertListEqual(sorted(expected), sorted(result))
 
     def test_two_gram(self):
         result = cne(2, file_=self.file_)
