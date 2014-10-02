@@ -1,0 +1,33 @@
+9d;50d;71d;150d;162d;176d;179d;207d;241d;339d;345d;360d;364d;384d;448d;449d;461d;463d;Status	Evaluation successful
+Rows	500
+Tokens	3273
+Micro Average Accuracy	0.938
+Macro Average Accuracy	0.938
+Macro Average Precision	0.911
+Macro Average Recall	0.933
+Macro Average F-measure	0.921
+Precision for class H	0.972
+Recall for class H	0.943
+F-measure for class H	0.957
+Accuracy for class H	0.938
+Tokens for class H	2418
+Precision for class E	0.850
+Recall for class E	0.924
+F-measure for class E	0.886
+Accuracy for class E	0.938
+Tokens for class E	855
+No Mix: Macro Average Precision	0.911
+No Mix: Average Recall	0.933
+No Mix: Average F-measure	0.921
+No Mix: Average Accuracy	0.938
+No Mix: Tokens	3273
+No NE: Macro Average Precision	0.911
+No NE: Average Recall	0.933
+No NE: Average F-measure	0.921
+No NE: Average Accuracy	0.938
+No NE: Tokens	3273
+No Mix and NE: Macro Average Precision	0.911
+No Mix and NE: Average Recall	0.933
+No Mix and NE: Average F-measure	0.921
+No Mix and NE: Average Accuracy	0.938
+No Mix and NE: Tokens	3273
