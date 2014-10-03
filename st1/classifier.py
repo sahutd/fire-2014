@@ -87,6 +87,8 @@ def classify_data(vectorizer, classifier):
 
 
 if __name__ == '__main__':
+    if len(sys.argv) != 2:
+        raise ValueError("Input format: python classifier.py <input-file>")
     vec = get_vectorizer()
     data, labels = get_words_with_labels()
     X, Y = split_into_training_test(data, labels)
