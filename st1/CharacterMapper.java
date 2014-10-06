@@ -1,4 +1,4 @@
-package abe.fire.transliterator;
+//package abe.fire.transliterator;
 
 public class CharacterMapper {
 	/**
@@ -11,7 +11,7 @@ public class CharacterMapper {
 		String split[] = s.split("#");
 		StringBuffer result = new StringBuffer(split.length);
 		for(String t:split){
-			if(!t.equals("!"))//TODO add condition to put half letters in 
+			if(!t.equals("!"))//TODO add condition to put half letters in
 				result.append(""+cMap.get(t));
 		}
 		return result.toString();

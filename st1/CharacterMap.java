@@ -1,4 +1,4 @@
-package abe.fire.transliterator;
+//package abe.fire.transliterator;
 
 import java.util.HashMap;
 
@@ -35,7 +35,7 @@ public class CharacterMap extends HashMap<String,String>{
 		put("eee","\u0948");
 		put("o","\u094B");
 		put("oo","\u094C");
-		
+
 		put("K","\u0915");
 		put("KK","\u0916");
 		put("G","\u0917");
@@ -66,10 +66,10 @@ public class CharacterMap extends HashMap<String,String>{
 		put("SHH","\u0937");
 		put("S","\u0938");
 		put("H","\u0939");
-		
+
 		put("HALF","\u094D");
 		put("DU","\u093C");
 		put("DT","\u0902");
-		
+
 	}
 }

@@ -1,4 +1,4 @@
-package abe.fire.transliterator;
+//package abe.fire.transliterator;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -8,7 +8,7 @@ import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
-import abe.testing.helper.PermutationIterator;
+//import abe.testing.helper.PermutationIterator;
 /**
  * Entire class assumes that all passed Strings are in lowercase.
  * TODO Sanitising strings to lower case
@@ -96,7 +96,7 @@ public class Transliterator {
 				}
 			}
 		}
-		
+
 		else if(index==whole.length-1){//last block of sentence
 			if(block.length()==1){
 				switch((char)block.charAt(0)){
@@ -197,7 +197,7 @@ public class Transliterator {
 			if(block.length()==1){
 				switch((char)block.charAt(0)){
 				case 'a':
-					al.add("!");//! means nothing i.e gap between consonants 
+					al.add("!");//! means nothing i.e gap between consonants
 					al.add("a"); //TODO Consider al.add("AA");
 					break;
 				case 'e':
@@ -301,7 +301,7 @@ public class Transliterator {
 	 * in consonant blocks, position is not as important as in vowels, main determinant is consonant used
 	 * hence position checks are performed later not at the start
 	 * P.S. In vowels position checks determine sound and whether or not sign or letter form should be used
-	 * 
+	 *
 	 * Things to add: starting and ending specialities, besides z in zindagi
 	 * @param whole
 	 * @param index
@@ -383,7 +383,7 @@ public class Transliterator {
 			}
 		}
 		else if(block.length()==2){
-			
+
 			if(block.equals("sh")){
 				al.add("SH");
 				al.add("SHH");
@@ -461,7 +461,7 @@ public class Transliterator {
 		if(al.size()==0){//not been able to find any match
 			block = removeDoubleConsonants(block);
 			/*if(block.contains("sh")){ //TODO handle sh in the middle
-				int sInd = block.indexOf("sh");				
+				int sInd = block.indexOf("sh");
 			}*/
 			String prefix = "";
 			if(block.startsWith("n")){
@@ -478,9 +478,9 @@ public class Transliterator {
 				//spaces to be replaced # symbols. Used just so that we can easily remove trailing # with trim()
 				//if(i!=block.length()-1)
 					//result+="!"+" ";//remove this line to ignore possibility of hamare being written as hamre
-				
+
 				//before enabling '!', you need to write function to produce without ! also
-				//TEMPORARY CODE UNTIL ALL RESULTS CAN BE PROCESSED				
+				//TEMPORARY CODE UNTIL ALL RESULTS CAN BE PROCESSED
 				//END OF TEMP CODE
 			}
 			String temp=prefix;
@@ -593,11 +593,11 @@ public class Transliterator {
 
 		//File testFile = new File("test.htm");
 		//testFile.delete();
-		sa = new String[]{"hamare"};
+		/*sa = new String[]{"hamare"};*/
 		for(String s:sa){
 			String blocks[] = getConsonantVowelBlocks(s);
 			String result[][] = new String[blocks.length][];
-			
+
 			for(int i =0;i<blocks.length;i++){
 				if(isVowel(blocks[i].charAt(0))){
 					result[i]=getVowelBlockPossibilities(blocks, i);
@@ -622,7 +622,7 @@ public class Transliterator {
 				//writeToFile(t,testFile);
 				//writeToFile(mapped, testFile);
 			}
-			System.out.println();
+			/*System.out.println();*/
 		}
 	}
 	public static void writeToFile(String s, File f){
@@ -657,7 +657,7 @@ public class Transliterator {
 			if(isVowel(c)^lastVowel){//if this is a vowel but last wasn't and vice versa
 				al.add(s.substring(beg,i));
 				beg = i;
-				lastVowel = !lastVowel;//if break occured, that means this char was not a vowel if last was a vowel and vice versa				
+				lastVowel = !lastVowel;//if break occured, that means this char was not a vowel if last was a vowel and vice versa
 			}
 		}
 		al.add(s.substring(beg, s.length()));//whatever is remaining i.e last block
