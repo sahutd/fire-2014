@@ -8,6 +8,8 @@ import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer as Vectorizer
 from sklearn.naive_bayes import MultinomialNB as Classifier
 
+from java_glue import predict, get_hindi_words
+
 ENGLISH = 0
 ENGLISH_SUFFIX = r'\E'
 HINDI = 1
@@ -70,10 +72,13 @@ def get_classifier(x_train, y_train):
     return Classifier().fit(x_train, y_train)
 
 
-def classify_data(vectorizer, classifier):
-    input_file = sys.argv[1]
-    with open(input_file) as f:
-        source = list(map(str.split, f.read().splitlines()))
+def classify_data(vectorizer, classifier, output_file=sys.stdout, query=None):
+    if not query:
+        input_file = sys.argv[1]
+        with open(input_file) as f:
+            source = list(map(str.split, f.read().splitlines()))
+    else:
+        source = query
 
     for line in source:
         words = words_ = [i.lower() for i in line]
@@ -82,18 +87,27 @@ def classify_data(vectorizer, classifier):
         output = []
         for w, p in zip(words, prediction):
             suffix = HINDI_SUFFIX if p == HINDI else ENGLISH_SUFFIX
+            if p == HINDI:
+                suffix = suffix + predict(get_hindi_words(w)) + ' '
             output.append(w + suffix)
-        print(' '.join(output))
+        print(' '.join(output), file=output_file)
 
+vec = get_vectorizer()
+data, labels = get_words_with_labels()
+X, Y = split_into_training_test(data, labels)
+# Transform step
+X = vec.fit_transform(X)
+
+classifier = get_classifier(X, Y)
+
+
+def interface():
+    while True:
+        sentence = input()
+        classify_data(vec, classifier, sys.stdout, [[sentence]])
 
 if __name__ == '__main__':
-    if len(sys.argv) != 2:
-        raise ValueError("Input format: python classifier.py <input-file>")
-    vec = get_vectorizer()
-    data, labels = get_words_with_labels()
-    X, Y = split_into_training_test(data, labels)
-    # Transform step
-    X = vec.fit_transform(X)
-
-    classifier = get_classifier(X, Y)
-    classify_data(vec, classifier)
+    #if len(sys.argv) != 2:
+        #raise ValueError("Input format: python classifier.py <input-file>")
+    #classify_data(vec, classifier)
+    interface()
