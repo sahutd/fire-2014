@@ -72,42 +72,39 @@ def get_classifier(x_train, y_train):
     return Classifier().fit(x_train, y_train)
 
 
-def classify_data(vectorizer, classifier, output_file=sys.stdout, query=None):
-    if not query:
-        input_file = sys.argv[1]
-        with open(input_file) as f:
-            source = list(map(str.split, f.read().splitlines()))
-    else:
-        source = query
+def classify_data(vectorizer, classifier, query=None):
+    '''
+    input_file = sys.argv[1]
+    with open(input_file) as f:
+        source = list(map(str.split, f.read().splitlines()))
+    '''
 
-    for line in source:
-        words = words_ = [i.lower() for i in line]
-        words_ = vec.transform(words_)
-        prediction = classifier.predict(words_)
-        output = []
-        for w, p in zip(words, prediction):
-            suffix = HINDI_SUFFIX if p == HINDI else ENGLISH_SUFFIX
-            if p == HINDI:
-                suffix = suffix + predict(get_hindi_words(w)) + ' '
-            output.append(w + suffix)
-        print(' '.join(output), file=output_file)
-
-vec = get_vectorizer()
-data, labels = get_words_with_labels()
-X, Y = split_into_training_test(data, labels)
-# Transform step
-X = vec.fit_transform(X)
-
-classifier = get_classifier(X, Y)
+    line = query
+    words = words_ = [i.lower() for i in line.split()]
+    words_ = vectorizer.transform(words_)
+    prediction = classifier.predict(words_)
+    output = []
+    for w, p in zip(words, prediction):
+        suffix = HINDI_SUFFIX if p == HINDI else ENGLISH_SUFFIX
+        if p == HINDI:
+            suffix = suffix + predict(get_hindi_words(w)) + ' '
+        output.append(w + suffix)
+    print(' '.join(output))
 
 
 def interface():
+    vec = get_vectorizer()
+    data, labels = get_words_with_labels()
+    X, Y = split_into_training_test(data, labels)
+    # Transform step
+    X = vec.fit_transform(X)
+
+    classifier = get_classifier(X, Y)
     while True:
-        sentence = input()
-        classify_data(vec, classifier, sys.stdout, [[sentence]])
+        sentence = input('Enter sentence')
+        classify_data(vec, classifier, query=sentence)
+
+
 
 if __name__ == '__main__':
-    #if len(sys.argv) != 2:
-        #raise ValueError("Input format: python classifier.py <input-file>")
-    #classify_data(vec, classifier)
     interface()
