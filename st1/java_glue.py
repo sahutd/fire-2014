@@ -16,6 +16,10 @@ def get_hindi_words(word):
 
 
 def predict(wordlist):
+    try:
+        return wordlist[0]
+    except:
+        return ''
     max_word = ''
     max_word_score = -1
     for word in wordlist:

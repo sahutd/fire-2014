@@ -16,6 +16,9 @@ import java.util.ArrayList;
  *
  */
 public class Transliterator {
+	final public static int BEGINNING = 1;
+	final public static int MIDDLE = 2;
+	final public static int END = 3;
 	/*public static String[] possibilitiesAt(String s, int index){
 		char c = s.charAt(index);
 		if(isVowel(c)){
@@ -26,6 +29,7 @@ public class Transliterator {
 		}
 		return null;//TODO
 	}*/
+
 	/**
 	 * works for a vowel block
 	 * @param s
@@ -96,7 +100,6 @@ public class Transliterator {
 				}
 			}
 		}
-
 		else if(index==whole.length-1){//last block of sentence
 			if(block.length()==1){
 				switch((char)block.charAt(0)){
@@ -125,8 +128,8 @@ public class Transliterator {
 					al.add("a");
 				}
 				else if(block.equals("ai")){
-					al.add("a#II");//as in bhai
 					al.add("e");//hai as in H#e
+					al.add("a#II");//as in bhai
 					al.add("ee");
 					al.add("a#Y");//consonants added! gai as in cow. Low priority
 				}
@@ -193,6 +196,7 @@ public class Transliterator {
 				}
 			}
 		}
+
 		else{//in the middle
 			if(block.length()==1){
 				switch((char)block.charAt(0)){
@@ -211,8 +215,8 @@ public class Transliterator {
 					al.add("o");//TODO Consider ou later (2 length block)
 					break;
 				case 'u'://TODO check ordering
-					al.add("!");//! means nothing
 					al.add("u");
+					al.add("!");//! means nothing
 					al.add("uu");//TODO very unsure
 					break;
 				}
@@ -244,7 +248,7 @@ public class Transliterator {
 				}
 				//
 				else if(block.equals("eu")){//TODO as part of experiment where consonants replace vowels
-					System.out.println("LOG: END eu");
+					//System.out.println("LOG: END eu");
 					al.add("y#uu");
 					al.add("y#u");
 				}
@@ -295,7 +299,113 @@ public class Transliterator {
 				}
 			}
 		}
+		if(block.length()>2){
+			//start repeated calls until block size is 0
+			//al is base arraylist
+			while(block.length()!=0){
+				ArrayList<String> temp = new ArrayList<String>();
+				if(block.length()==1){
+				//	System.out.println("LOG: single "+temp.toString()+ " block: "+block);
+					block = handleSingleVowels(temp,block,0);
+				//	System.out.println("LOG: single "+temp.toString()+ " block: "+block);
+				}
+				else{
+				//	System.out.println("LOG: double "+temp.toString()+ " block: "+block);
+					block = handleDoubleVowels(temp, block,BEGINNING);
+					//System.out.println("LOG: double "+temp.toString()+ " block: "+block);
+
+				}
+				if(al.size()==0){
+					al = temp;
+				}
+				else{
+				//integrate new changes
+					ArrayList<String> newList = new ArrayList<String>();
+					for(int i=0;i<al.size();i++){
+						for(int j=0;j<temp.size();j++){
+							newList.add(al.get(i)+"#"+temp.get(j));
+						}
+					}
+					al = newList;
+				}
+			}
+		}
+		if(al.size()==0){
+			System.out.println("EMPTY RESULT AT VOWELBLOCKS");
+		}
 		return al.toArray(new String[0]);
+	}
+	/**
+	 * removes handled vowels. Assumes vowels being handled are at the middle.
+	 * @param al
+	 * @param block
+	 * @return returns block with handled vowels
+	 */
+	public static String handleDoubleVowels(ArrayList<String> al, String block, int position){
+		if(position==BEGINNING){
+			if(block.startsWith("aa")){
+				al.add("AA");
+			}
+			else if(block.startsWith("ai")){
+				al.add("EE");
+			}
+			else if(block.startsWith("au")){
+				al.add("OO");
+			}
+			else if(block.startsWith("ea")){//TODO check actually
+				al.add("I");
+				al.add("II");
+			}
+			else if(block.startsWith("ee")){
+				al.add("II");//TODO Consider I
+			}
+			else if(block.startsWith("ei")){
+				al.add("EEE");//TODO consider E, EE
+				al.add("E");//TODO unsure
+			}
+				//
+			else if(block.startsWith("eu")){//TODO as part of experiment where consonants replace vowels
+				al.add("y#uu");
+				al.add("y#u");
+			}
+			//TODO ia, ie, ii, io, iu
+			//TODO oa, oe, oi
+			else if(block.startsWith("ou")){
+				al.add("OO");
+			}
+			else if(block.startsWith("oo")){
+				al.add("UU");
+				al.add("U");
+			}
+			else if(block.startsWith("uu")){
+				al.add("UU");
+				al.add("U");
+			}
+		}
+		return block.substring(2,block.length());
+	}
+	/**
+	 * removes handled vowels
+	 */
+	public static String handleSingleVowels(ArrayList<String> al, String block, int position){
+			switch((char)block.charAt(0)){
+			case 'a':
+				al.add("A"); //TODO Consider al.add("AA");
+				break;
+			case 'e':
+				al.add("E");//TODO Consider eh, ehhh, ai sounds
+				break;
+			case 'i':
+				al.add("I"); //TODO Consider II
+				break;
+			case 'o':
+				al.add("O");//TODO Consider fully
+				break;
+			case 'u':
+				al.add("U");//TODO Consider UU
+				break;
+		}
+			return block.replaceFirst(""+block.charAt(0), "");
 	}
 	/**
 	 * in consonant blocks, position is not as important as in vowels, main determinant is consonant used
@@ -322,8 +432,8 @@ public class Transliterator {
 				al.add("K");//KK can be added as low priority
 				break;
 			case 'd':
-				al.add("D");//da sound
 				al.add("D2");//dha sound
+				al.add("D");//da sound
 				al.add("DD2");//ddha sound
 				break;
 			case 'f':
@@ -363,12 +473,12 @@ public class Transliterator {
 				al.add("S");
 				break;
 			case 't':
-				al.add("T");
 				al.add("TH");//close competition
+				al.add("T");
 				al.add("TT");
 				break;
 			case 'v':
-				al.add("V");
+				al.add("V");//what's difference b/w v and w?
 				break;
 			case 'w':
 				al.add("W");
@@ -384,13 +494,21 @@ public class Transliterator {
 		}
 		else if(block.length()==2){
 
-			if(block.equals("sh")){
+			if(block.startsWith("sh")){
 				al.add("SH");
 				al.add("SHH");
 			}
+			else if(block.startsWith("th")){
+				al.add("TH");
+				al.add("THH");
+			}
+			else if(block.startsWith("ch")){
+				al.add("C");
+				al.add("CH");
+			}
 			//ending with h rules. TODO should be applied at the end of removeDoubleConsonants Eg: zindhagi
 			else if(block.endsWith("H")){
-				char c = block.charAt(0);
+				/*char c = block.charAt(0);
 				switch(c){
 				case 'b':
 					al.add("BB");
@@ -455,7 +573,8 @@ public class Transliterator {
 				case 'z':
 					al.add("J#DU");//DU dot under
 					break;
-				}
+				}*/
+				ifEndsWithH(al,block);
 			}
 		}
 		if(al.size()==0){//not been able to find any match
@@ -504,6 +623,77 @@ public class Transliterator {
 		//reduce and try for above two block lengths if possible
 		return al.toArray(new String[0]);
 	}
+	public static void ifEndsWithH(ArrayList<String> al, String block){
+		char c = block.charAt(0);
+		switch(c){
+		case 'b':
+			al.add("BB");
+			break;
+		case 'c':
+			al.add("C");
+			al.add("CH");
+			break;
+		case 'd':
+			al.add("D2");
+			al.add("DD2");
+			al.add("DD");
+			al.add("D");
+			break;
+		case 'f':
+			al.add("PP");
+			break;
+		case 'g':
+			al.add("GG");//not considered g
+			al.add("G");
+			break;
+		case 'h':
+			al.add("H");
+			break;
+		case 'j':
+			al.add("J");
+			al.add("JJ");//not considered j
+			break;
+		case 'k':
+			al.add("K");
+			al.add("KK");//not considered k
+			break;
+		case 'l':
+			al.add("L");//should make space for ':' symbol
+			break;
+		case 'm':
+			al.add("M");
+			break;
+		case 'n':
+			al.add("N");
+			break;
+		case 'p':
+			al.add("PP");
+			break;
+		case 'q':
+			al.add("K");
+			al.add("KK");
+			break;
+		case 'r':
+			al.add("R");
+			break;
+		case 't':
+			al.add("TH");
+			al.add("THH");
+			break;
+		case 'v':
+			al.add("V");
+			break;
+		case 'w':
+			al.add("V");
+			break;
+		case 'y':
+			al.add("Y");
+			break;
+		case 'z':
+			al.add("J#DU");//DU dot under
+			break;
+		}
+	}
 	public static String[] getUnitConstantPossibilities(String whole[], int index, char c){
 			ArrayList<String> al = new ArrayList<String>();
 			//char c = block.charAt(0);
@@ -519,8 +709,8 @@ public class Transliterator {
 				//possible implementation could involve an integer array being passed saying how many letters of the same type were present/a measure of stress to be applied
 				break;
 			case 'd':
-				al.add("D");//da sound
 				al.add("D2");//dha sound
+				al.add("D");//da sound
 				al.add("DD2");//ddha sound
 				break;
 			case 'f':
@@ -560,8 +750,8 @@ public class Transliterator {
 				al.add("S");
 				break;
 			case 't':
-				al.add("T");
 				al.add("TH");//close competition
+				al.add("T");
 				al.add("TT");
 				break;
 			case 'v':
@@ -590,10 +780,9 @@ public class Transliterator {
 		return s;
 	}
 	public static void main(String sa[]){
-
+		//sa = new String[]{"dubara","cumpyuter","aao"};//TEST
 		//File testFile = new File("test.htm");
 		//testFile.delete();
-		/*sa = new String[]{"hamare"};*/
 		for(String s:sa){
 			String blocks[] = getConsonantVowelBlocks(s);
 			String result[][] = new String[blocks.length][];
@@ -606,12 +795,13 @@ public class Transliterator {
 					result[i]=getConsonantBlockPosibilities(blocks, i);
 				}
 			}
-			/*for(String test[]: result){
+			/*for(String test[]: result){//dont bring back
 				for(String t: test){
 					System.out.print(t);
 				}
 				System.out.println();
 			}*/
+
 			PermutationIterator<String> pi = new PermutationIterator<String>(result);
 			while(pi.hasNext()){
 				String t = pi.getNextPermutation();
@@ -622,7 +812,7 @@ public class Transliterator {
 				//writeToFile(t,testFile);
 				//writeToFile(mapped, testFile);
 			}
-			/*System.out.println();*/
+			System.out.println();
 		}
 	}
 	public static void writeToFile(String s, File f){

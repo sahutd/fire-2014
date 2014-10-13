@@ -72,27 +72,37 @@ def get_classifier(x_train, y_train):
     return Classifier().fit(x_train, y_train)
 
 
+def is_word(word):
+    for i in word:
+        if not i.isalpha():
+            return False
+    return True
+
+
 def classify_data(vectorizer, classifier, query=None):
-    '''
     input_file = sys.argv[1]
     with open(input_file) as f:
         source = list(map(str.split, f.read().splitlines()))
-    '''
 
-    line = query
-    words = words_ = [i.lower() for i in line.split()]
-    words_ = vectorizer.transform(words_)
-    prediction = classifier.predict(words_)
-    output = []
-    for w, p in zip(words, prediction):
-        suffix = HINDI_SUFFIX if p == HINDI else ENGLISH_SUFFIX
-        if p == HINDI:
-            suffix = suffix + predict(get_hindi_words(w)) + ' '
-        output.append(w + suffix)
-    print(' '.join(output))
+    for line in source:
+        words = words_ = [i.lower() for i in line]
+        words_ = vectorizer.transform(words_)
+        prediction = classifier.predict(words_)
+        output = []
+        for w, p in zip(words, prediction):
+            if is_word(w):
+                suffix = HINDI_SUFFIX if p == HINDI else ENGLISH_SUFFIX
+                if p == HINDI:
+                    suffix = suffix + predict(get_hindi_words(w)) + ' '
+                output.append(w + suffix)
+            else:
+                output.append(w)
+        print(' '.join(output))
 
 
-def interface():
+if __name__ == '__main__':
+    if len(sys.argv) != 2:
+        raise ValueError("Input format: python classifier.py <input-file>")
     vec = get_vectorizer()
     data, labels = get_words_with_labels()
     X, Y = split_into_training_test(data, labels)
@@ -100,11 +110,4 @@ def interface():
     X = vec.fit_transform(X)
 
     classifier = get_classifier(X, Y)
-    while True:
-        sentence = input('Enter sentence')
-        classify_data(vec, classifier, query=sentence)
-
-
-
-if __name__ == '__main__':
-    interface()
+    classify_data(vec, classifier)

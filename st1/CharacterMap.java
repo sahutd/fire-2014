@@ -61,6 +61,7 @@ public class CharacterMap extends HashMap<String,String>{
 		put("Y","\u092F");
 		put("R","\u0930");
 		put("L","\u0932");
+		put("V","\u0935");
 		put("W","\u0935");
 		put("SH","\u0936");
 		put("SHH","\u0937");
@@ -71,5 +72,15 @@ public class CharacterMap extends HashMap<String,String>{
 		put("DU","\u093C");
 		put("DT","\u0902");
 
+	}
+	public static boolean isConsonant(String t){
+		if(t.equals("K")|t.equals("KK")|t.equals("G")|t.equals("GG")|t.equals("C")|t.equals("CH")
+				|t.equals("J")|t.equals("JJ")|t.equals("T")|t.equals("TT")|t.equals("D")|
+				t.equals("DD")|t.equals("TH")|t.equals("THH")|t.equals("D2")|t.equals("N")|
+				t.equals("P")|t.equals("PP")|t.equals("B")|t.equals("BB")|t.equals("M")|
+				t.equals("Y")|t.equals("R")|t.equals("L")|t.equals("SH")|t.equals("SHH")|
+				t.equals("S")|t.equals("H"))
+			return true;
+		return false;
 	}
 }

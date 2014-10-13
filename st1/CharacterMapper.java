@@ -10,9 +10,14 @@ public class CharacterMapper {
 		CharacterMap cMap = new CharacterMap();
 		String split[] = s.split("#");
 		StringBuffer result = new StringBuffer(split.length);
+		boolean lastConsonant=false;
 		for(String t:split){
+			boolean isConsonant = CharacterMap.isConsonant(t);
+			if(lastConsonant&&isConsonant)
+				result.append(""+cMap.get("HALF"));
 			if(!t.equals("!"))//TODO add condition to put half letters in
 				result.append(""+cMap.get(t));
+			lastConsonant = isConsonant;
 		}
 		return result.toString();
 	}
